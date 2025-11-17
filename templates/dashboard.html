@@ -1,0 +1,131 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard - SmartFinanceAI{% endblock %}
+
+{% block content %}
+<div class="dashboard-header mb-4">
+    <h1 class="text-red"><i class="fas fa-tachometer-alt"></i> Financial Dashboard</h1>
+    <p class="lead">AI-powered insights into your financial health</p>
+</div>
+
+{% if error %}
+<div class="alert alert-danger">
+    <i class="fas fa-exclamation-triangle"></i> {{ error }}
+</div>
+{% else %}
+<!-- Summary Cards -->
+<div class="row mb-4">
+    <div class="col-md-3">
+        <div class="stat-card income">
+            <i class="fas fa-money-bill-wave"></i>
+            <h3>Rp {{ "%.0f"|format(total_income) }}</h3>
+            <p>Total Income</p>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="stat-card expense">
+            <i class="fas fa-shopping-cart"></i>
+            <h3>Rp {{ "%.0f"|format(total_expenses) }}</h3>
+            <p>Total Expenses</p>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="stat-card savings">
+            <i class="fas fa-piggy-bank"></i>
+            <h3>Rp {{ "%.0f"|format(savings) }}</h3>
+            <p>Total Savings</p>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="stat-card prediction">
+            <i class="fas fa-crystal-ball"></i>
+            <h3>Rp {{ "%.0f"|format(prediction.predicted_amount) if prediction else 0 }}</h3>
+            <p>Next Month Prediction</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <!-- Prediction Section -->
+    <div class="col-md-6">
+        {% if prediction %}
+        <div class="card mb-4">
+            <div class="card-header bg-red text-white">
+                <h5 class="mb-0"><i class="fas fa-crystal-ball"></i> Next Month Prediction</h5>
+            </div>
+            <div class="card-body">
+                <div class="prediction-details">
+                    <div class="mb-3">
+                        <strong>Amount:</strong> Rp {{ "%.0f"|format(prediction.predicted_amount) }}
+                    </div>
+                    <div class="mb-3">
+                        <strong>Trend:</strong> 
+                        <span class="badge bg-{{ 'success' if prediction.trend == 'decreasing' else 'warning' }}">
+                            {{ prediction.trend|upper }}
+                        </span>
+                    </div>
+                    <div class="mb-3">
+                        <strong>Confidence:</strong> 
+                        <span class="badge bg-{{ 'success' if prediction.confidence > 0.8 else 'warning' }}">
+                            {{ "%.1f"|format(prediction.confidence * 100) }}%
+                        </span>
+                    </div>
+                    <div class="mb-3">
+                        <strong>Expected Range:</strong><br>
+                        Rp {{ "%.0f"|format(prediction.range.min) }} - Rp {{ "%.0f"|format(prediction.range.max) }}
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+
+        <!-- Quick Insights -->
+        <div class="card">
+            <div class="card-header bg-red text-white">
+                <h5 class="mb-0"><i class="fas fa-bolt"></i> Quick Insights</h5>
+            </div>
+            <div class="card-body">
+                {% if insights %}
+                    {% for insight in insights[:3] %}
+                    <div class="insight-item mb-3 p-2 insight-{{ insight.priority }}">
+                        <strong>{{ insight.title }}</strong><br>
+                        <small>{{ insight.message }}</small>
+                    </div>
+                    {% endfor %}
+                {% else %}
+                    <p class="text-muted">No insights available</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    <!-- Category Spending -->
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header bg-red text-white">
+                <h5 class="mb-0"><i class="fas fa-chart-pie"></i> Spending by Category</h5>
+            </div>
+            <div class="card-body">
+                {% if category_spending %}
+                    {% for category, amount in category_spending.items() %}
+                    <div class="category-item mb-2">
+                        <div class="d-flex justify-content-between">
+                            <span>{{ category }}</span>
+                            <span>Rp {{ "%.0f"|format(amount) }}</span>
+                        </div>
+                        <div class="progress mb-2">
+                            <div class="progress-bar bg-red" style="width: {{ (amount / total_expenses * 100) if total_expenses > 0 else 0 }}%">
+                                {{ "%.1f"|format((amount / total_expenses * 100) if total_expenses > 0 else 0) }}%
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                {% else %}
+                    <p class="text-muted">No category data available</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}
+{% endblock %}

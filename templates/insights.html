@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block title %}AI Insights - SmartFinanceAI{% endblock %}
+
+{% block content %}
+<div class="insights-header mb-4">
+    <h1 class="text-red"><i class="fas fa-chart-line"></i> AI Insights</h1>
+    <p class="lead">Actionable intelligence for better financial decisions</p>
+</div>
+
+{% if error %}
+<div class="alert alert-danger">
+    <i class="fas fa-exclamation-triangle"></i> {{ error }}
+</div>
+{% else %}
+{% if insights %}
+<div class="row">
+    {% for insight in insights %}
+    <div class="col-12 mb-4">
+        <div class="insight-card insight-{{ insight.priority }}">
+            <div class="insight-header">
+                <h4>
+                    <i class="fas fa-{{ 'exclamation-triangle' if insight.priority == 'high' else 'info-circle' if insight.priority == 'medium' else 'check-circle' }}"></i>
+                    {{ insight.title }}
+                </h4>
+                <span class="priority-badge {{ insight.priority }}">
+                    {{ insight.priority|upper }}
+                </span>
+            </div>
+            <div class="insight-body">
+                <p class="insight-message">{{ insight.message }}</p>
+                <div class="insight-recommendation">
+                    <strong><i class="fas fa-lightbulb"></i> Recommendation:</strong><br>
+                    {{ insight.recommendation }}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% else %}
+<div class="alert alert-info">
+    <i class="fas fa-info-circle"></i> No insights available.
+</div>
+{% endif %}
+{% endif %}
+{% endblock %}

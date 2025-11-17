@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+
+{% block title %}Home - SmartFinanceAI{% endblock %}
+
+{% block content %}
+<div class="hero-section text-center py-5 mb-5">
+    <div class="container">
+        <h1 class="display-4 fw-bold text-red mb-4">
+            <i class="fas fa-brain"></i> SmartFinanceAI
+        </h1>
+        <p class="lead mb-4">AI-Powered Personal Financial Intelligence Platform</p>
+        <p class="mb-5">Get intelligent insights from your existing financial data</p>
+        
+        <div class="row g-4">
+            <div class="col-md-3">
+                <div class="feature-card">
+                    <i class="fas fa-chart-line"></i>
+                    <h4>Spending Prediction</h4>
+                    <p>AI predicts your future expenses</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="feature-card">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    <h4>Anomaly Detection</h4>
+                    <p>Detect unusual spending patterns</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="feature-card">
+                    <i class="fas fa-lightbulb"></i>
+                    <h4>Smart Budgeting</h4>
+                    <p>Personalized budget recommendations</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="feature-card">
+                    <i class="fas fa-robot"></i>
+                    <h4>AI Insights</h4>
+                    <p>Actionable financial advice</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="mt-5">
+            <a href="{{ url_for('dashboard') }}" class="btn btn-red btn-lg me-3">
+                <i class="fas fa-tachometer-alt"></i> View Dashboard
+            </a>
+            <a href="{{ url_for('add_transaction') }}" class="btn btn-outline-red btn-lg">
+                <i class="fas fa-plus"></i> Add Transaction
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="info-card">
+                <h3><i class="fas fa-database"></i> Your Data</h3>
+                <ul>
+                    <li>Using your existing transaction data</li>
+                    <li>Pre-trained AI model</li>
+                    <li>No additional training needed</li>
+                    <li>Real-time analysis</li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="info-card">
+                <h3><i class="fas fa-chart-pie"></i> Features</h3>
+                <ul>
+                    <li>Spending prediction</li>
+                    <li>Anomaly detection</li>
+                    <li>Budget recommendations</li>
+                    <li>Financial insights</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

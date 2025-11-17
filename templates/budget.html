@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+
+{% block title %}Budget Recommendations - SmartFinanceAI{% endblock %}
+
+{% block content %}
+<div class="budget-header mb-4">
+    <h1 class="text-red"><i class="fas fa-lightbulb"></i> Budget Recommendations</h1>
+    <p class="lead">AI-powered personalized budget suggestions</p>
+</div>
+
+{% if error %}
+<div class="alert alert-danger">
+    <i class="fas fa-exclamation-triangle"></i> {{ error }}
+</div>
+{% else %}
+{% if budget_recommendations %}
+<div class="row">
+    {% for category, recommendation in budget_recommendations.items() %}
+    <div class="col-md-6 mb-4">
+        <div class="budget-card {{ recommendation.status }}">
+            <div class="budget-header">
+                <h4>{{ category }}</h4>
+                <span class="status-badge {{ recommendation.status }}">
+                    {{ recommendation.status.replace('_', ' ')|title }}
+                </span>
+            </div>
+            
+            <div class="budget-details">
+                <div class="budget-row">
+                    <span>Recommended:</span>
+                    <strong>Rp {{ "%.0f"|format(recommendation.recommended_monthly) }}/month</strong>
+                </div>
+                <div class="budget-row">
+                    <span>Current Average:</span>
+                    <span>Rp {{ "%.0f"|format(recommendation.current_average) }}/month</span>
+                </div>
+                <div class="budget-row">
+                    <span>Difference:</span>
+                    <span class="difference {{ 'positive' if recommendation.difference > 0 else 'negative' }}">
+                        Rp {{ "%.0f"|format(recommendation.difference) }}
+                    </span>
+                </div>
+            </div>
+            
+            <div class="budget-progress">
+                <div class="progress">
+                    {% set percentage = (recommendation.current_average / recommendation.recommended_monthly * 100) if recommendation.recommended_monthly > 0 else 100 %}
+                    <div class="progress-bar {{ 'bg-success' if percentage <= 100 else 'bg-danger' }}" 
+                         style="width: {{ min(percentage, 100) }}%">
+                        {{ "%.1f"|format(percentage) }}%
+                    </div>
+                </div>
+            </div>
+            
+            <div class="budget-advice">
+                {% if recommendation.status == 'over_budget' %}
+                <small class="text-danger">
+                    <i class="fas fa-exclamation-circle"></i>
+                    Consider reducing spending in this category
+                </small>
+                {% else %}
+                <small class="text-success">
+                    <i class="fas fa-check-circle"></i>
+                    You're within budget for this category
+                </small>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% else %}
+<div class="alert alert-info">
+    <i class="fas fa-info-circle"></i> No budget recommendations available.
+</div>
+{% endif %}
+{% endif %}
+{% endblock %}

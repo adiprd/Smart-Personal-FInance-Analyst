@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+
+{% block title %}Anomaly Detection - SmartFinanceAI{% endblock %}
+
+{% block content %}
+<div class="anomalies-header mb-4">
+    <h1 class="text-red"><i class="fas fa-exclamation-triangle"></i> Anomaly Detection</h1>
+    <p class="lead">AI-detected unusual spending patterns</p>
+</div>
+
+{% if error %}
+<div class="alert alert-danger">
+    <i class="fas fa-exclamation-triangle"></i> {{ error }}
+</div>
+{% else %}
+{% if anomalies %}
+<div class="alert alert-warning">
+    <i class="fas fa-info-circle"></i> Found {{ anomalies|length }} unusual transactions
+</div>
+
+<div class="row">
+    {% for anomaly in anomalies %}
+    <div class="col-md-6 mb-3">
+        <div class="anomaly-card anomaly-{{ anomaly.severity }}">
+            <div class="anomaly-header">
+                <h5>
+                    <i class="fas fa-{{ 'fire' if anomaly.severity == 'high' else 'exclamation' }}"></i>
+                    {{ anomaly.category }} - {{ anomaly.date }}
+                </h5>
+                <span class="badge bg-{{ 'danger' if anomaly.severity == 'high' else 'warning' }}">
+                    {{ anomaly.severity|upper }}
+                </span>
+            </div>
+            <div class="anomaly-body">
+                <p><strong>Amount:</strong> Rp {{ "%.0f"|format(anomaly.amount) }}</p>
+                <p><strong>Expected Range:</strong> {{ anomaly.expected_range }}</p>
+                <p><strong>Z-Score:</strong> {{ "%.2f"|format(anomaly.z_score) }}</p>
+                <p><strong>Message:</strong> {{ anomaly.message }}</p>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% else %}
+<div class="alert alert-success">
+    <i class="fas fa-check-circle"></i> No anomalies detected! All transactions appear normal.
+</div>
+{% endif %}
+{% endif %}
+{% endblock %}
