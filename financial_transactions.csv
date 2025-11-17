@@ -1,0 +1,1001 @@
+transaction_id,date,time,type,category,amount,merchant,description,payment_method,datetime,month,day_of_week,day_of_month,hour
+TRX00970,2024-11-22,06:43,expense,Health,623878.35,Perum Gunawan,Autem aspernatur velit.,Credit Card,2024-11-22 06:43:00,2024-11,Friday,22,6
+TRX00618,2024-11-22,06:56,income,Salary,3370294.85,CV Tamba Handayani,Income received,Bank Transfer,2024-11-22 06:56:00,2024-11,Friday,22,6
+TRX00455,2024-11-22,02:03,expense,Education,4398739.31,PT Mahendra,Quibusdam asperiores placeat.,Credit Card,2024-11-22 02:03:00,2024-11,Friday,22,2
+TRX00702,2024-11-23,18:25,income,Business,10914129.22,Perum Widodo Sihombing,Income received,Bank Transfer,2024-11-23 18:25:00,2024-11,Saturday,23,18
+TRX00195,2024-11-25,12:33,income,Business,11198206.28,PD Marpaung,Income received,Bank Transfer,2024-11-25 12:33:00,2024-11,Monday,25,12
+TRX00404,2024-11-25,23:36,expense,Entertainment,600984.6,CV Hutasoit Waluyo (Persero) Tbk,Sit voluptatibus quaerat repellendus.,Credit Card,2024-11-25 23:36:00,2024-11,Monday,25,23
+TRX00605,2024-11-25,16:22,income,Salary,6389669.12,PT Nasyiah Pranowo,Income received,Bank Transfer,2024-11-25 16:22:00,2024-11,Monday,25,16
+TRX00571,2024-11-25,22:04,expense,Food,274753.93,UD Wibowo,Quas ducimus placeat.,E-Wallet,2024-11-25 22:04:00,2024-11,Monday,25,22
+TRX00894,2024-11-25,21:25,expense,Entertainment,254170.7,CV Wahyudin,Omnis nisi aliquam voluptatem.,Credit Card,2024-11-25 21:25:00,2024-11,Monday,25,21
+TRX00781,2024-11-26,15:48,income,Business,8548694.12,PD Kurniawan Usada,Income received,Bank Transfer,2024-11-26 15:48:00,2024-11,Tuesday,26,15
+TRX00359,2024-11-26,01:10,expense,Transport,229962.26,UD Anggriawan Samosir Tbk,Perferendis earum dolores.,Credit Card,2024-11-26 01:10:00,2024-11,Tuesday,26,1
+TRX00577,2024-11-26,10:55,expense,Food,84451.93,PD Latupono (Persero) Tbk,Quam accusamus rem voluptatibus.,Debit Card,2024-11-26 10:55:00,2024-11,Tuesday,26,10
+TRX00108,2024-11-26,00:53,income,Salary,8764440.98,CV Nashiruddin,Income received,Bank Transfer,2024-11-26 00:53:00,2024-11,Tuesday,26,0
+TRX00303,2024-11-26,01:00,expense,Education,4271518.8,PD Firgantoro,Itaque quia numquam modi at.,Debit Card,2024-11-26 01:00:00,2024-11,Tuesday,26,1
+TRX00773,2024-11-27,01:37,expense,Health,2844126.32,PD Saragih,Ducimus laboriosam adipisci quis.,Credit Card,2024-11-27 01:37:00,2024-11,Wednesday,27,1
+TRX00423,2024-11-28,14:17,income,Investment Return,10965476.23,PD Yuniar Kurniawan,Income received,Bank Transfer,2024-11-28 14:17:00,2024-11,Thursday,28,14
+TRX00188,2024-11-28,22:20,expense,Food,32735.46,PT Prasetyo Tbk,Blanditiis necessitatibus quos.,Cash,2024-11-28 22:20:00,2024-11,Thursday,28,22
+TRX00442,2024-11-29,15:42,expense,Shopping,695007.79,UD Mansur Usamah Tbk,Natus facere deleniti.,Debit Card,2024-11-29 15:42:00,2024-11,Friday,29,15
+TRX00874,2024-11-29,00:02,expense,Entertainment,751580.58,Perum Namaga Tbk,Libero voluptatibus excepturi nesciunt ea.,Cash,2024-11-29 00:02:00,2024-11,Friday,29,0
+TRX00700,2024-11-29,07:44,expense,Food,123158.07,UD Rajata (Persero) Tbk,Quidem hic iure.,Debit Card,2024-11-29 07:44:00,2024-11,Friday,29,7
+TRX00379,2024-11-29,14:31,expense,Health,1568239.88,UD Winarno Nasyidah,Harum voluptatibus.,Cash,2024-11-29 14:31:00,2024-11,Friday,29,14
+TRX00130,2024-11-29,19:14,expense,Bills,851226.9,PD Adriansyah (Persero) Tbk,Doloribus numquam delectus veniam.,E-Wallet,2024-11-29 19:14:00,2024-11,Friday,29,19
+TRX00832,2024-11-29,03:27,expense,Investment,1455032.69,CV Suwarno,Debitis soluta tenetur quae.,Credit Card,2024-11-29 03:27:00,2024-11,Friday,29,3
+TRX00302,2024-11-29,22:07,expense,Food,94958.65,UD Saragih (Persero) Tbk,Earum mollitia pariatur.,Debit Card,2024-11-29 22:07:00,2024-11,Friday,29,22
+TRX00103,2024-11-29,03:25,income,Investment Return,7240226.74,CV Putra (Persero) Tbk,Income received,Bank Transfer,2024-11-29 03:25:00,2024-11,Friday,29,3
+TRX00326,2024-11-30,09:07,expense,Investment,7929502.3,Perum Novitasari (Persero) Tbk,Ratione soluta magnam doloribus fugit.,Cash,2024-11-30 09:07:00,2024-11,Saturday,30,9
+TRX00090,2024-11-30,16:37,expense,Shopping,259802.93,CV Pangestu Laksmiwati (Persero) Tbk,Deleniti a eos.,Cash,2024-11-30 16:37:00,2024-11,Saturday,30,16
+TRX00825,2024-12-02,12:06,expense,Health,449605.63,PT Wahyudin Maryadi Tbk,Vero veritatis ad aperiam tenetur.,E-Wallet,2024-12-02 12:06:00,2024-12,Monday,2,12
+TRX00736,2024-12-02,11:57,expense,Education,1532146.0,PD Astuti Dongoran,Architecto dolor possimus quidem dolor.,E-Wallet,2024-12-02 11:57:00,2024-12,Monday,2,11
+TRX00190,2024-12-02,02:22,expense,Transport,24755.01,PD Wijayanti,Quos explicabo eaque deleniti.,E-Wallet,2024-12-02 02:22:00,2024-12,Monday,2,2
+TRX00102,2024-12-03,07:37,expense,Investment,5100910.78,PT Sitorus Ramadan,Maiores dolor nam suscipit.,E-Wallet,2024-12-03 07:37:00,2024-12,Tuesday,3,7
+TRX00342,2024-12-03,07:19,expense,Shopping,1002284.43,PD Wacana,Molestias rerum sapiente.,Debit Card,2024-12-03 07:19:00,2024-12,Tuesday,3,7
+TRX00127,2024-12-03,16:13,expense,Transport,109078.36,PD Rahmawati Anggriawan,Consequatur autem repudiandae alias.,Credit Card,2024-12-03 16:13:00,2024-12,Tuesday,3,16
+TRX00277,2024-12-03,12:50,expense,Bills,406899.58,CV Wijaya Nurdiyanti Tbk,Id consectetur suscipit voluptates fugiat.,Credit Card,2024-12-03 12:50:00,2024-12,Tuesday,3,12
+TRX00831,2024-12-03,16:16,expense,Entertainment,264775.12,UD Hidayanto Agustina,A ipsum harum hic.,Cash,2024-12-03 16:16:00,2024-12,Tuesday,3,16
+TRX00210,2024-12-03,18:07,expense,Investment,6750544.47,UD Lailasari (Persero) Tbk,Error rerum dolor.,Cash,2024-12-03 18:07:00,2024-12,Tuesday,3,18
+TRX00245,2024-12-03,12:45,income,Business,14774234.14,PD Mansur Tbk,Income received,Bank Transfer,2024-12-03 12:45:00,2024-12,Tuesday,3,12
+TRX00536,2024-12-04,01:38,expense,Education,2305877.11,CV Salahudin (Persero) Tbk,Voluptatum cum blanditiis repellendus.,Credit Card,2024-12-04 01:38:00,2024-12,Wednesday,4,1
+TRX00804,2024-12-04,22:14,expense,Shopping,1264312.09,PD Mangunsong Safitri (Persero) Tbk,Dicta dolorum cupiditate.,Credit Card,2024-12-04 22:14:00,2024-12,Wednesday,4,22
+TRX00541,2024-12-05,19:52,expense,Health,2421677.6,CV Mahendra Salahudin,Quisquam repellendus.,Debit Card,2024-12-05 19:52:00,2024-12,Thursday,5,19
+TRX00365,2024-12-05,21:04,income,Freelance,5982963.09,CV Simbolon Hardiansyah,Income received,Bank Transfer,2024-12-05 21:04:00,2024-12,Thursday,5,21
+TRX00134,2024-12-06,22:36,income,Investment Return,3240854.37,PD Prayoga Handayani,Income received,Bank Transfer,2024-12-06 22:36:00,2024-12,Friday,6,22
+TRX00914,2024-12-07,08:59,expense,Investment,3322935.36,PD Palastri Nurdiyanti,Occaecati praesentium quaerat.,Cash,2024-12-07 08:59:00,2024-12,Saturday,7,8
+TRX00897,2024-12-07,03:36,expense,Entertainment,126584.63,PD Mangunsong (Persero) Tbk,Alias nesciunt cum quisquam sint.,E-Wallet,2024-12-07 03:36:00,2024-12,Saturday,7,3
+TRX00197,2024-12-08,11:22,expense,Health,364407.25,PT Najmudin Anggriawan,Quasi voluptates laudantium porro.,Debit Card,2024-12-08 11:22:00,2024-12,Sunday,8,11
+TRX00246,2024-12-08,01:59,income,Investment Return,9479824.56,Perum Mandasari,Income received,Bank Transfer,2024-12-08 01:59:00,2024-12,Sunday,8,1
+TRX00250,2024-12-08,09:53,expense,Food,186023.87,Perum Saptono Maulana Tbk,Modi sit dolore itaque.,Debit Card,2024-12-08 09:53:00,2024-12,Sunday,8,9
+TRX00174,2024-12-08,11:58,expense,Entertainment,183814.17,Perum Firmansyah,Molestias cupiditate.,E-Wallet,2024-12-08 11:58:00,2024-12,Sunday,8,11
+TRX00788,2024-12-09,02:21,income,Investment Return,10884365.98,UD Prayoga,Income received,Bank Transfer,2024-12-09 02:21:00,2024-12,Monday,9,2
+TRX00053,2024-12-09,21:57,expense,Education,4685075.76,Perum Rahayu Nababan (Persero) Tbk,Dolores iusto excepturi corporis.,Debit Card,2024-12-09 21:57:00,2024-12,Monday,9,21
+TRX00334,2024-12-10,09:31,expense,Health,858773.97,UD Siregar Winarsih (Persero) Tbk,Dolorum culpa doloribus.,Debit Card,2024-12-10 09:31:00,2024-12,Tuesday,10,9
+TRX00584,2024-12-10,05:53,income,Freelance,14774134.04,Perum Zulaika Tbk,Income received,Bank Transfer,2024-12-10 05:53:00,2024-12,Tuesday,10,5
+TRX00394,2024-12-10,06:43,income,Business,13525661.3,PT Widiastuti Nainggolan,Income received,Bank Transfer,2024-12-10 06:43:00,2024-12,Tuesday,10,6
+TRX00679,2024-12-10,14:41,expense,Investment,2545245.17,PD Andriani (Persero) Tbk,Repellendus illo fugit.,Debit Card,2024-12-10 14:41:00,2024-12,Tuesday,10,14
+TRX00180,2024-12-10,13:50,income,Business,9331772.76,PD Sirait Tbk,Income received,Bank Transfer,2024-12-10 13:50:00,2024-12,Tuesday,10,13
+TRX00232,2024-12-11,09:34,expense,Bills,1161533.87,PT Widiastuti Samosir,Debitis quam nostrum.,Debit Card,2024-12-11 09:34:00,2024-12,Wednesday,11,9
+TRX00400,2024-12-11,22:05,expense,Entertainment,882818.22,PD Ramadan (Persero) Tbk,Amet vitae.,Cash,2024-12-11 22:05:00,2024-12,Wednesday,11,22
+TRX00317,2024-12-12,22:15,income,Business,3855363.24,PT Nainggolan,Income received,Bank Transfer,2024-12-12 22:15:00,2024-12,Thursday,12,22
+TRX00559,2024-12-12,12:56,expense,Entertainment,832143.96,CV Maryati,Nam reprehenderit cupiditate.,Debit Card,2024-12-12 12:56:00,2024-12,Thursday,12,12
+TRX00513,2024-12-12,03:50,expense,Education,1243589.23,UD Hariyah Pradipta,Illum beatae.,Credit Card,2024-12-12 03:50:00,2024-12,Thursday,12,3
+TRX00552,2024-12-12,11:36,expense,Entertainment,95776.71,UD Wasita Rahimah Tbk,Numquam id placeat minima.,Cash,2024-12-12 11:36:00,2024-12,Thursday,12,11
+TRX00047,2024-12-13,05:44,expense,Health,1485889.35,Perum Maryadi Nugroho,Totam nam molestias aperiam.,E-Wallet,2024-12-13 05:44:00,2024-12,Friday,13,5
+TRX00998,2024-12-13,18:40,expense,Health,1634271.88,CV Utama Wasita,Facilis ex quo dolore.,Cash,2024-12-13 18:40:00,2024-12,Friday,13,18
+TRX00532,2024-12-14,13:03,expense,Health,1250964.14,PT Maryadi Tbk,Eligendi molestias atque quia maiores.,Debit Card,2024-12-14 13:03:00,2024-12,Saturday,14,13
+TRX00112,2024-12-14,09:09,expense,Bills,628990.77,PD Aryani Tbk,Voluptatem inventore libero.,Cash,2024-12-14 09:09:00,2024-12,Saturday,14,9
+TRX00551,2024-12-15,03:46,expense,Food,473111.51,Perum Putra,Deleniti dolorem fugiat tempora.,Cash,2024-12-15 03:46:00,2024-12,Sunday,15,3
+TRX00282,2024-12-15,11:19,expense,Shopping,1059205.28,Perum Suryatmi Adriansyah,Officiis maxime.,Debit Card,2024-12-15 11:19:00,2024-12,Sunday,15,11
+TRX00974,2024-12-15,17:49,income,Freelance,13636564.34,PD Permadi Tbk,Income received,Bank Transfer,2024-12-15 17:49:00,2024-12,Sunday,15,17
+TRX00907,2024-12-16,22:58,expense,Bills,1441124.2,UD Prasetya Wulandari,Iusto quibusdam inventore.,Debit Card,2024-12-16 22:58:00,2024-12,Monday,16,22
+TRX00087,2024-12-16,03:52,expense,Bills,1208210.66,PT Suartini Putra,Tempora illum itaque.,Cash,2024-12-16 03:52:00,2024-12,Monday,16,3
+TRX00824,2024-12-16,15:33,expense,Shopping,245934.14,PD Wibowo Prasetya,Esse soluta autem quaerat enim.,Credit Card,2024-12-16 15:33:00,2024-12,Monday,16,15
+TRX00919,2024-12-16,12:42,income,Freelance,6430806.41,PT Marbun Pranowo,Income received,Bank Transfer,2024-12-16 12:42:00,2024-12,Monday,16,12
+TRX00175,2024-12-16,20:23,expense,Health,968845.85,UD Marbun,Magni deserunt quidem.,Cash,2024-12-16 20:23:00,2024-12,Monday,16,20
+TRX00646,2024-12-16,00:48,income,Salary,9995112.68,UD Wacana,Income received,Bank Transfer,2024-12-16 00:48:00,2024-12,Monday,16,0
+TRX00355,2024-12-16,07:20,expense,Transport,22356.39,Perum Winarno Rajata (Persero) Tbk,Tempora iure debitis perspiciatis.,Cash,2024-12-16 07:20:00,2024-12,Monday,16,7
+TRX00136,2024-12-16,08:44,expense,Entertainment,505603.0,Perum Namaga Padmasari,Dolorem ea sit qui.,E-Wallet,2024-12-16 08:44:00,2024-12,Monday,16,8
+TRX00926,2024-12-17,12:43,expense,Health,1495117.91,UD Anggraini Marpaung,Quo aliquid eligendi voluptatibus vero.,Cash,2024-12-17 12:43:00,2024-12,Tuesday,17,12
+TRX00144,2024-12-17,04:05,expense,Shopping,1939188.73,Perum Pratiwi (Persero) Tbk,Sit molestiae consectetur voluptatem atque.,E-Wallet,2024-12-17 04:05:00,2024-12,Tuesday,17,4
+TRX00965,2024-12-17,01:27,expense,Health,2417068.29,UD Nasyidah Oktaviani Tbk,Libero fugiat veniam.,Debit Card,2024-12-17 01:27:00,2024-12,Tuesday,17,1
+TRX00256,2024-12-18,11:55,expense,Health,1325387.66,PT Pertiwi Mandasari,Saepe similique praesentium.,Cash,2024-12-18 11:55:00,2024-12,Wednesday,18,11
+TRX00261,2024-12-18,06:02,expense,Shopping,1613915.87,Perum Wasita Megantara (Persero) Tbk,Eaque qui vel nostrum.,E-Wallet,2024-12-18 06:02:00,2024-12,Wednesday,18,6
+TRX00198,2024-12-18,07:33,expense,Health,1821524.74,PT Rahmawati Haryanti Tbk,Ea quam aliquam officiis.,Cash,2024-12-18 07:33:00,2024-12,Wednesday,18,7
+TRX00320,2024-12-18,02:07,expense,Shopping,691484.63,Perum Sihombing Mandasari,Repudiandae natus occaecati.,E-Wallet,2024-12-18 02:07:00,2024-12,Wednesday,18,2
+TRX00378,2024-12-19,04:04,expense,Transport,203186.28,PD Budiyanto Dabukke (Persero) Tbk,Quos qui aliquid doloribus aliquid.,E-Wallet,2024-12-19 04:04:00,2024-12,Thursday,19,4
+TRX00939,2024-12-19,17:40,expense,Food,258194.83,UD Siregar Tbk,Voluptatem sed voluptate necessitatibus velit.,Cash,2024-12-19 17:40:00,2024-12,Thursday,19,17
+TRX00931,2024-12-19,12:45,expense,Shopping,121049.25,PD Riyanti,Atque facere ad.,Credit Card,2024-12-19 12:45:00,2024-12,Thursday,19,12
+TRX00720,2024-12-19,04:50,expense,Entertainment,470906.39,Perum Uwais,Fugit labore.,Debit Card,2024-12-19 04:50:00,2024-12,Thursday,19,4
+TRX00092,2024-12-20,18:07,income,Investment Return,13357662.26,PT Thamrin Purwanti (Persero) Tbk,Income received,Bank Transfer,2024-12-20 18:07:00,2024-12,Friday,20,18
+TRX00635,2024-12-20,09:40,expense,Education,4911659.33,PT Salahudin Andriani,Tenetur ratione.,Debit Card,2024-12-20 09:40:00,2024-12,Friday,20,9
+TRX00718,2024-12-20,01:09,expense,Entertainment,181513.72,UD Maryati,Corrupti fugiat.,Cash,2024-12-20 01:09:00,2024-12,Friday,20,1
+TRX00822,2024-12-21,12:55,expense,Transport,134171.26,UD Prabowo Wacana Tbk,Id assumenda totam repellendus.,Cash,2024-12-21 12:55:00,2024-12,Saturday,21,12
+TRX00542,2024-12-21,22:07,expense,Bills,479973.13,PD Laksmiwati Purwanti Tbk,Deserunt nostrum.,Credit Card,2024-12-21 22:07:00,2024-12,Saturday,21,22
+TRX00999,2024-12-22,22:57,expense,Transport,99948.87,Perum Maryati Ardianto,Soluta dicta.,Debit Card,2024-12-22 22:57:00,2024-12,Sunday,22,22
+TRX00433,2024-12-23,03:45,expense,Shopping,1532804.59,UD Budiyanto Sihombing,Voluptatibus facilis quod accusamus atque.,Credit Card,2024-12-23 03:45:00,2024-12,Monday,23,3
+TRX00253,2024-12-24,18:10,expense,Education,3574829.19,PD Mandasari,Quae repellendus officiis quod.,Debit Card,2024-12-24 18:10:00,2024-12,Tuesday,24,18
+TRX00838,2024-12-25,21:28,income,Investment Return,13633033.31,Perum Hardiansyah Pranowo,Income received,Bank Transfer,2024-12-25 21:28:00,2024-12,Wednesday,25,21
+TRX00589,2024-12-27,09:42,expense,Investment,1414510.61,CV Mustofa Ramadan,Beatae eius eligendi.,Debit Card,2024-12-27 09:42:00,2024-12,Friday,27,9
+TRX00335,2024-12-27,00:35,income,Business,7814254.97,PT Yuniar Utama Tbk,Income received,Bank Transfer,2024-12-27 00:35:00,2024-12,Friday,27,0
+TRX00189,2024-12-27,01:00,expense,Transport,247971.42,PT Haryanto Rahimah,Voluptates illo itaque.,E-Wallet,2024-12-27 01:00:00,2024-12,Friday,27,1
+TRX00051,2024-12-28,13:52,expense,Food,294700.39,PD Siregar Waluyo,Saepe iste enim.,E-Wallet,2024-12-28 13:52:00,2024-12,Saturday,28,13
+TRX00530,2024-12-28,12:39,expense,Bills,1411927.44,CV Uyainah (Persero) Tbk,Porro atque.,E-Wallet,2024-12-28 12:39:00,2024-12,Saturday,28,12
+TRX00238,2024-12-28,04:12,expense,Bills,1291689.68,PT Firmansyah Tbk,Officiis sit nam non.,E-Wallet,2024-12-28 04:12:00,2024-12,Saturday,28,4
+TRX00940,2024-12-29,10:13,income,Freelance,14297690.85,UD Pranowo,Income received,Bank Transfer,2024-12-29 10:13:00,2024-12,Sunday,29,10
+TRX00612,2024-12-30,20:53,expense,Health,1792381.61,CV Wibowo,Facilis totam dolorum.,Cash,2024-12-30 20:53:00,2024-12,Monday,30,20
+TRX00218,2024-12-30,03:28,expense,Food,337594.48,CV Suryatmi Uwais,Deleniti eveniet hic aut consequuntur.,Cash,2024-12-30 03:28:00,2024-12,Monday,30,3
+TRX00898,2024-12-30,21:10,expense,Health,2384658.76,PT Andriani,Possimus maxime quod.,E-Wallet,2024-12-30 21:10:00,2024-12,Monday,30,21
+TRX00752,2024-12-30,05:37,expense,Bills,1296584.83,UD Wijaya Napitupulu,Debitis modi.,Cash,2024-12-30 05:37:00,2024-12,Monday,30,5
+TRX00088,2024-12-30,09:57,income,Business,14951174.9,PD Prayoga Tbk,Income received,Bank Transfer,2024-12-30 09:57:00,2024-12,Monday,30,9
+TRX00947,2024-12-30,19:17,expense,Transport,95736.05,UD Rahimah Siregar,Velit optio expedita aliquid.,E-Wallet,2024-12-30 19:17:00,2024-12,Monday,30,19
+TRX00789,2024-12-31,19:48,expense,Food,59712.34,Perum Mangunsong (Persero) Tbk,Harum sit cumque similique.,Credit Card,2024-12-31 19:48:00,2024-12,Tuesday,31,19
+TRX00194,2024-12-31,06:08,expense,Food,86890.92,PD Jailani Hidayat,Reiciendis sed error cupiditate molestiae.,Credit Card,2024-12-31 06:08:00,2024-12,Tuesday,31,6
+TRX00748,2024-12-31,20:17,expense,Entertainment,497323.99,Perum Yolanda (Persero) Tbk,Delectus suscipit provident.,Cash,2024-12-31 20:17:00,2024-12,Tuesday,31,20
+TRX00274,2025-01-01,07:49,expense,Investment,6627741.94,UD Usamah Dongoran,Ipsum ut nostrum quas.,E-Wallet,2025-01-01 07:49:00,2025-01,Wednesday,1,7
+TRX00268,2025-01-01,13:31,expense,Food,28816.47,UD Yolanda Tbk,Vitae consectetur dignissimos velit.,Debit Card,2025-01-01 13:31:00,2025-01,Wednesday,1,13
+TRX00602,2025-01-01,06:45,expense,Investment,2863682.28,PD Napitupulu Pudjiastuti Tbk,Unde rem veniam nobis.,Cash,2025-01-01 06:45:00,2025-01,Wednesday,1,6
+TRX00484,2025-01-01,10:45,income,Business,8407164.23,CV Hariyah Sitorus (Persero) Tbk,Income received,Bank Transfer,2025-01-01 10:45:00,2025-01,Wednesday,1,10
+TRX00288,2025-01-01,14:13,expense,Shopping,1078152.97,CV Halimah,Ab tenetur harum.,Cash,2025-01-01 14:13:00,2025-01,Wednesday,1,14
+TRX00451,2025-01-01,10:56,expense,Transport,139119.05,CV Budiman Winarsih (Persero) Tbk,Fugiat perspiciatis iste.,E-Wallet,2025-01-01 10:56:00,2025-01,Wednesday,1,10
+TRX00371,2025-01-02,16:40,expense,Bills,243009.34,Perum Fujiati Mustofa Tbk,Deserunt culpa quisquam.,E-Wallet,2025-01-02 16:40:00,2025-01,Thursday,2,16
+TRX00138,2025-01-02,19:25,expense,Health,1842287.91,CV Salahudin Tbk,Non architecto facere mollitia.,Credit Card,2025-01-02 19:25:00,2025-01,Thursday,2,19
+TRX00350,2025-01-02,02:29,expense,Bills,1329164.05,PT Handayani,Harum fugiat exercitationem hic.,Debit Card,2025-01-02 02:29:00,2025-01,Thursday,2,2
+TRX00853,2025-01-02,15:44,expense,Health,1837691.05,Perum Sinaga Saefullah,Architecto tempora illum et.,E-Wallet,2025-01-02 15:44:00,2025-01,Thursday,2,15
+TRX00727,2025-01-03,21:19,expense,Investment,9648281.32,Perum Siregar,Eos explicabo porro.,Credit Card,2025-01-03 21:19:00,2025-01,Friday,3,21
+TRX00076,2025-01-03,12:11,income,Business,7527109.0,CV Winarsih,Income received,Bank Transfer,2025-01-03 12:11:00,2025-01,Friday,3,12
+TRX00766,2025-01-04,01:15,income,Salary,7032084.71,PD Suwarno,Income received,Bank Transfer,2025-01-04 01:15:00,2025-01,Saturday,4,1
+TRX00436,2025-01-04,02:05,expense,Shopping,806672.07,PT Siregar Tbk,Cupiditate ipsam soluta enim.,Credit Card,2025-01-04 02:05:00,2025-01,Saturday,4,2
+TRX00866,2025-01-04,19:22,expense,Bills,1120514.88,UD Manullang,Consequatur dolorum sit nostrum.,Credit Card,2025-01-04 19:22:00,2025-01,Saturday,4,19
+TRX00673,2025-01-05,07:20,income,Freelance,9382668.95,PD Sitompul Hasanah,Income received,Bank Transfer,2025-01-05 07:20:00,2025-01,Sunday,5,7
+TRX00569,2025-01-05,07:02,expense,Shopping,1449257.32,UD Suryatmi Nasyiah,A nam perferendis architecto.,Cash,2025-01-05 07:02:00,2025-01,Sunday,5,7
+TRX00946,2025-01-05,05:31,expense,Transport,251989.12,PD Siregar Situmorang,Blanditiis veniam porro.,Credit Card,2025-01-05 05:31:00,2025-01,Sunday,5,5
+TRX00243,2025-01-05,22:41,expense,Entertainment,172426.37,CV Pranowo Marbun,Dolore voluptate natus pariatur dolorum.,Credit Card,2025-01-05 22:41:00,2025-01,Sunday,5,22
+TRX00106,2025-01-06,05:17,income,Business,11708634.1,PD Pertiwi Maulana,Income received,Bank Transfer,2025-01-06 05:17:00,2025-01,Monday,6,5
+TRX00648,2025-01-06,05:47,income,Freelance,4222717.21,Perum Nurdiyanti (Persero) Tbk,Income received,Bank Transfer,2025-01-06 05:47:00,2025-01,Monday,6,5
+TRX00576,2025-01-07,13:49,income,Freelance,4767636.53,CV Marpaung,Income received,Bank Transfer,2025-01-07 13:49:00,2025-01,Tuesday,7,13
+TRX00518,2025-01-07,21:10,expense,Bills,869051.47,CV Prasetya Damanik Tbk,Aliquid reprehenderit nemo.,Cash,2025-01-07 21:10:00,2025-01,Tuesday,7,21
+TRX00848,2025-01-07,06:01,expense,Transport,186703.9,Perum Susanti (Persero) Tbk,Accusamus mollitia quibusdam voluptates quasi.,E-Wallet,2025-01-07 06:01:00,2025-01,Tuesday,7,6
+TRX00633,2025-01-07,12:19,expense,Food,342309.99,Perum Hastuti Siregar Tbk,Soluta quis quos quaerat ab.,Credit Card,2025-01-07 12:19:00,2025-01,Tuesday,7,12
+TRX00645,2025-01-08,23:21,income,Investment Return,11413675.13,CV Kurniawan,Income received,Bank Transfer,2025-01-08 23:21:00,2025-01,Wednesday,8,23
+TRX00688,2025-01-08,21:05,expense,Investment,4504644.45,CV Narpati,Ratione illum.,Cash,2025-01-08 21:05:00,2025-01,Wednesday,8,21
+TRX00381,2025-01-09,13:40,expense,Shopping,1323418.08,PD Nuraini (Persero) Tbk,Maiores veniam molestiae necessitatibus.,Debit Card,2025-01-09 13:40:00,2025-01,Thursday,9,13
+TRX00496,2025-01-09,22:23,expense,Food,333099.99,PD Lailasari,Aspernatur architecto magnam ipsa.,E-Wallet,2025-01-09 22:23:00,2025-01,Thursday,9,22
+TRX00632,2025-01-10,21:04,expense,Entertainment,118505.54,CV Hassanah Kuswandari,Optio dignissimos blanditiis nemo minus.,Debit Card,2025-01-10 21:04:00,2025-01,Friday,10,21
+TRX00737,2025-01-10,19:14,expense,Transport,56973.54,Perum Widiastuti Putra,Voluptatem quod molestiae ipsa.,Credit Card,2025-01-10 19:14:00,2025-01,Friday,10,19
+TRX00927,2025-01-11,22:55,expense,Health,2407516.01,CV Wibowo Tbk,Aliquam quibusdam numquam numquam.,Debit Card,2025-01-11 22:55:00,2025-01,Saturday,11,22
+TRX00414,2025-01-11,02:45,expense,Transport,79279.28,Perum Wahyudin Siregar,Quibusdam ex animi in.,Cash,2025-01-11 02:45:00,2025-01,Saturday,11,2
+TRX00086,2025-01-12,15:52,expense,Education,912668.66,CV Purnawati Yulianti (Persero) Tbk,Delectus rerum asperiores ad quos.,E-Wallet,2025-01-12 15:52:00,2025-01,Sunday,12,15
+TRX00030,2025-01-12,01:02,expense,Education,1853952.39,Perum Winarsih Budiyanto Tbk,Iste sequi voluptatem consequatur.,Cash,2025-01-12 01:02:00,2025-01,Sunday,12,1
+TRX00795,2025-01-12,00:54,income,Freelance,5718259.51,PD Kurniawan Prabowo (Persero) Tbk,Income received,Bank Transfer,2025-01-12 00:54:00,2025-01,Sunday,12,0
+TRX00872,2025-01-14,19:45,expense,Entertainment,490623.54,PD Nababan Melani Tbk,Nam ab.,Credit Card,2025-01-14 19:45:00,2025-01,Tuesday,14,19
+TRX00185,2025-01-14,02:50,expense,Bills,1013844.55,UD Widodo (Persero) Tbk,Vel nesciunt commodi eaque odio.,Credit Card,2025-01-14 02:50:00,2025-01,Tuesday,14,2
+TRX00888,2025-01-14,03:13,expense,Food,97723.04,CV Simanjuntak Simbolon,Voluptatem id incidunt corporis voluptatem.,Debit Card,2025-01-14 03:13:00,2025-01,Tuesday,14,3
+TRX00171,2025-01-15,20:46,expense,Education,746427.37,PT Mandala Gunawan,Natus accusamus aliquam numquam.,Cash,2025-01-15 20:46:00,2025-01,Wednesday,15,20
+TRX00182,2025-01-15,09:09,expense,Investment,9076873.69,PT Uwais (Persero) Tbk,Iure voluptate architecto sit.,Debit Card,2025-01-15 09:09:00,2025-01,Wednesday,15,9
+TRX00439,2025-01-15,15:45,expense,Education,2898629.9,UD Hutagalung (Persero) Tbk,Perferendis in.,Debit Card,2025-01-15 15:45:00,2025-01,Wednesday,15,15
+TRX00990,2025-01-16,17:53,expense,Investment,4071200.05,PT Ramadan (Persero) Tbk,Delectus laboriosam.,Cash,2025-01-16 17:53:00,2025-01,Thursday,16,17
+TRX00659,2025-01-16,10:58,expense,Transport,216056.34,CV Nababan Nababan,Ipsam aliquid ea.,Debit Card,2025-01-16 10:58:00,2025-01,Thursday,16,10
+TRX00360,2025-01-16,18:08,expense,Education,1140122.16,PT Pertiwi Tamba,Molestiae quod porro.,Cash,2025-01-16 18:08:00,2025-01,Thursday,16,18
+TRX00631,2025-01-17,21:55,expense,Bills,1197263.78,CV Hartati (Persero) Tbk,Natus quo tempore.,Debit Card,2025-01-17 21:55:00,2025-01,Friday,17,21
+TRX00873,2025-01-18,16:01,expense,Food,342803.49,CV Adriansyah Hidayat,Quod sapiente temporibus quas.,Debit Card,2025-01-18 16:01:00,2025-01,Saturday,18,16
+TRX00064,2025-01-18,04:25,income,Salary,3970475.6,PT Widiastuti Tbk,Income received,Bank Transfer,2025-01-18 04:25:00,2025-01,Saturday,18,4
+TRX00697,2025-01-19,08:27,income,Freelance,11999733.58,Perum Zulaika Haryanto Tbk,Income received,Bank Transfer,2025-01-19 08:27:00,2025-01,Sunday,19,8
+TRX00803,2025-01-19,03:16,expense,Transport,279509.02,CV Mansur Yuniar,Nihil corporis ad similique.,Debit Card,2025-01-19 03:16:00,2025-01,Sunday,19,3
+TRX00280,2025-01-19,18:34,expense,Transport,77859.92,Perum Mulyani,Fugiat sed illum voluptatum deleniti.,Debit Card,2025-01-19 18:34:00,2025-01,Sunday,19,18
+TRX00692,2025-01-19,19:10,expense,Shopping,1347786.02,CV Hassanah Tbk,Nihil dolorem exercitationem perferendis laudantium.,Credit Card,2025-01-19 19:10:00,2025-01,Sunday,19,19
+TRX00229,2025-01-19,21:52,expense,Bills,1262899.52,CV Manullang Tbk,Incidunt doloremque harum.,Debit Card,2025-01-19 21:52:00,2025-01,Sunday,19,21
+TRX00152,2025-01-20,10:40,expense,Investment,7754517.32,PD Yuliarti (Persero) Tbk,Vero porro voluptates.,E-Wallet,2025-01-20 10:40:00,2025-01,Monday,20,10
+TRX00260,2025-01-20,16:28,income,Salary,4843896.46,UD Mahendra Prabowo,Income received,Bank Transfer,2025-01-20 16:28:00,2025-01,Monday,20,16
+TRX00813,2025-01-20,12:22,expense,Health,2507142.66,PD Hariyah Sihombing,Autem repellendus in.,Debit Card,2025-01-20 12:22:00,2025-01,Monday,20,12
+TRX00790,2025-01-21,12:52,expense,Transport,147234.78,CV Nuraini Hastuti Tbk,Minus aliquam maiores autem beatae.,E-Wallet,2025-01-21 12:52:00,2025-01,Tuesday,21,12
+TRX00366,2025-01-22,05:14,expense,Health,1767337.28,PT Rajasa Hassanah,Odit dolores repudiandae.,Credit Card,2025-01-22 05:14:00,2025-01,Wednesday,22,5
+TRX00154,2025-01-22,09:24,expense,Bills,1056174.89,Perum Haryanti Wahyuni Tbk,Eius beatae suscipit quibusdam.,E-Wallet,2025-01-22 09:24:00,2025-01,Wednesday,22,9
+TRX00579,2025-01-22,13:09,expense,Transport,66387.76,UD Wibisono Gunawan (Persero) Tbk,Sapiente eligendi esse ab.,Credit Card,2025-01-22 13:09:00,2025-01,Wednesday,22,13
+TRX00699,2025-01-22,09:12,income,Business,6251312.38,UD Laksita Simbolon (Persero) Tbk,Income received,Bank Transfer,2025-01-22 09:12:00,2025-01,Wednesday,22,9
+TRX00636,2025-01-22,01:05,expense,Food,282936.65,Perum Lestari (Persero) Tbk,Sint beatae ipsam esse.,E-Wallet,2025-01-22 01:05:00,2025-01,Wednesday,22,1
+TRX00653,2025-01-23,04:42,expense,Health,780301.32,Perum Kusmawati,Modi assumenda.,E-Wallet,2025-01-23 04:42:00,2025-01,Thursday,23,4
+TRX00016,2025-01-23,07:34,expense,Food,399284.26,PD Waluyo Pratama,Voluptas vitae inventore.,Credit Card,2025-01-23 07:34:00,2025-01,Thursday,23,7
+TRX00176,2025-01-23,17:20,expense,Transport,161824.5,PD Napitupulu Wahyuni,Odit impedit id nulla maiores.,Cash,2025-01-23 17:20:00,2025-01,Thursday,23,17
+TRX00826,2025-01-24,09:17,expense,Food,44298.79,PT Suartini Wastuti,Repudiandae provident doloremque voluptatibus.,Credit Card,2025-01-24 09:17:00,2025-01,Friday,24,9
+TRX00644,2025-01-25,09:52,income,Business,5557020.1,CV Zulkarnain,Income received,Bank Transfer,2025-01-25 09:52:00,2025-01,Saturday,25,9
+TRX00472,2025-01-25,22:46,income,Investment Return,6803359.05,UD Mandala,Income received,Bank Transfer,2025-01-25 22:46:00,2025-01,Saturday,25,22
+TRX00807,2025-01-25,12:05,expense,Shopping,1384063.56,PT Januar Kuswandari,Officia debitis numquam est.,Debit Card,2025-01-25 12:05:00,2025-01,Saturday,25,12
+TRX00015,2025-01-25,08:23,income,Salary,5384588.18,UD Fujiati (Persero) Tbk,Income received,Bank Transfer,2025-01-25 08:23:00,2025-01,Saturday,25,8
+TRX00924,2025-01-26,17:46,expense,Bills,1391408.0,CV Hidayanto Sirait,Provident ipsa optio eveniet ipsa.,Credit Card,2025-01-26 17:46:00,2025-01,Sunday,26,17
+TRX00398,2025-01-26,08:51,expense,Bills,833822.84,PD Wasita Nasyidah Tbk,Delectus amet sed.,Debit Card,2025-01-26 08:51:00,2025-01,Sunday,26,8
+TRX00290,2025-01-26,00:39,expense,Bills,938199.57,CV Dabukke Hidayanto Tbk,Sequi fugit.,E-Wallet,2025-01-26 00:39:00,2025-01,Sunday,26,0
+TRX00338,2025-01-27,02:21,expense,Bills,1037281.74,PD Hidayanto,Quae nesciunt dolores.,Credit Card,2025-01-27 02:21:00,2025-01,Monday,27,2
+TRX00140,2025-01-30,10:29,expense,Shopping,429409.83,Perum Anggriawan Firmansyah,Illum aliquam sint vero.,Credit Card,2025-01-30 10:29:00,2025-01,Thursday,30,10
+TRX00708,2025-01-30,02:14,expense,Investment,6016034.53,Perum Novitasari,Dolorem voluptas.,E-Wallet,2025-01-30 02:14:00,2025-01,Thursday,30,2
+TRX00421,2025-01-30,12:35,income,Investment Return,3558007.04,CV Hidayat,Income received,Bank Transfer,2025-01-30 12:35:00,2025-01,Thursday,30,12
+TRX00787,2025-01-30,11:46,expense,Investment,1136591.94,UD Ramadan,A consectetur possimus.,Credit Card,2025-01-30 11:46:00,2025-01,Thursday,30,11
+TRX00094,2025-01-30,11:53,expense,Entertainment,719830.15,UD Farida Simbolon (Persero) Tbk,Qui eos temporibus nobis ratione.,Debit Card,2025-01-30 11:53:00,2025-01,Thursday,30,11
+TRX00811,2025-01-31,06:41,expense,Entertainment,350757.42,UD Hutagalung Hariyah,Sed suscipit asperiores.,E-Wallet,2025-01-31 06:41:00,2025-01,Friday,31,6
+TRX00477,2025-02-01,21:24,expense,Health,58617.05,Perum Budiman,Nobis dicta perspiciatis vel.,Cash,2025-02-01 21:24:00,2025-02,Saturday,1,21
+TRX00800,2025-02-01,12:48,expense,Health,863484.34,Perum Pangestu Pratama,Eos delectus inventore.,E-Wallet,2025-02-01 12:48:00,2025-02,Saturday,1,12
+TRX00226,2025-02-02,23:03,income,Investment Return,14476988.37,CV Hidayat Winarsih,Income received,Bank Transfer,2025-02-02 23:03:00,2025-02,Sunday,2,23
+TRX00733,2025-02-02,04:41,expense,Shopping,1413302.44,Perum Adriansyah,Earum distinctio assumenda sequi.,Credit Card,2025-02-02 04:41:00,2025-02,Sunday,2,4
+TRX00206,2025-02-02,16:00,income,Salary,11459106.6,UD Halimah Kurniawan (Persero) Tbk,Income received,Bank Transfer,2025-02-02 16:00:00,2025-02,Sunday,2,16
+TRX00780,2025-02-02,07:09,expense,Investment,2594732.51,Perum Pertiwi Laksita (Persero) Tbk,Ratione sunt fuga.,E-Wallet,2025-02-02 07:09:00,2025-02,Sunday,2,7
+TRX00128,2025-02-02,14:56,income,Freelance,3981108.38,PD Firmansyah Susanti Tbk,Income received,Bank Transfer,2025-02-02 14:56:00,2025-02,Sunday,2,14
+TRX00540,2025-02-03,21:51,expense,Investment,6733817.53,CV Najmudin Tbk,Quod placeat inventore accusamus.,Debit Card,2025-02-03 21:51:00,2025-02,Monday,3,21
+TRX00823,2025-02-03,13:57,expense,Food,183461.52,PD Nababan Prasetya,Maiores id dignissimos eos.,Credit Card,2025-02-03 13:57:00,2025-02,Monday,3,13
+TRX00886,2025-02-04,13:57,expense,Education,2355258.78,PD Yolanda Tbk,Molestiae consequuntur labore.,Debit Card,2025-02-04 13:57:00,2025-02,Tuesday,4,13
+TRX00533,2025-02-04,13:59,expense,Entertainment,598188.63,CV Yulianti Andriani Tbk,In commodi consequatur temporibus architecto.,E-Wallet,2025-02-04 13:59:00,2025-02,Tuesday,4,13
+TRX00928,2025-02-05,00:18,expense,Shopping,1091580.22,CV Samosir Laksita Tbk,Accusamus dolor nihil.,E-Wallet,2025-02-05 00:18:00,2025-02,Wednesday,5,0
+TRX00068,2025-02-05,04:21,expense,Entertainment,63673.81,CV Marpaung,Dicta sequi aliquam.,Debit Card,2025-02-05 04:21:00,2025-02,Wednesday,5,4
+TRX00833,2025-02-05,15:13,expense,Education,3886107.52,PD Setiawan Tbk,Illo soluta nihil.,Cash,2025-02-05 15:13:00,2025-02,Wednesday,5,15
+TRX00671,2025-02-05,21:08,expense,Entertainment,202347.14,UD Puspasari Marbun,Consequatur rem eveniet repellendus.,Cash,2025-02-05 21:08:00,2025-02,Wednesday,5,21
+TRX00473,2025-02-05,08:18,expense,Education,4516354.8,PD Nuraini,Exercitationem reprehenderit.,Cash,2025-02-05 08:18:00,2025-02,Wednesday,5,8
+TRX00934,2025-02-06,14:32,expense,Education,3451564.91,Perum Halim Hutapea (Persero) Tbk,Fugiat aperiam.,Credit Card,2025-02-06 14:32:00,2025-02,Thursday,6,14
+TRX00656,2025-02-06,09:37,expense,Entertainment,755737.42,Perum Zulaika Manullang Tbk,Modi recusandae.,E-Wallet,2025-02-06 09:37:00,2025-02,Thursday,6,9
+TRX00938,2025-02-06,04:53,expense,Shopping,896289.0,Perum Iswahyudi Marpaung,Enim dolores aspernatur nobis.,Cash,2025-02-06 04:53:00,2025-02,Thursday,6,4
+TRX00113,2025-02-07,18:44,expense,Food,310963.82,Perum Prakasa Suryatmi,Minus voluptatem saepe dolorum.,Debit Card,2025-02-07 18:44:00,2025-02,Friday,7,18
+TRX00623,2025-02-07,01:54,expense,Health,743171.54,Perum Purnawati Handayani (Persero) Tbk,Quidem nam iure placeat.,Credit Card,2025-02-07 01:54:00,2025-02,Friday,7,1
+TRX00544,2025-02-08,16:57,income,Salary,3562222.9,Perum Tamba Laksmiwati,Income received,Bank Transfer,2025-02-08 16:57:00,2025-02,Saturday,8,16
+TRX00976,2025-02-08,12:40,expense,Education,1095295.76,Perum Rajata,Tempora cum ullam culpa.,E-Wallet,2025-02-08 12:40:00,2025-02,Saturday,8,12
+TRX00890,2025-02-08,18:37,expense,Food,205891.72,PD Padmasari Novitasari Tbk,Quidem qui.,Credit Card,2025-02-08 18:37:00,2025-02,Saturday,8,18
+TRX00978,2025-02-08,01:17,expense,Food,231519.14,PD Farida Wasita (Persero) Tbk,Dolorum ullam.,Cash,2025-02-08 01:17:00,2025-02,Saturday,8,1
+TRX00356,2025-02-08,11:31,expense,Shopping,331866.6,Perum Kusumo Waluyo,Quisquam saepe illo.,E-Wallet,2025-02-08 11:31:00,2025-02,Saturday,8,11
+TRX00292,2025-02-09,11:29,expense,Transport,56540.62,PD Anggraini Usada,Voluptatum maiores exercitationem totam.,Cash,2025-02-09 11:29:00,2025-02,Sunday,9,11
+TRX00010,2025-02-10,03:01,expense,Investment,4826402.87,CV Saragih Prastuti Tbk,Maxime error.,Debit Card,2025-02-10 03:01:00,2025-02,Monday,10,3
+TRX00031,2025-02-10,01:27,expense,Transport,29671.44,UD Prasetya (Persero) Tbk,Saepe quos aliquam.,Cash,2025-02-10 01:27:00,2025-02,Monday,10,1
+TRX00988,2025-02-11,00:27,income,Freelance,4327243.19,Perum Nasyidah Narpati Tbk,Income received,Bank Transfer,2025-02-11 00:27:00,2025-02,Tuesday,11,0
+TRX00462,2025-02-12,09:18,expense,Entertainment,814661.44,PD Hutagalung,Enim voluptas iure expedita.,E-Wallet,2025-02-12 09:18:00,2025-02,Wednesday,12,9
+TRX00997,2025-02-12,22:59,expense,Food,220349.5,Perum Hutasoit (Persero) Tbk,Quibusdam atque assumenda perspiciatis.,Debit Card,2025-02-12 22:59:00,2025-02,Wednesday,12,22
+TRX00776,2025-02-12,13:39,expense,Entertainment,347505.04,PD Marpaung Anggraini (Persero) Tbk,Perspiciatis possimus.,E-Wallet,2025-02-12 13:39:00,2025-02,Wednesday,12,13
+TRX00868,2025-02-12,22:31,income,Investment Return,13732852.66,Perum Samosir Tbk,Income received,Bank Transfer,2025-02-12 22:31:00,2025-02,Wednesday,12,22
+TRX00177,2025-02-13,21:21,expense,Shopping,262164.37,PD Wasita Palastri,Odio excepturi.,Cash,2025-02-13 21:21:00,2025-02,Thursday,13,21
+TRX00493,2025-02-13,01:28,expense,Bills,193021.38,PD Latupono Adriansyah,Suscipit quidem fugit.,E-Wallet,2025-02-13 01:28:00,2025-02,Thursday,13,1
+TRX00289,2025-02-13,16:58,expense,Health,970836.77,PD Prasetya Tbk,Sit impedit quo libero.,E-Wallet,2025-02-13 16:58:00,2025-02,Thursday,13,16
+TRX00588,2025-02-13,21:43,expense,Health,85704.19,CV Wahyudin,Libero tempora.,Debit Card,2025-02-13 21:43:00,2025-02,Thursday,13,21
+TRX00490,2025-02-13,18:14,expense,Shopping,1524716.45,UD Anggriawan (Persero) Tbk,Nihil qui distinctio.,Debit Card,2025-02-13 18:14:00,2025-02,Thursday,13,18
+TRX00608,2025-02-14,18:21,expense,Entertainment,742877.55,PT Tarihoran Wahyuni,Omnis doloribus ab commodi.,E-Wallet,2025-02-14 18:21:00,2025-02,Friday,14,18
+TRX00877,2025-02-15,20:44,expense,Education,4324816.99,PT Maulana Saputra Tbk,Rem mollitia.,Credit Card,2025-02-15 20:44:00,2025-02,Saturday,15,20
+TRX00429,2025-02-15,05:45,expense,Transport,145615.68,PT Adriansyah Saragih Tbk,Corrupti eum.,Cash,2025-02-15 05:45:00,2025-02,Saturday,15,5
+TRX00269,2025-02-15,09:39,expense,Food,24690.01,CV Suartini (Persero) Tbk,Vel exercitationem voluptates.,E-Wallet,2025-02-15 09:39:00,2025-02,Saturday,15,9
+TRX00901,2025-02-15,04:29,expense,Transport,206591.45,PD Maheswara Pangestu,Vitae ullam eaque alias.,Cash,2025-02-15 04:29:00,2025-02,Saturday,15,4
+TRX00468,2025-02-15,22:15,expense,Education,1577795.76,Perum Namaga Tbk,Eaque perspiciatis optio.,Cash,2025-02-15 22:15:00,2025-02,Saturday,15,22
+TRX00672,2025-02-16,13:51,income,Business,8872517.39,PD Mahendra (Persero) Tbk,Income received,Bank Transfer,2025-02-16 13:51:00,2025-02,Sunday,16,13
+TRX00375,2025-02-16,07:56,expense,Bills,1144690.16,CV Prabowo,Nostrum error vitae tenetur.,Cash,2025-02-16 07:56:00,2025-02,Sunday,16,7
+TRX00820,2025-02-16,16:58,expense,Transport,282480.99,PD Wahyudin Puspita (Persero) Tbk,Dignissimos error aliquam.,Credit Card,2025-02-16 16:58:00,2025-02,Sunday,16,16
+TRX00183,2025-02-16,17:06,expense,Investment,6930315.48,CV Tampubolon,Natus perspiciatis dignissimos fugiat nihil.,Cash,2025-02-16 17:06:00,2025-02,Sunday,16,17
+TRX00617,2025-02-17,14:31,income,Business,8540593.73,CV Laksmiwati Situmorang,Income received,Bank Transfer,2025-02-17 14:31:00,2025-02,Monday,17,14
+TRX00846,2025-02-17,20:03,expense,Education,3214364.75,PD Mardhiyah,Voluptate dignissimos commodi.,Credit Card,2025-02-17 20:03:00,2025-02,Monday,17,20
+TRX00311,2025-02-18,11:57,expense,Food,210162.89,CV Sihombing Tbk,Odit sunt at porro.,Cash,2025-02-18 11:57:00,2025-02,Tuesday,18,11
+TRX00746,2025-02-18,11:39,expense,Entertainment,680991.63,Perum Astuti Permata,Corporis quae earum corrupti.,Debit Card,2025-02-18 11:39:00,2025-02,Tuesday,18,11
+TRX00008,2025-02-18,08:25,expense,Transport,42836.55,PD Sihombing,Aut dolor debitis assumenda.,E-Wallet,2025-02-18 08:25:00,2025-02,Tuesday,18,8
+TRX00437,2025-02-18,18:04,expense,Entertainment,966252.82,CV Budiyanto,Dolorum ducimus fugit sequi.,E-Wallet,2025-02-18 18:04:00,2025-02,Tuesday,18,18
+TRX00855,2025-02-18,08:11,expense,Investment,1250595.17,PD Widodo Megantara (Persero) Tbk,Hic ipsa enim.,Debit Card,2025-02-18 08:11:00,2025-02,Tuesday,18,8
+TRX00234,2025-02-18,04:33,expense,Health,1399424.69,PT Hidayanto Oktaviani,Et error dolorum.,E-Wallet,2025-02-18 04:33:00,2025-02,Tuesday,18,4
+TRX00399,2025-02-19,16:13,expense,Shopping,484713.06,PD Winarsih,Dolores rerum iste.,Debit Card,2025-02-19 16:13:00,2025-02,Wednesday,19,16
+TRX00173,2025-02-19,06:17,expense,Transport,152038.54,Perum Sinaga Gunarto,Eaque veritatis vero soluta fuga.,Credit Card,2025-02-19 06:17:00,2025-02,Wednesday,19,6
+TRX00146,2025-02-19,04:10,expense,Health,2799442.31,PT Lazuardi,Nobis quo.,Cash,2025-02-19 04:10:00,2025-02,Wednesday,19,4
+TRX00793,2025-02-19,21:27,expense,Investment,9852104.86,PT Narpati,Excepturi ipsa iusto tempore.,Cash,2025-02-19 21:27:00,2025-02,Wednesday,19,21
+TRX00657,2025-02-20,13:41,expense,Entertainment,456120.87,Perum Yuniar Riyanti Tbk,At asperiores error repellendus dolorum.,Cash,2025-02-20 13:41:00,2025-02,Thursday,20,13
+TRX00459,2025-02-20,05:13,expense,Health,2600462.65,Perum Yulianti,Dicta id asperiores earum consequuntur.,E-Wallet,2025-02-20 05:13:00,2025-02,Thursday,20,5
+TRX00126,2025-02-21,20:05,expense,Health,405875.82,PT Tamba,Delectus rem magnam cum.,Cash,2025-02-21 20:05:00,2025-02,Friday,21,20
+TRX00009,2025-02-21,11:07,expense,Education,654748.35,CV Kurniawan (Persero) Tbk,At repellat laudantium.,Debit Card,2025-02-21 11:07:00,2025-02,Friday,21,11
+TRX00168,2025-02-21,21:50,expense,Food,373493.23,PD Sudiati Pradipta,Eum quo autem.,E-Wallet,2025-02-21 21:50:00,2025-02,Friday,21,21
+TRX00479,2025-02-22,07:13,expense,Entertainment,630241.07,UD Pranowo Firgantoro Tbk,Deleniti quidem repellat.,Cash,2025-02-22 07:13:00,2025-02,Saturday,22,7
+TRX00078,2025-02-22,01:50,expense,Transport,95328.61,PT Napitupulu,Repellendus natus expedita.,E-Wallet,2025-02-22 01:50:00,2025-02,Saturday,22,1
+TRX00150,2025-02-23,04:59,income,Investment Return,7902219.52,CV Pertiwi Salahudin,Income received,Bank Transfer,2025-02-23 04:59:00,2025-02,Sunday,23,4
+TRX00143,2025-02-23,18:56,income,Freelance,9681154.72,PD Hardiansyah Tbk,Income received,Bank Transfer,2025-02-23 18:56:00,2025-02,Sunday,23,18
+TRX00594,2025-02-23,06:26,expense,Food,152263.01,Perum Astuti Kusumo Tbk,Aliquid corporis id.,Cash,2025-02-23 06:26:00,2025-02,Sunday,23,6
+TRX00817,2025-02-25,16:40,expense,Shopping,500683.83,PD Setiawan Prasetya (Persero) Tbk,Odit ad doloribus labore esse.,E-Wallet,2025-02-25 16:40:00,2025-02,Tuesday,25,16
+TRX00693,2025-02-25,10:01,income,Freelance,13107906.06,Perum Damanik Jailani,Income received,Bank Transfer,2025-02-25 10:01:00,2025-02,Tuesday,25,10
+TRX00754,2025-02-25,22:07,expense,Investment,4340525.64,UD Wijaya Natsir,Laudantium consequuntur repudiandae esse quasi.,Debit Card,2025-02-25 22:07:00,2025-02,Tuesday,25,22
+TRX00545,2025-02-25,22:23,expense,Food,422882.48,PT Nugroho Tbk,Debitis ab eligendi.,Cash,2025-02-25 22:23:00,2025-02,Tuesday,25,22
+TRX00221,2025-02-25,13:51,expense,Education,737077.26,PD Pangestu Rahmawati (Persero) Tbk,Impedit molestiae est.,Cash,2025-02-25 13:51:00,2025-02,Tuesday,25,13
+TRX00217,2025-02-27,07:25,expense,Entertainment,738528.43,UD Riyanti Pranowo Tbk,Porro cumque saepe quibusdam.,E-Wallet,2025-02-27 07:25:00,2025-02,Thursday,27,7
+TRX00570,2025-02-27,14:59,expense,Bills,763333.76,CV Manullang Habibi Tbk,Animi eius nam.,Debit Card,2025-02-27 14:59:00,2025-02,Thursday,27,14
+TRX00906,2025-02-27,01:43,expense,Health,2809365.58,UD Prasasta (Persero) Tbk,Excepturi libero veritatis.,Debit Card,2025-02-27 01:43:00,2025-02,Thursday,27,1
+TRX00973,2025-02-28,15:30,expense,Education,1138974.17,Perum Lailasari Wulandari,Eaque aperiam quis deserunt.,E-Wallet,2025-02-28 15:30:00,2025-02,Friday,28,15
+TRX00019,2025-02-28,02:00,expense,Health,1179634.28,Perum Dongoran,Eum ipsam sequi architecto.,Credit Card,2025-02-28 02:00:00,2025-02,Friday,28,2
+TRX00149,2025-03-02,08:10,income,Business,8658914.26,UD Thamrin,Income received,Bank Transfer,2025-03-02 08:10:00,2025-03,Sunday,2,8
+TRX00591,2025-03-02,02:43,expense,Bills,1027407.62,PD Safitri Halimah Tbk,Vel dolorem amet dolorem maiores.,Debit Card,2025-03-02 02:43:00,2025-03,Sunday,2,2
+TRX00561,2025-03-03,16:35,expense,Health,2849095.57,Perum Prabowo Saefullah,Voluptates illum voluptatum voluptatibus consectetur.,Credit Card,2025-03-03 16:35:00,2025-03,Monday,3,16
+TRX00309,2025-03-03,18:05,expense,Health,2709058.17,PT Usada,Corporis iusto iste esse ex.,Cash,2025-03-03 18:05:00,2025-03,Monday,3,18
+TRX00664,2025-03-03,15:28,income,Salary,12438268.59,PT Tarihoran Tbk,Income received,Bank Transfer,2025-03-03 15:28:00,2025-03,Monday,3,15
+TRX00616,2025-03-03,18:35,expense,Education,4875890.0,PD Kurniawan Uyainah,Nam itaque sed molestias quae.,Credit Card,2025-03-03 18:35:00,2025-03,Monday,3,18
+TRX00313,2025-03-03,02:07,income,Freelance,10710911.63,UD Budiyanto (Persero) Tbk,Income received,Bank Transfer,2025-03-03 02:07:00,2025-03,Monday,3,2
+TRX00001,2025-03-04,10:07,expense,Education,3193963.18,PD Sudiati (Persero) Tbk,Ipsa facilis voluptatibus blanditiis.,Credit Card,2025-03-04 10:07:00,2025-03,Tuesday,4,10
+TRX00216,2025-03-04,23:34,income,Investment Return,4446802.63,UD Handayani,Income received,Bank Transfer,2025-03-04 23:34:00,2025-03,Tuesday,4,23
+TRX00794,2025-03-04,23:46,expense,Bills,302032.88,PT Marpaung (Persero) Tbk,Tempore est recusandae necessitatibus.,Credit Card,2025-03-04 23:46:00,2025-03,Tuesday,4,23
+TRX00725,2025-03-05,17:46,expense,Health,1386087.66,UD Tarihoran (Persero) Tbk,Quibusdam aliquam quos.,Debit Card,2025-03-05 17:46:00,2025-03,Wednesday,5,17
+TRX00166,2025-03-05,00:46,expense,Food,368525.88,Perum Tarihoran Putra,Dolore incidunt reiciendis.,Credit Card,2025-03-05 00:46:00,2025-03,Wednesday,5,0
+TRX00207,2025-03-05,02:02,expense,Education,849944.05,PD Lestari,Ipsa deleniti omnis impedit fugit.,E-Wallet,2025-03-05 02:02:00,2025-03,Wednesday,5,2
+TRX00782,2025-03-06,14:33,expense,Transport,258997.76,CV Agustina,Fugiat quia architecto.,Debit Card,2025-03-06 14:33:00,2025-03,Thursday,6,14
+TRX00120,2025-03-07,03:09,expense,Bills,1397222.68,PD Waskita (Persero) Tbk,Quaerat minima quasi autem.,Debit Card,2025-03-07 03:09:00,2025-03,Friday,7,3
+TRX00011,2025-03-07,17:25,expense,Bills,729655.79,PT Tampubolon,Aut itaque accusantium neque.,Debit Card,2025-03-07 17:25:00,2025-03,Friday,7,17
+TRX00419,2025-03-07,06:34,expense,Shopping,623663.44,Perum Wijaya Waluyo,Id porro.,Debit Card,2025-03-07 06:34:00,2025-03,Friday,7,6
+TRX00993,2025-03-07,21:57,expense,Health,1638265.19,PT Hariyah Wulandari,Voluptas et ducimus magni quis.,Debit Card,2025-03-07 21:57:00,2025-03,Friday,7,21
+TRX00815,2025-03-07,08:36,expense,Investment,9114247.05,PD Hutagalung,Beatae quas neque possimus.,Debit Card,2025-03-07 08:36:00,2025-03,Friday,7,8
+TRX00658,2025-03-08,00:53,expense,Food,432715.44,Perum Suartini,Reprehenderit animi quibusdam.,Debit Card,2025-03-08 00:53:00,2025-03,Saturday,8,0
+TRX00674,2025-03-09,21:32,expense,Health,1068428.36,PD Wahyudin Waluyo,Soluta dolores beatae corrupti.,Debit Card,2025-03-09 21:32:00,2025-03,Sunday,9,21
+TRX00849,2025-03-09,10:39,income,Freelance,11086066.78,PT Pudjiastuti Mangunsong (Persero) Tbk,Income received,Bank Transfer,2025-03-09 10:39:00,2025-03,Sunday,9,10
+TRX00296,2025-03-09,17:13,expense,Shopping,208465.03,CV Halim,Nesciunt adipisci.,Credit Card,2025-03-09 17:13:00,2025-03,Sunday,9,17
+TRX00376,2025-03-10,23:16,expense,Entertainment,958676.33,CV Hidayat Prasetya,Laudantium illo laborum minus.,Cash,2025-03-10 23:16:00,2025-03,Monday,10,23
+TRX00486,2025-03-10,00:44,expense,Investment,7465863.07,Perum Hasanah (Persero) Tbk,Incidunt fugiat delectus.,E-Wallet,2025-03-10 00:44:00,2025-03,Monday,10,0
+TRX00951,2025-03-10,08:07,expense,Education,3373199.53,PT Budiyanto Kuswoyo,Earum eius itaque temporibus.,Credit Card,2025-03-10 08:07:00,2025-03,Monday,10,8
+TRX00670,2025-03-10,08:53,expense,Health,2393732.62,Perum Setiawan Utami,Deserunt modi error.,Credit Card,2025-03-10 08:53:00,2025-03,Monday,10,8
+TRX00512,2025-03-10,16:20,income,Freelance,11128647.86,CV Marpaung,Income received,Bank Transfer,2025-03-10 16:20:00,2025-03,Monday,10,16
+TRX00859,2025-03-11,17:23,income,Freelance,12602476.17,PT Waluyo (Persero) Tbk,Income received,Bank Transfer,2025-03-11 17:23:00,2025-03,Tuesday,11,17
+TRX00705,2025-03-11,06:21,expense,Shopping,219966.56,CV Halimah Suartini (Persero) Tbk,Esse nesciunt explicabo.,Cash,2025-03-11 06:21:00,2025-03,Tuesday,11,6
+TRX00170,2025-03-11,22:56,income,Salary,13438756.34,CV Permadi (Persero) Tbk,Income received,Bank Transfer,2025-03-11 22:56:00,2025-03,Tuesday,11,22
+TRX00137,2025-03-12,07:39,expense,Education,2442467.96,PT Hasanah (Persero) Tbk,Facere dolore animi inventore.,Credit Card,2025-03-12 07:39:00,2025-03,Wednesday,12,7
+TRX00562,2025-03-12,21:51,expense,Shopping,118855.26,PD Iswahyudi Hidayanto,Nulla odio delectus.,Credit Card,2025-03-12 21:51:00,2025-03,Wednesday,12,21
+TRX00796,2025-03-12,09:53,expense,Food,450916.91,PD Mangunsong Sihotang,Neque labore mollitia voluptates.,Credit Card,2025-03-12 09:53:00,2025-03,Wednesday,12,9
+TRX00039,2025-03-13,16:01,expense,Shopping,1992882.03,PT Haryanti Dongoran,Unde impedit optio nam.,Debit Card,2025-03-13 16:01:00,2025-03,Thursday,13,16
+TRX00816,2025-03-13,02:41,expense,Education,528705.7,PD Dabukke,Sint temporibus.,Cash,2025-03-13 02:41:00,2025-03,Thursday,13,2
+TRX00916,2025-03-14,09:42,expense,Food,302823.01,PD Samosir Hassanah (Persero) Tbk,Tempore nisi.,E-Wallet,2025-03-14 09:42:00,2025-03,Friday,14,9
+TRX00181,2025-03-14,18:03,expense,Health,586687.98,Perum Utama Ramadan,Occaecati itaque nulla non quae.,Cash,2025-03-14 18:03:00,2025-03,Friday,14,18
+TRX00413,2025-03-14,12:05,expense,Health,1578332.36,Perum Najmudin Rahimah (Persero) Tbk,Dolorum eligendi.,Cash,2025-03-14 12:05:00,2025-03,Friday,14,12
+TRX00386,2025-03-15,19:20,expense,Health,2044147.71,Perum Yuliarti Tbk,Voluptas iure quasi officiis.,Credit Card,2025-03-15 19:20:00,2025-03,Saturday,15,19
+TRX00596,2025-03-15,12:19,expense,Transport,44014.05,PD Prakasa,Nulla illum quaerat sit ut.,Debit Card,2025-03-15 12:19:00,2025-03,Saturday,15,12
+TRX00925,2025-03-15,10:18,expense,Education,4966315.79,UD Megantara Mansur (Persero) Tbk,Tempore aspernatur quas.,Cash,2025-03-15 10:18:00,2025-03,Saturday,15,10
+TRX00304,2025-03-15,07:46,expense,Transport,177623.78,UD Napitupulu Ardianto Tbk,Aliquam porro aut ipsam.,E-Wallet,2025-03-15 07:46:00,2025-03,Saturday,15,7
+TRX00676,2025-03-16,09:27,expense,Food,169281.2,Perum Prabowo Hutapea,Minima vel distinctio.,Credit Card,2025-03-16 09:27:00,2025-03,Sunday,16,9
+TRX00772,2025-03-16,18:38,expense,Investment,3389467.67,UD Padmasari Tbk,Laudantium at ex porro quas.,Cash,2025-03-16 18:38:00,2025-03,Sunday,16,18
+TRX00764,2025-03-17,09:43,expense,Shopping,1052423.72,PT Saptono Usada,Facere autem culpa autem.,Credit Card,2025-03-17 09:43:00,2025-03,Monday,17,9
+TRX00052,2025-03-17,22:32,expense,Bills,543690.81,UD Gunawan,Esse nobis earum.,E-Wallet,2025-03-17 22:32:00,2025-03,Monday,17,22
+TRX00271,2025-03-17,01:37,expense,Education,3053933.82,Perum Nugroho Usada (Persero) Tbk,Aut ipsam explicabo.,Debit Card,2025-03-17 01:37:00,2025-03,Monday,17,1
+TRX00785,2025-03-17,00:51,income,Freelance,11185837.94,PT Tampubolon Novitasari,Income received,Bank Transfer,2025-03-17 00:51:00,2025-03,Monday,17,0
+TRX00364,2025-03-17,02:06,expense,Investment,5729541.6,CV Palastri Nashiruddin (Persero) Tbk,Consequatur eveniet tempore voluptatibus laborum.,Debit Card,2025-03-17 02:06:00,2025-03,Monday,17,2
+TRX00042,2025-03-17,07:35,income,Freelance,11027859.06,Perum Prayoga,Income received,Bank Transfer,2025-03-17 07:35:00,2025-03,Monday,17,7
+TRX00504,2025-03-17,00:30,expense,Health,2080409.0,Perum Marbun Widiastuti,Consectetur sint iusto.,Cash,2025-03-17 00:30:00,2025-03,Monday,17,0
+TRX00098,2025-03-18,12:31,expense,Shopping,1156409.57,PD Pradana,Est excepturi officia eaque.,Credit Card,2025-03-18 12:31:00,2025-03,Tuesday,18,12
+TRX00315,2025-03-18,11:04,expense,Food,211434.93,CV Hassanah (Persero) Tbk,Maiores nulla laboriosam expedita.,Cash,2025-03-18 11:04:00,2025-03,Tuesday,18,11
+TRX00686,2025-03-19,18:18,expense,Health,2572173.36,CV Suwarno Tbk,Ex commodi porro suscipit.,Cash,2025-03-19 18:18:00,2025-03,Wednesday,19,18
+TRX00115,2025-03-19,11:00,expense,Transport,172293.45,PT Pratama Lazuardi Tbk,Eius expedita.,Cash,2025-03-19 11:00:00,2025-03,Wednesday,19,11
+TRX00388,2025-03-20,08:46,expense,Shopping,579257.94,CV Agustina,Quae iure necessitatibus.,Cash,2025-03-20 08:46:00,2025-03,Thursday,20,8
+TRX00382,2025-03-20,17:09,income,Salary,4502802.85,CV Nugroho Nashiruddin,Income received,Bank Transfer,2025-03-20 17:09:00,2025-03,Thursday,20,17
+TRX00734,2025-03-20,20:29,expense,Education,1075716.16,Perum Palastri Wahyuni,Officia repudiandae.,E-Wallet,2025-03-20 20:29:00,2025-03,Thursday,20,20
+TRX00330,2025-03-20,15:36,expense,Health,1943815.93,UD Dabukke Prasetyo Tbk,Aut repellat sequi deleniti quidem.,E-Wallet,2025-03-20 15:36:00,2025-03,Thursday,20,15
+TRX00685,2025-03-21,21:15,expense,Bills,384811.07,CV Waskita (Persero) Tbk,Quis quaerat.,E-Wallet,2025-03-21 21:15:00,2025-03,Friday,21,21
+TRX00251,2025-03-21,17:13,income,Investment Return,11112627.09,PD Usamah Budiyanto (Persero) Tbk,Income received,Bank Transfer,2025-03-21 17:13:00,2025-03,Friday,21,17
+TRX00537,2025-03-21,21:28,expense,Entertainment,604094.62,CV Maryati,Iure labore dolor ex.,Credit Card,2025-03-21 21:28:00,2025-03,Friday,21,21
+TRX00420,2025-03-21,21:30,expense,Investment,5047658.58,PD Hassanah,Necessitatibus doloribus nisi.,Cash,2025-03-21 21:30:00,2025-03,Friday,21,21
+TRX00027,2025-03-22,02:38,expense,Food,99034.81,CV Budiyanto Lazuardi Tbk,Laboriosam amet.,Credit Card,2025-03-22 02:38:00,2025-03,Saturday,22,2
+TRX00089,2025-03-23,10:10,expense,Education,1026801.57,PT Nababan Simbolon,Aut illum.,E-Wallet,2025-03-23 10:10:00,2025-03,Sunday,23,10
+TRX00002,2025-03-23,10:10,income,Investment Return,7004503.33,PT Hidayanto Manullang,Income received,Bank Transfer,2025-03-23 10:10:00,2025-03,Sunday,23,10
+TRX00272,2025-03-23,09:54,expense,Transport,206059.86,UD Laksmiwati Tbk,Voluptatibus deserunt natus.,E-Wallet,2025-03-23 09:54:00,2025-03,Sunday,23,9
+TRX00806,2025-03-23,23:16,expense,Investment,9093343.23,UD Anggriawan (Persero) Tbk,Dolore culpa.,Debit Card,2025-03-23 23:16:00,2025-03,Sunday,23,23
+TRX00498,2025-03-23,01:31,expense,Shopping,1662602.51,CV Hutasoit Melani Tbk,Assumenda eaque et.,E-Wallet,2025-03-23 01:31:00,2025-03,Sunday,23,1
+TRX00814,2025-03-23,03:28,expense,Shopping,1838615.39,CV Wijaya (Persero) Tbk,Quos id ex.,E-Wallet,2025-03-23 03:28:00,2025-03,Sunday,23,3
+TRX00857,2025-03-25,01:30,expense,Health,2426301.45,PD Megantara,Nobis ducimus totam.,Debit Card,2025-03-25 01:30:00,2025-03,Tuesday,25,1
+TRX00063,2025-03-25,16:55,expense,Entertainment,307290.64,PD Situmorang,Id nam maxime.,E-Wallet,2025-03-25 16:55:00,2025-03,Tuesday,25,16
+TRX00237,2025-03-25,04:47,expense,Investment,5462881.62,PT Melani Hasanah Tbk,Quo ducimus debitis et.,Debit Card,2025-03-25 04:47:00,2025-03,Tuesday,25,4
+TRX00507,2025-03-26,09:36,expense,Health,2514666.7,PD Wijaya Najmudin,Culpa accusamus ipsam.,Cash,2025-03-26 09:36:00,2025-03,Wednesday,26,9
+TRX00333,2025-03-26,10:38,expense,Food,183723.21,PD Maulana (Persero) Tbk,Dolorum est.,Debit Card,2025-03-26 10:38:00,2025-03,Wednesday,26,10
+TRX00096,2025-03-27,07:40,income,Business,11952538.55,PT Rahimah Mayasari (Persero) Tbk,Income received,Bank Transfer,2025-03-27 07:40:00,2025-03,Thursday,27,7
+TRX00943,2025-03-27,15:33,expense,Food,320944.85,CV Melani Puspita,Impedit consectetur fuga.,Credit Card,2025-03-27 15:33:00,2025-03,Thursday,27,15
+TRX00841,2025-03-27,03:28,expense,Health,2969781.42,PT Usamah Tbk,Eveniet optio reiciendis ullam suscipit.,Cash,2025-03-27 03:28:00,2025-03,Thursday,27,3
+TRX00567,2025-03-27,10:52,expense,Investment,6818128.67,PT Kuswoyo Sitompul,Rerum accusantium quas.,Credit Card,2025-03-27 10:52:00,2025-03,Thursday,27,10
+TRX00503,2025-03-27,05:04,expense,Food,274920.97,UD Habibi Nababan (Persero) Tbk,Eveniet sapiente eligendi aspernatur quaerat.,E-Wallet,2025-03-27 05:04:00,2025-03,Thursday,27,5
+TRX00758,2025-03-28,19:51,expense,Food,380127.57,UD Sinaga Maryati (Persero) Tbk,Sit deserunt voluptate eum veritatis.,Debit Card,2025-03-28 19:51:00,2025-03,Friday,28,19
+TRX00485,2025-03-28,07:43,expense,Food,370332.95,PT Hassanah,Cumque quos quis.,E-Wallet,2025-03-28 07:43:00,2025-03,Friday,28,7
+TRX00065,2025-03-28,00:57,expense,Bills,1381299.22,Perum Irawan,Blanditiis consequuntur reprehenderit.,Credit Card,2025-03-28 00:57:00,2025-03,Friday,28,0
+TRX00531,2025-03-29,03:34,expense,Food,314529.97,PD Samosir Yulianti,Et sint labore.,E-Wallet,2025-03-29 03:34:00,2025-03,Saturday,29,3
+TRX00026,2025-03-29,06:32,expense,Shopping,617051.27,PD Mandala Usada Tbk,Quo dolores.,Credit Card,2025-03-29 06:32:00,2025-03,Saturday,29,6
+TRX00444,2025-03-30,20:20,expense,Education,3763334.97,PD Ardianto,Quam laboriosam repellendus dolore.,Debit Card,2025-03-30 20:20:00,2025-03,Sunday,30,20
+TRX00372,2025-03-30,00:09,expense,Investment,9372869.96,Perum Saefullah Siregar,Excepturi cumque voluptate nostrum ratione.,E-Wallet,2025-03-30 00:09:00,2025-03,Sunday,30,0
+TRX00417,2025-03-30,05:40,expense,Shopping,401925.52,Perum Safitri (Persero) Tbk,Delectus vitae.,E-Wallet,2025-03-30 05:40:00,2025-03,Sunday,30,5
+TRX00337,2025-03-31,20:07,expense,Shopping,1772150.27,UD Puspita Natsir,Earum harum nihil aliquam.,Debit Card,2025-03-31 20:07:00,2025-03,Monday,31,20
+TRX00957,2025-03-31,06:27,expense,Transport,73943.1,PT Haryanto Marpaung,Tempora perspiciatis nulla repudiandae.,Debit Card,2025-03-31 06:27:00,2025-03,Monday,31,6
+TRX00007,2025-04-01,20:08,expense,Education,792732.17,UD Kurniawan,Dolorum velit.,E-Wallet,2025-04-01 20:08:00,2025-04,Tuesday,1,20
+TRX00020,2025-04-01,22:13,expense,Transport,155731.74,Perum Zulkarnain Saragih,Non occaecati a.,Cash,2025-04-01 22:13:00,2025-04,Tuesday,1,22
+TRX00447,2025-04-03,08:51,expense,Shopping,1844595.2,Perum Hartati,Beatae quisquam consequatur reprehenderit.,Debit Card,2025-04-03 08:51:00,2025-04,Thursday,3,8
+TRX00351,2025-04-04,06:51,income,Freelance,3971031.4,UD Haryanti,Income received,Bank Transfer,2025-04-04 06:51:00,2025-04,Friday,4,6
+TRX00025,2025-04-04,11:19,expense,Shopping,1795862.1,UD Rahmawati Pangestu,Adipisci impedit quibusdam.,Credit Card,2025-04-04 11:19:00,2025-04,Friday,4,11
+TRX00481,2025-04-06,00:25,income,Business,12631028.15,CV Gunarto Uyainah,Income received,Bank Transfer,2025-04-06 00:25:00,2025-04,Sunday,6,0
+TRX00695,2025-04-06,04:47,expense,Transport,229247.89,UD Wijayanti Tbk,Vitae quas quaerat distinctio.,Credit Card,2025-04-06 04:47:00,2025-04,Sunday,6,4
+TRX00810,2025-04-06,08:38,expense,Entertainment,259423.7,PD Astuti,Consequatur nihil eligendi similique.,E-Wallet,2025-04-06 08:38:00,2025-04,Sunday,6,8
+TRX00879,2025-04-07,18:47,income,Business,14705676.34,UD Kusmawati Hidayanto,Income received,Bank Transfer,2025-04-07 18:47:00,2025-04,Monday,7,18
+TRX00921,2025-04-07,00:03,expense,Shopping,436456.29,Perum Palastri Prabowo Tbk,Temporibus nisi.,Debit Card,2025-04-07 00:03:00,2025-04,Monday,7,0
+TRX00141,2025-04-07,18:30,income,Investment Return,11363537.55,PD Latupono,Income received,Bank Transfer,2025-04-07 18:30:00,2025-04,Monday,7,18
+TRX00028,2025-04-07,18:41,expense,Food,182055.28,Perum Tarihoran Kuswandari (Persero) Tbk,Vitae exercitationem id a impedit.,Credit Card,2025-04-07 18:41:00,2025-04,Monday,7,18
+TRX00151,2025-04-07,02:00,expense,Entertainment,754064.62,UD Melani Rahmawati (Persero) Tbk,Unde velit sed.,Debit Card,2025-04-07 02:00:00,2025-04,Monday,7,2
+TRX00547,2025-04-07,03:35,expense,Shopping,1823679.66,Perum Maheswara Hardiansyah (Persero) Tbk,Aliquid consequatur aperiam.,Credit Card,2025-04-07 03:35:00,2025-04,Monday,7,3
+TRX00778,2025-04-07,11:30,expense,Investment,2354250.44,Perum Salahudin (Persero) Tbk,Numquam hic molestias.,Debit Card,2025-04-07 11:30:00,2025-04,Monday,7,11
+TRX00148,2025-04-08,07:01,expense,Bills,223015.36,CV Manullang Tbk,Nam ullam quod.,Credit Card,2025-04-08 07:01:00,2025-04,Tuesday,8,7
+TRX00560,2025-04-08,20:09,expense,Education,566120.25,PT Nugroho,Eligendi aut esse.,Cash,2025-04-08 20:09:00,2025-04,Tuesday,8,20
+TRX00740,2025-04-08,03:12,expense,Food,50031.12,PD Permata Tarihoran,Modi id veritatis.,Cash,2025-04-08 03:12:00,2025-04,Tuesday,8,3
+TRX00767,2025-04-10,07:07,expense,Health,2770984.08,UD Pradipta,Distinctio fugit dolorum corrupti.,E-Wallet,2025-04-10 07:07:00,2025-04,Thursday,10,7
+TRX00884,2025-04-10,04:45,expense,Bills,1125343.83,PD Dabukke Rajata,Modi velit dicta doloribus.,E-Wallet,2025-04-10 04:45:00,2025-04,Thursday,10,4
+TRX00040,2025-04-10,22:08,expense,Investment,3509842.17,Perum Mandala,Reprehenderit fugit occaecati reprehenderit magnam.,Credit Card,2025-04-10 22:08:00,2025-04,Thursday,10,22
+TRX00357,2025-04-11,17:28,expense,Shopping,300762.9,PD Hakim,Cum voluptates debitis officia.,Debit Card,2025-04-11 17:28:00,2025-04,Friday,11,17
+TRX00325,2025-04-11,20:21,expense,Health,1800938.78,Perum Handayani Tbk,Atque labore magnam nemo consequatur.,Debit Card,2025-04-11 20:21:00,2025-04,Friday,11,20
+TRX00548,2025-04-11,15:55,expense,Health,2894031.33,CV Wahyuni Winarsih,Illo atque est ipsam.,Cash,2025-04-11 15:55:00,2025-04,Friday,11,15
+TRX00058,2025-04-12,14:27,expense,Education,3104892.03,PD Sihotang Nuraini,Qui incidunt omnis minima.,E-Wallet,2025-04-12 14:27:00,2025-04,Saturday,12,14
+TRX00425,2025-04-12,20:17,expense,Transport,56315.05,CV Fujiati Tbk,Minima dolores minima accusantium eligendi.,Credit Card,2025-04-12 20:17:00,2025-04,Saturday,12,20
+TRX00346,2025-04-12,22:49,income,Salary,7321636.89,UD Suryono,Income received,Bank Transfer,2025-04-12 22:49:00,2025-04,Saturday,12,22
+TRX00306,2025-04-12,08:25,expense,Bills,588003.13,UD Hastuti (Persero) Tbk,Sapiente sapiente doloremque vero.,Debit Card,2025-04-12 08:25:00,2025-04,Saturday,12,8
+TRX00726,2025-04-12,17:47,income,Salary,10316369.1,Perum Saptono,Income received,Bank Transfer,2025-04-12 17:47:00,2025-04,Saturday,12,17
+TRX00457,2025-04-12,06:08,expense,Food,398454.72,Perum Uyainah Melani Tbk,Consectetur sequi laboriosam aspernatur.,Cash,2025-04-12 06:08:00,2025-04,Saturday,12,6
+TRX00349,2025-04-13,19:41,expense,Bills,801614.2,Perum Gunarto Tbk,Maiores vitae enim quis.,Cash,2025-04-13 19:41:00,2025-04,Sunday,13,19
+TRX00156,2025-04-13,00:46,expense,Food,204267.79,PD Natsir Tarihoran Tbk,Ut dolorem.,Debit Card,2025-04-13 00:46:00,2025-04,Sunday,13,0
+TRX00101,2025-04-13,21:53,expense,Bills,637882.56,PT Hastuti (Persero) Tbk,Dolor assumenda totam nemo libero.,Credit Card,2025-04-13 21:53:00,2025-04,Sunday,13,21
+TRX00535,2025-04-15,15:37,expense,Transport,29314.41,PT Budiyanto (Persero) Tbk,Voluptates quasi voluptatibus quidem.,Debit Card,2025-04-15 15:37:00,2025-04,Tuesday,15,15
+TRX00105,2025-04-15,19:12,expense,Bills,1058623.64,PT Pradana,Ipsa ex dolore nisi.,Cash,2025-04-15 19:12:00,2025-04,Tuesday,15,19
+TRX00233,2025-04-15,02:37,income,Salary,5685811.38,UD Nasyiah Hakim,Income received,Bank Transfer,2025-04-15 02:37:00,2025-04,Tuesday,15,2
+TRX00225,2025-04-16,15:00,expense,Food,456962.77,PT Firmansyah (Persero) Tbk,Eaque exercitationem libero ab quod.,Credit Card,2025-04-16 15:00:00,2025-04,Wednesday,16,15
+TRX00837,2025-04-16,03:29,income,Salary,7050389.59,PT Thamrin (Persero) Tbk,Income received,Bank Transfer,2025-04-16 03:29:00,2025-04,Wednesday,16,3
+TRX00626,2025-04-17,10:09,expense,Entertainment,818350.49,Perum Damanik Kuswandari,Iusto ea.,Credit Card,2025-04-17 10:09:00,2025-04,Thursday,17,10
+TRX00424,2025-04-18,15:06,income,Salary,3627094.55,Perum Rahmawati Pangestu,Income received,Bank Transfer,2025-04-18 15:06:00,2025-04,Friday,18,15
+TRX00836,2025-04-18,03:01,expense,Education,2338050.12,Perum Kuswoyo Tbk,Quis molestias nesciunt.,E-Wallet,2025-04-18 03:01:00,2025-04,Friday,18,3
+TRX00502,2025-04-18,17:27,expense,Transport,16912.46,PD Mustofa Mandala (Persero) Tbk,Saepe molestiae labore.,Credit Card,2025-04-18 17:27:00,2025-04,Friday,18,17
+TRX00840,2025-04-18,17:17,expense,Shopping,186059.82,PT Hidayanto Tbk,Possimus magnam vero saepe.,Credit Card,2025-04-18 17:17:00,2025-04,Friday,18,17
+TRX00641,2025-04-18,02:46,expense,Shopping,1151420.13,UD Iswahyudi Suryono,Non dignissimos sed ducimus.,Cash,2025-04-18 02:46:00,2025-04,Friday,18,2
+TRX00599,2025-04-19,18:18,expense,Transport,55987.09,PD Adriansyah Ardianto,Iure cumque fugiat ratione.,Credit Card,2025-04-19 18:18:00,2025-04,Saturday,19,18
+TRX00099,2025-04-19,20:10,income,Investment Return,3885558.78,PT Utami Tbk,Income received,Bank Transfer,2025-04-19 20:10:00,2025-04,Saturday,19,20
+TRX00389,2025-04-19,07:45,expense,Health,2340519.97,UD Hartati Megantara (Persero) Tbk,Libero sit.,E-Wallet,2025-04-19 07:45:00,2025-04,Saturday,19,7
+TRX00909,2025-04-20,22:04,income,Freelance,6400368.83,PT Wijaya,Income received,Bank Transfer,2025-04-20 22:04:00,2025-04,Sunday,20,22
+TRX00730,2025-04-20,07:25,expense,Bills,218391.53,Perum Mayasari Samosir,Molestias error pariatur necessitatibus asperiores.,E-Wallet,2025-04-20 07:25:00,2025-04,Sunday,20,7
+TRX00452,2025-04-20,10:29,expense,Shopping,1960299.38,PT Kusmawati Tbk,Assumenda nam hic minus.,Credit Card,2025-04-20 10:29:00,2025-04,Sunday,20,10
+TRX00933,2025-04-21,10:42,expense,Education,2382752.9,CV Fujiati Nainggolan,Accusamus quod.,Debit Card,2025-04-21 10:42:00,2025-04,Monday,21,10
+TRX00123,2025-04-21,10:53,income,Investment Return,10690496.94,UD Manullang Tbk,Income received,Bank Transfer,2025-04-21 10:53:00,2025-04,Monday,21,10
+TRX00038,2025-04-21,02:06,expense,Transport,203095.45,CV Simanjuntak Palastri,Et ut nemo officia.,Debit Card,2025-04-21 02:06:00,2025-04,Monday,21,2
+TRX00627,2025-04-21,18:56,expense,Health,2400210.12,Perum Riyanti,Asperiores excepturi quidem numquam.,Credit Card,2025-04-21 18:56:00,2025-04,Monday,21,18
+TRX00082,2025-04-22,04:11,expense,Investment,4860946.25,Perum Gunawan,Reprehenderit provident similique eveniet.,Cash,2025-04-22 04:11:00,2025-04,Tuesday,22,4
+TRX00678,2025-04-22,08:46,expense,Bills,1155411.1,CV Prasetya,Ab quo libero.,Cash,2025-04-22 08:46:00,2025-04,Tuesday,22,8
+TRX00327,2025-04-24,17:23,expense,Shopping,1662967.21,PT Pangestu Nashiruddin Tbk,Magnam amet unde esse.,E-Wallet,2025-04-24 17:23:00,2025-04,Thursday,24,17
+TRX00520,2025-04-24,19:31,expense,Shopping,1034669.09,UD Habibi Tbk,Aperiam amet sunt omnis atque.,Credit Card,2025-04-24 19:31:00,2025-04,Thursday,24,19
+TRX00132,2025-04-24,23:50,income,Business,11245986.06,PD Simbolon (Persero) Tbk,Income received,Bank Transfer,2025-04-24 23:50:00,2025-04,Thursday,24,23
+TRX00506,2025-04-25,09:50,expense,Entertainment,72184.49,Perum Habibi Tarihoran Tbk,Aperiam molestias harum aspernatur.,Credit Card,2025-04-25 09:50:00,2025-04,Friday,25,9
+TRX00582,2025-04-26,15:03,expense,Food,476686.31,Perum Rajasa Tbk,Necessitatibus ducimus quas quo.,E-Wallet,2025-04-26 15:03:00,2025-04,Saturday,26,15
+TRX00728,2025-04-26,12:12,expense,Health,1774274.4,Perum Situmorang Mayasari,Voluptate voluptatum deserunt ullam.,Cash,2025-04-26 12:12:00,2025-04,Saturday,26,12
+TRX00761,2025-04-26,22:01,expense,Investment,7843818.81,PD Rahmawati Saptono Tbk,Accusantium molestiae quasi occaecati.,Credit Card,2025-04-26 22:01:00,2025-04,Saturday,26,22
+TRX00501,2025-04-26,04:55,expense,Shopping,1547622.96,PT Sinaga Suartini Tbk,Aliquam fuga iusto nemo.,Credit Card,2025-04-26 04:55:00,2025-04,Saturday,26,4
+TRX00361,2025-04-26,06:15,expense,Entertainment,707037.15,PD Wasita,Qui accusantium aliquid dicta delectus.,Cash,2025-04-26 06:15:00,2025-04,Saturday,26,6
+TRX00469,2025-04-28,13:49,expense,Entertainment,594681.88,PT Prasetya Agustina Tbk,Veniam exercitationem.,Cash,2025-04-28 13:49:00,2025-04,Monday,28,13
+TRX00321,2025-04-28,12:03,expense,Food,415123.53,PD Utama (Persero) Tbk,Fugiat assumenda quos tempora consectetur.,Debit Card,2025-04-28 12:03:00,2025-04,Monday,28,12
+TRX00244,2025-04-28,03:01,expense,Transport,252158.24,Perum Marpaung Saragih,Omnis modi in.,Cash,2025-04-28 03:01:00,2025-04,Monday,28,3
+TRX00843,2025-04-29,20:30,expense,Food,158930.97,Perum Prabowo Prasetya,Fugit magni et.,Cash,2025-04-29 20:30:00,2025-04,Tuesday,29,20
+TRX00358,2025-04-30,01:59,expense,Health,1126154.75,PD Firmansyah,Nulla perferendis odio eum.,Credit Card,2025-04-30 01:59:00,2025-04,Wednesday,30,1
+TRX00331,2025-04-30,13:12,expense,Food,305348.64,UD Purwanti Tbk,Deserunt occaecati.,Debit Card,2025-04-30 13:12:00,2025-04,Wednesday,30,13
+TRX00593,2025-04-30,16:02,expense,Education,2266061.84,UD Saptono Maheswara (Persero) Tbk,Repellat reprehenderit.,Cash,2025-04-30 16:02:00,2025-04,Wednesday,30,16
+TRX00125,2025-04-30,18:18,income,Salary,5027220.76,PD Usada Suwarno Tbk,Income received,Bank Transfer,2025-04-30 18:18:00,2025-04,Wednesday,30,18
+TRX00074,2025-04-30,11:49,expense,Investment,6160303.38,Perum Wastuti Firmansyah (Persero) Tbk,Ut asperiores voluptatem praesentium fugiat.,Cash,2025-04-30 11:49:00,2025-04,Wednesday,30,11
+TRX00410,2025-05-01,19:47,expense,Shopping,438679.69,Perum Siregar Hutasoit,Nisi molestiae illo aperiam.,Credit Card,2025-05-01 19:47:00,2025-05,Thursday,1,19
+TRX00581,2025-05-01,10:12,income,Freelance,13245419.06,Perum Sudiati,Income received,Bank Transfer,2025-05-01 10:12:00,2025-05,Thursday,1,10
+TRX00489,2025-05-01,04:18,expense,Transport,184951.63,PD Jailani Tarihoran,Magni eligendi rem.,E-Wallet,2025-05-01 04:18:00,2025-05,Thursday,1,4
+TRX00427,2025-05-01,03:41,income,Salary,13207392.69,PD Rahimah Haryanti Tbk,Income received,Bank Transfer,2025-05-01 03:41:00,2025-05,Thursday,1,3
+TRX00557,2025-05-02,06:35,expense,Investment,7647377.12,PD Wahyuni Tbk,Quod assumenda.,E-Wallet,2025-05-02 06:35:00,2025-05,Friday,2,6
+TRX00986,2025-05-02,05:58,income,Freelance,13514309.74,CV Widodo (Persero) Tbk,Income received,Bank Transfer,2025-05-02 05:58:00,2025-05,Friday,2,5
+TRX00352,2025-05-03,01:34,income,Freelance,14487874.65,PD Prayoga Pradana Tbk,Income received,Bank Transfer,2025-05-03 01:34:00,2025-05,Saturday,3,1
+TRX00247,2025-05-03,18:29,income,Business,9495198.94,CV Mandasari Tbk,Income received,Bank Transfer,2025-05-03 18:29:00,2025-05,Saturday,3,18
+TRX00801,2025-05-03,04:21,income,Freelance,11206397.42,Perum Oktaviani Tbk,Income received,Bank Transfer,2025-05-03 04:21:00,2025-05,Saturday,3,4
+TRX00524,2025-05-03,07:51,expense,Food,21520.57,PD Samosir Gunarto Tbk,Dolor fugiat quod.,Cash,2025-05-03 07:51:00,2025-05,Saturday,3,7
+TRX00953,2025-05-04,04:09,expense,Shopping,1832279.17,UD Ramadan Yolanda Tbk,Eum quis.,Cash,2025-05-04 04:09:00,2025-05,Sunday,4,4
+TRX00517,2025-05-04,20:33,expense,Education,3749644.56,Perum Pranowo,Doloribus beatae quae itaque fugit.,Cash,2025-05-04 20:33:00,2025-05,Sunday,4,20
+TRX00862,2025-05-04,02:22,expense,Health,53280.68,PD Rajasa Thamrin (Persero) Tbk,Quod ducimus voluptatibus.,Credit Card,2025-05-04 02:22:00,2025-05,Sunday,4,2
+TRX00187,2025-05-05,13:30,income,Business,13756029.82,Perum Nugroho,Income received,Bank Transfer,2025-05-05 13:30:00,2025-05,Monday,5,13
+TRX00264,2025-05-06,21:53,expense,Shopping,719258.38,UD Adriansyah Putra Tbk,Doloribus voluptatum provident voluptate.,Debit Card,2025-05-06 21:53:00,2025-05,Tuesday,6,21
+TRX00908,2025-05-07,18:54,expense,Shopping,1008837.42,PT Lailasari,Nihil explicabo nulla.,Debit Card,2025-05-07 18:54:00,2025-05,Wednesday,7,18
+TRX00328,2025-05-07,18:35,expense,Transport,57665.63,UD Simbolon Winarsih Tbk,Facilis expedita.,Credit Card,2025-05-07 18:35:00,2025-05,Wednesday,7,18
+TRX00652,2025-05-08,22:46,expense,Bills,1134212.41,PT Farida Ardianto Tbk,Sapiente cumque.,Credit Card,2025-05-08 22:46:00,2025-05,Thursday,8,22
+TRX00930,2025-05-08,22:59,expense,Bills,1495136.83,PD Prabowo Yulianti,Deleniti quam ab molestias.,E-Wallet,2025-05-08 22:59:00,2025-05,Thursday,8,22
+TRX00660,2025-05-08,10:36,expense,Shopping,1589575.98,UD Mahendra,Cum facere velit error.,Debit Card,2025-05-08 10:36:00,2025-05,Thursday,8,10
+TRX00091,2025-05-08,17:26,income,Freelance,4759257.86,PD Yuliarti,Income received,Bank Transfer,2025-05-08 17:26:00,2025-05,Thursday,8,17
+TRX00435,2025-05-08,16:01,expense,Transport,33583.31,PT Permata (Persero) Tbk,Nihil eos placeat.,Debit Card,2025-05-08 16:01:00,2025-05,Thursday,8,16
+TRX00619,2025-05-09,12:05,income,Freelance,10981754.33,UD Yuniar Tbk,Income received,Bank Transfer,2025-05-09 12:05:00,2025-05,Friday,9,12
+TRX00528,2025-05-09,14:34,expense,Investment,9980387.7,Perum Rahayu,Alias officia reprehenderit.,E-Wallet,2025-05-09 14:34:00,2025-05,Friday,9,14
+TRX00056,2025-05-10,17:24,expense,Entertainment,630938.03,PT Samosir (Persero) Tbk,Inventore aspernatur.,E-Wallet,2025-05-10 17:24:00,2025-05,Saturday,10,17
+TRX00508,2025-05-10,22:05,expense,Entertainment,622795.73,Perum Wijaya (Persero) Tbk,Molestiae maiores occaecati sit fugiat.,E-Wallet,2025-05-10 22:05:00,2025-05,Saturday,10,22
+TRX00236,2025-05-10,04:10,expense,Investment,1782880.84,PD Pradana Tbk,Veritatis accusantium.,E-Wallet,2025-05-10 04:10:00,2025-05,Saturday,10,4
+TRX00936,2025-05-10,19:26,expense,Investment,3350461.89,Perum Wahyudin,Eveniet enim error enim expedita.,Cash,2025-05-10 19:26:00,2025-05,Saturday,10,19
+TRX00991,2025-05-11,16:14,expense,Transport,235357.3,UD Utami,Et numquam sequi commodi nulla.,Debit Card,2025-05-11 16:14:00,2025-05,Sunday,11,16
+TRX00527,2025-05-11,09:20,expense,Transport,117233.92,PT Kuswoyo Tbk,Ipsam ducimus non enim.,Debit Card,2025-05-11 09:20:00,2025-05,Sunday,11,9
+TRX00499,2025-05-12,22:39,expense,Education,4503434.15,PD Dongoran Kuswandari,Placeat dolor fugiat voluptatem ipsa.,E-Wallet,2025-05-12 22:39:00,2025-05,Monday,12,22
+TRX00904,2025-05-12,02:06,income,Business,8511977.29,Perum Hastuti Sihotang,Income received,Bank Transfer,2025-05-12 02:06:00,2025-05,Monday,12,2
+TRX00339,2025-05-12,02:33,expense,Food,234249.13,Perum Waskita Siregar,Consequuntur corrupti.,E-Wallet,2025-05-12 02:33:00,2025-05,Monday,12,2
+TRX00208,2025-05-12,01:11,expense,Health,1114873.0,PT Pranowo,Dicta sit nesciunt assumenda.,E-Wallet,2025-05-12 01:11:00,2025-05,Monday,12,1
+TRX00463,2025-05-13,08:58,expense,Education,3327071.5,UD Adriansyah Ardianto (Persero) Tbk,Nihil consequuntur.,Cash,2025-05-13 08:58:00,2025-05,Tuesday,13,8
+TRX00387,2025-05-14,20:34,income,Freelance,12791363.27,Perum Purnawati,Income received,Bank Transfer,2025-05-14 20:34:00,2025-05,Wednesday,14,20
+TRX00550,2025-05-15,20:42,income,Salary,5193686.84,UD Hidayat,Income received,Bank Transfer,2025-05-15 20:42:00,2025-05,Thursday,15,20
+TRX00798,2025-05-15,21:25,income,Salary,4016260.1,UD Tampubolon Megantara Tbk,Income received,Bank Transfer,2025-05-15 21:25:00,2025-05,Thursday,15,21
+TRX00283,2025-05-17,03:57,expense,Food,368123.68,PT Permata Wulandari,Temporibus ab pariatur vel.,E-Wallet,2025-05-17 03:57:00,2025-05,Saturday,17,3
+TRX00224,2025-05-17,13:55,income,Freelance,13233861.86,CV Nashiruddin Pertiwi,Income received,Bank Transfer,2025-05-17 13:55:00,2025-05,Saturday,17,13
+TRX00895,2025-05-18,07:23,expense,Entertainment,812861.29,CV Rajata,Facilis maiores aliquam.,Debit Card,2025-05-18 07:23:00,2025-05,Sunday,18,7
+TRX00104,2025-05-18,08:35,expense,Bills,1480695.04,Perum Prasetyo Puspasari,Dolores eaque doloribus.,Debit Card,2025-05-18 08:35:00,2025-05,Sunday,18,8
+TRX00075,2025-05-19,02:00,expense,Shopping,1926262.07,UD Zulkarnain Melani Tbk,Explicabo maxime beatae.,Debit Card,2025-05-19 02:00:00,2025-05,Monday,19,2
+TRX00158,2025-05-19,19:14,expense,Investment,8907662.04,CV Nababan Siregar Tbk,Doloribus iusto esse.,Cash,2025-05-19 19:14:00,2025-05,Monday,19,19
+TRX00834,2025-05-20,02:14,expense,Bills,652401.24,UD Dabukke Rahayu Tbk,Ea deleniti similique.,Debit Card,2025-05-20 02:14:00,2025-05,Tuesday,20,2
+TRX00072,2025-05-20,18:57,expense,Transport,157796.37,CV Zulaika (Persero) Tbk,Iure nulla labore quos.,E-Wallet,2025-05-20 18:57:00,2025-05,Tuesday,20,18
+TRX00060,2025-05-20,14:53,income,Business,4524726.15,Perum Suryono (Persero) Tbk,Income received,Bank Transfer,2025-05-20 14:53:00,2025-05,Tuesday,20,14
+TRX00765,2025-05-20,19:08,expense,Food,422806.59,PD Budiyanto Tampubolon,Possimus optio quibusdam mollitia.,Cash,2025-05-20 19:08:00,2025-05,Tuesday,20,19
+TRX00574,2025-05-21,14:30,expense,Shopping,1380847.56,CV Kuswoyo,Sunt dolore quas enim atque.,Credit Card,2025-05-21 14:30:00,2025-05,Wednesday,21,14
+TRX00262,2025-05-21,02:19,expense,Transport,242013.13,CV Simanjuntak Oktaviani,Saepe quod.,Cash,2025-05-21 02:19:00,2025-05,Wednesday,21,2
+TRX00891,2025-05-21,05:22,expense,Shopping,888424.83,PD Suartini Andriani,Fugiat unde natus labore.,Credit Card,2025-05-21 05:22:00,2025-05,Wednesday,21,5
+TRX00724,2025-05-22,00:06,expense,Entertainment,619337.01,Perum Latupono Wacana (Persero) Tbk,Inventore non alias.,Credit Card,2025-05-22 00:06:00,2025-05,Thursday,22,0
+TRX00621,2025-05-23,02:25,expense,Food,98256.96,CV Mahendra Manullang,Quae corporis.,E-Wallet,2025-05-23 02:25:00,2025-05,Friday,23,2
+TRX00385,2025-05-23,07:58,income,Freelance,8272859.88,Perum Wibowo Tbk,Income received,Bank Transfer,2025-05-23 07:58:00,2025-05,Friday,23,7
+TRX00519,2025-05-24,11:05,expense,Health,488948.11,Perum Wacana Tbk,Libero natus ea.,Credit Card,2025-05-24 11:05:00,2025-05,Saturday,24,11
+TRX00583,2025-05-24,11:10,expense,Transport,145804.59,UD Uwais Wasita Tbk,Quaerat minima.,Debit Card,2025-05-24 11:10:00,2025-05,Saturday,24,11
+TRX00300,2025-05-25,14:42,expense,Investment,5399619.22,Perum Widodo Anggriawan Tbk,Odio fugit a.,E-Wallet,2025-05-25 14:42:00,2025-05,Sunday,25,14
+TRX00285,2025-05-26,02:44,expense,Shopping,985044.33,CV Farida Sitompul (Persero) Tbk,Illo accusantium.,Cash,2025-05-26 02:44:00,2025-05,Monday,26,2
+TRX00401,2025-05-26,03:19,expense,Bills,1192559.69,Perum Haryanti Dabukke,Excepturi suscipit natus.,Debit Card,2025-05-26 03:19:00,2025-05,Monday,26,3
+TRX00549,2025-05-26,00:59,income,Business,13130984.43,CV Aryani Purnawati,Income received,Bank Transfer,2025-05-26 00:59:00,2025-05,Monday,26,0
+TRX00905,2025-05-26,10:03,expense,Entertainment,239441.02,Perum Siregar Tbk,Aliquid aliquid ut.,E-Wallet,2025-05-26 10:03:00,2025-05,Monday,26,10
+TRX00565,2025-05-27,01:36,expense,Food,147479.76,CV Firgantoro Hakim,Architecto amet ut assumenda facilis.,E-Wallet,2025-05-27 01:36:00,2025-05,Tuesday,27,1
+TRX00863,2025-05-27,07:50,expense,Bills,930845.94,UD Puspita Tbk,Et possimus perferendis.,Credit Card,2025-05-27 07:50:00,2025-05,Tuesday,27,7
+TRX00714,2025-05-27,10:29,expense,Health,972695.07,Perum Maheswara Wibisono Tbk,Tempore necessitatibus alias.,E-Wallet,2025-05-27 10:29:00,2025-05,Tuesday,27,10
+TRX00607,2025-05-28,09:39,expense,Bills,416575.46,CV Nasyidah Mulyani Tbk,Corporis aliquid fuga nemo.,Debit Card,2025-05-28 09:39:00,2025-05,Wednesday,28,9
+TRX00369,2025-05-28,19:54,expense,Bills,308932.89,PD Rajata Tbk,Quibusdam recusandae dicta doloremque.,Debit Card,2025-05-28 19:54:00,2025-05,Wednesday,28,19
+TRX00418,2025-05-28,23:24,expense,Shopping,1917567.78,PT Pangestu Yuniar,Quo aperiam.,Debit Card,2025-05-28 23:24:00,2025-05,Wednesday,28,23
+TRX00829,2025-05-28,21:01,expense,Education,778485.66,PT Wahyuni,Suscipit modi consequuntur.,Credit Card,2025-05-28 21:01:00,2025-05,Wednesday,28,21
+TRX00526,2025-05-29,17:31,expense,Investment,9363316.58,UD Dongoran Tbk,Enim minus autem.,Debit Card,2025-05-29 17:31:00,2025-05,Thursday,29,17
+TRX00966,2025-05-29,15:20,income,Freelance,10947764.86,CV Suryono (Persero) Tbk,Income received,Bank Transfer,2025-05-29 15:20:00,2025-05,Thursday,29,15
+TRX00722,2025-05-29,21:17,expense,Education,995284.78,PD Pratama (Persero) Tbk,Suscipit repellat.,Credit Card,2025-05-29 21:17:00,2025-05,Thursday,29,21
+TRX00200,2025-05-30,01:59,expense,Investment,9627644.6,Perum Marpaung (Persero) Tbk,Sequi ipsum rerum labore.,Cash,2025-05-30 01:59:00,2025-05,Friday,30,1
+TRX00013,2025-05-30,12:17,expense,Investment,5857229.19,UD Januar Aryani (Persero) Tbk,Commodi earum.,E-Wallet,2025-05-30 12:17:00,2025-05,Friday,30,12
+TRX00460,2025-05-30,13:58,expense,Health,1296517.86,UD Nuraini (Persero) Tbk,Doloremque assumenda doloribus reprehenderit.,Cash,2025-05-30 13:58:00,2025-05,Friday,30,13
+TRX00348,2025-05-30,17:54,expense,Shopping,407352.0,UD Samosir Utama (Persero) Tbk,Rem perspiciatis.,Debit Card,2025-05-30 17:54:00,2025-05,Friday,30,17
+TRX00006,2025-05-30,18:43,income,Business,14798770.63,CV Yulianti Narpati (Persero) Tbk,Income received,Bank Transfer,2025-05-30 18:43:00,2025-05,Friday,30,18
+TRX00963,2025-05-31,09:33,expense,Education,1731643.06,UD Wacana Sudiati,Asperiores dolorem nulla.,Debit Card,2025-05-31 09:33:00,2025-05,Saturday,31,9
+TRX00482,2025-06-01,21:40,expense,Entertainment,427164.29,Perum Sirait Tbk,Corporis ut dolorum.,Cash,2025-06-01 21:40:00,2025-06,Sunday,1,21
+TRX00307,2025-06-01,08:32,income,Salary,14920043.25,PT Winarsih Megantara (Persero) Tbk,Income received,Bank Transfer,2025-06-01 08:32:00,2025-06,Sunday,1,8
+TRX00979,2025-06-01,13:07,expense,Health,1220427.42,PT Maryadi (Persero) Tbk,Quos ullam.,Debit Card,2025-06-01 13:07:00,2025-06,Sunday,1,13
+TRX00743,2025-06-01,13:23,expense,Investment,6615986.37,PT Wahyudin,Fugiat in.,E-Wallet,2025-06-01 13:23:00,2025-06,Sunday,1,13
+TRX00958,2025-06-04,10:53,expense,Transport,104280.95,CV Santoso Pradana (Persero) Tbk,Harum alias.,Cash,2025-06-04 10:53:00,2025-06,Wednesday,4,10
+TRX00850,2025-06-04,16:53,expense,Transport,186897.78,CV Pradana Budiman,Fugiat necessitatibus error reprehenderit.,E-Wallet,2025-06-04 16:53:00,2025-06,Wednesday,4,16
+TRX00046,2025-06-04,15:11,expense,Food,264230.76,Perum Putra Kusmawati (Persero) Tbk,Repellendus sapiente hic necessitatibus.,Debit Card,2025-06-04 15:11:00,2025-06,Wednesday,4,15
+TRX00249,2025-06-05,03:49,income,Investment Return,6611562.8,PT Sirait Siregar,Income received,Bank Transfer,2025-06-05 03:49:00,2025-06,Thursday,5,3
+TRX00969,2025-06-05,21:44,expense,Entertainment,100953.05,UD Nasyidah Pratama,Magnam recusandae laborum necessitatibus eos.,Credit Card,2025-06-05 21:44:00,2025-06,Thursday,5,21
+TRX00370,2025-06-05,17:39,expense,Investment,8296173.35,UD Anggriawan,Nam eaque.,Cash,2025-06-05 17:39:00,2025-06,Thursday,5,17
+TRX00467,2025-06-05,07:01,income,Salary,6964896.05,UD Purwanti Halim,Income received,Bank Transfer,2025-06-05 07:01:00,2025-06,Thursday,5,7
+TRX00411,2025-06-07,10:38,expense,Shopping,1186557.32,UD Januar,Incidunt suscipit necessitatibus.,E-Wallet,2025-06-07 10:38:00,2025-06,Saturday,7,10
+TRX00033,2025-06-07,22:10,expense,Shopping,802343.47,PD Aryani Tbk,Ab non cum.,Cash,2025-06-07 22:10:00,2025-06,Saturday,7,22
+TRX00865,2025-06-08,14:43,income,Salary,12978220.0,UD Siregar Sudiati (Persero) Tbk,Income received,Bank Transfer,2025-06-08 14:43:00,2025-06,Sunday,8,14
+TRX00573,2025-06-08,09:58,income,Salary,6314847.9,Perum Firgantoro Usada (Persero) Tbk,Income received,Bank Transfer,2025-06-08 09:58:00,2025-06,Sunday,8,9
+TRX00878,2025-06-09,18:25,expense,Investment,3682680.85,PT Purnawati Rahmawati,Aliquam consequatur officiis.,Cash,2025-06-09 18:25:00,2025-06,Monday,9,18
+TRX00165,2025-06-09,13:42,expense,Transport,58705.15,UD Prasetyo,Nisi architecto necessitatibus.,Cash,2025-06-09 13:42:00,2025-06,Monday,9,13
+TRX00771,2025-06-09,18:10,expense,Entertainment,327890.6,CV Ardianto,Laborum ab aperiam.,Cash,2025-06-09 18:10:00,2025-06,Monday,9,18
+TRX00374,2025-06-09,22:23,expense,Food,443580.53,Perum Najmudin Samosir Tbk,Quibusdam ex.,Cash,2025-06-09 22:23:00,2025-06,Monday,9,22
+TRX00471,2025-06-10,02:16,expense,Shopping,222905.1,PD Susanti Sudiati,Sunt maxime distinctio saepe ab.,E-Wallet,2025-06-10 02:16:00,2025-06,Tuesday,10,2
+TRX00509,2025-06-10,14:51,expense,Bills,143312.7,UD Manullang Purwanti,Quibusdam natus labore.,E-Wallet,2025-06-10 14:51:00,2025-06,Tuesday,10,14
+TRX00172,2025-06-11,08:34,expense,Bills,657436.17,Perum Pratiwi,Quia recusandae necessitatibus.,Cash,2025-06-11 08:34:00,2025-06,Wednesday,11,8
+TRX00403,2025-06-11,12:19,expense,Shopping,864421.54,UD Wulandari (Persero) Tbk,Occaecati reiciendis.,Credit Card,2025-06-11 12:19:00,2025-06,Wednesday,11,12
+TRX00821,2025-06-11,04:46,expense,Education,2736029.83,PT Sirait Purwanti (Persero) Tbk,Ea eum laborum.,Credit Card,2025-06-11 04:46:00,2025-06,Wednesday,11,4
+TRX00466,2025-06-12,08:58,income,Freelance,11918318.38,Perum Nugroho (Persero) Tbk,Income received,Bank Transfer,2025-06-12 08:58:00,2025-06,Thursday,12,8
+TRX00654,2025-06-12,00:10,expense,Entertainment,615063.05,UD Winarno Nasyidah (Persero) Tbk,Voluptatum cumque architecto dicta fugit.,Debit Card,2025-06-12 00:10:00,2025-06,Thursday,12,0
+TRX00522,2025-06-12,17:16,expense,Entertainment,872298.29,UD Jailani,Impedit tempora asperiores provident animi.,Debit Card,2025-06-12 17:16:00,2025-06,Thursday,12,17
+TRX00875,2025-06-13,08:38,expense,Shopping,1758432.9,Perum Lestari,Nihil magni ipsa iste minus.,Debit Card,2025-06-13 08:38:00,2025-06,Friday,13,8
+TRX00638,2025-06-13,02:09,income,Freelance,8796476.37,Perum Wijayanti Suryatmi Tbk,Income received,Bank Transfer,2025-06-13 02:09:00,2025-06,Friday,13,2
+TRX00252,2025-06-13,19:11,expense,Entertainment,73357.57,PT Halimah Halim,Commodi distinctio.,Credit Card,2025-06-13 19:11:00,2025-06,Friday,13,19
+TRX00070,2025-06-13,15:20,income,Business,7155651.85,PD Puspita Puspasari,Income received,Bank Transfer,2025-06-13 15:20:00,2025-06,Friday,13,15
+TRX00681,2025-06-14,06:23,expense,Bills,1068903.11,PT Mahendra Tbk,Ab tempore molestiae exercitationem explicabo.,Credit Card,2025-06-14 06:23:00,2025-06,Saturday,14,6
+TRX00122,2025-06-14,15:10,expense,Entertainment,122070.16,Perum Mandasari Tbk,Vero quaerat itaque.,Cash,2025-06-14 15:10:00,2025-06,Saturday,14,15
+TRX00755,2025-06-15,02:58,expense,Transport,111181.89,UD Latupono Prayoga (Persero) Tbk,Consequuntur aperiam.,Credit Card,2025-06-15 02:58:00,2025-06,Sunday,15,2
+TRX00628,2025-06-15,17:15,expense,Entertainment,982810.41,UD Wahyuni (Persero) Tbk,Ipsam iure quam vero facere.,Credit Card,2025-06-15 17:15:00,2025-06,Sunday,15,17
+TRX00867,2025-06-15,00:52,income,Business,6872718.87,PT Mustofa,Income received,Bank Transfer,2025-06-15 00:52:00,2025-06,Sunday,15,0
+TRX00864,2025-06-15,16:44,expense,Investment,8535367.06,PT Mardhiyah Tbk,Nam quia nulla.,Cash,2025-06-15 16:44:00,2025-06,Sunday,15,16
+TRX00611,2025-06-15,15:58,income,Business,12680322.24,PT Simanjuntak Sinaga,Income received,Bank Transfer,2025-06-15 15:58:00,2025-06,Sunday,15,15
+TRX00861,2025-06-15,03:55,expense,Bills,1209067.67,PD Hidayat,Dicta doloremque possimus.,Cash,2025-06-15 03:55:00,2025-06,Sunday,15,3
+TRX00706,2025-06-16,22:05,expense,Education,4040187.53,PT Natsir Novitasari,Maiores tenetur dolorem illo.,Debit Card,2025-06-16 22:05:00,2025-06,Monday,16,22
+TRX00663,2025-06-16,13:37,expense,Entertainment,672415.03,PD Kusumo Mustofa,Magnam in nulla dolor.,Cash,2025-06-16 13:37:00,2025-06,Monday,16,13
+TRX00880,2025-06-16,10:25,expense,Health,922211.87,PD Suartini Suartini,Quisquam libero ut.,Credit Card,2025-06-16 10:25:00,2025-06,Monday,16,10
+TRX00684,2025-06-16,15:24,expense,Entertainment,744750.69,CV Natsir Habibi (Persero) Tbk,Omnis corporis voluptas ipsam.,Cash,2025-06-16 15:24:00,2025-06,Monday,16,15
+TRX01000,2025-06-16,02:55,expense,Health,886643.37,Perum Safitri Putra (Persero) Tbk,Doloribus quidem.,Cash,2025-06-16 02:55:00,2025-06,Monday,16,2
+TRX00281,2025-06-16,16:29,expense,Shopping,1925483.05,CV Andriani Iswahyudi (Persero) Tbk,Nam magnam nam sed repudiandae.,Debit Card,2025-06-16 16:29:00,2025-06,Monday,16,16
+TRX00021,2025-06-16,12:50,expense,Transport,23957.32,PT Tamba Hassanah (Persero) Tbk,Iusto porro maiores adipisci expedita.,Credit Card,2025-06-16 12:50:00,2025-06,Monday,16,12
+TRX00458,2025-06-16,05:58,expense,Food,20090.43,Perum Rahayu Hakim (Persero) Tbk,Ut veritatis alias.,Credit Card,2025-06-16 05:58:00,2025-06,Monday,16,5
+TRX00717,2025-06-17,09:18,expense,Bills,913330.53,UD Simbolon (Persero) Tbk,Porro nam ea est dicta.,Cash,2025-06-17 09:18:00,2025-06,Tuesday,17,9
+TRX00639,2025-06-17,09:37,expense,Investment,9716835.99,CV Wahyudin Novitasari,Harum cum dolor iste molestias.,Credit Card,2025-06-17 09:37:00,2025-06,Tuesday,17,9
+TRX00980,2025-06-18,23:29,expense,Food,219269.91,CV Nababan,Voluptatibus est suscipit.,Cash,2025-06-18 23:29:00,2025-06,Wednesday,18,23
+TRX00797,2025-06-18,02:44,income,Investment Return,7350717.56,PD Nainggolan,Income received,Bank Transfer,2025-06-18 02:44:00,2025-06,Wednesday,18,2
+TRX00972,2025-06-18,15:31,expense,Bills,1405484.49,PD Susanti Suwarno,Eos doloribus atque suscipit.,Credit Card,2025-06-18 15:31:00,2025-06,Wednesday,18,15
+TRX00949,2025-06-18,02:56,income,Investment Return,11484183.53,PT Rahimah Jailani (Persero) Tbk,Income received,Bank Transfer,2025-06-18 02:56:00,2025-06,Wednesday,18,2
+TRX00555,2025-06-19,01:15,expense,Shopping,805207.07,UD Laksmiwati Nainggolan (Persero) Tbk,Quas explicabo quos.,Debit Card,2025-06-19 01:15:00,2025-06,Thursday,19,1
+TRX00777,2025-06-19,11:07,expense,Food,470718.28,PD Maheswara Hutasoit,Adipisci minima molestiae expedita.,Debit Card,2025-06-19 11:07:00,2025-06,Thursday,19,11
+TRX00629,2025-06-19,00:48,expense,Investment,1178160.93,PD Irawan Zulkarnain,Rerum ut sequi.,Cash,2025-06-19 00:48:00,2025-06,Thursday,19,0
+TRX00492,2025-06-19,08:56,income,Business,13484383.12,CV Laksmiwati,Income received,Bank Transfer,2025-06-19 08:56:00,2025-06,Thursday,19,8
+TRX00219,2025-06-19,09:43,expense,Bills,426143.26,PD Nasyiah Tbk,Veritatis esse repudiandae natus.,Credit Card,2025-06-19 09:43:00,2025-06,Thursday,19,9
+TRX00944,2025-06-20,18:08,expense,Health,1737762.74,CV Permadi Maheswara,Sed odit officiis.,Credit Card,2025-06-20 18:08:00,2025-06,Friday,20,18
+TRX00448,2025-06-20,10:01,expense,Food,414385.71,UD Simbolon (Persero) Tbk,Et voluptate nesciunt accusantium.,E-Wallet,2025-06-20 10:01:00,2025-06,Friday,20,10
+TRX00179,2025-06-20,16:44,expense,Health,1164291.54,PT Marpaung (Persero) Tbk,Reprehenderit dolorum sint architecto asperiores.,E-Wallet,2025-06-20 16:44:00,2025-06,Friday,20,16
+TRX00869,2025-06-21,05:24,expense,Food,204340.47,CV Pudjiastuti (Persero) Tbk,Nulla repellat assumenda facere quae.,Debit Card,2025-06-21 05:24:00,2025-06,Saturday,21,5
+TRX00449,2025-06-22,02:11,expense,Health,1038863.74,PT Rahimah,Consectetur debitis officia.,Debit Card,2025-06-22 02:11:00,2025-06,Sunday,22,2
+TRX00131,2025-06-23,22:13,expense,Shopping,978815.96,UD Irawan (Persero) Tbk,Ullam rerum aut.,Cash,2025-06-23 22:13:00,2025-06,Monday,23,22
+TRX00818,2025-06-23,21:00,expense,Entertainment,430201.66,PT Palastri (Persero) Tbk,Molestias totam laudantium libero aliquid.,E-Wallet,2025-06-23 21:00:00,2025-06,Monday,23,21
+TRX00959,2025-06-23,14:15,expense,Entertainment,821473.73,PD Laksita Manullang,Ex quisquam maiores laudantium.,Cash,2025-06-23 14:15:00,2025-06,Monday,23,14
+TRX00662,2025-06-23,10:53,expense,Bills,139635.78,PT Utama Habibi,Officiis officiis architecto.,E-Wallet,2025-06-23 10:53:00,2025-06,Monday,23,10
+TRX00932,2025-06-23,20:24,expense,Investment,4681766.34,PD Budiyanto Padmasari Tbk,Laudantium earum aliquam.,Debit Card,2025-06-23 20:24:00,2025-06,Monday,23,20
+TRX00488,2025-06-24,19:17,income,Freelance,4373851.66,CV Hutasoit Pudjiastuti,Income received,Bank Transfer,2025-06-24 19:17:00,2025-06,Tuesday,24,19
+TRX00964,2025-06-24,22:16,expense,Health,2024603.1,CV Anggriawan Mangunsong Tbk,Officia dolores asperiores amet.,Credit Card,2025-06-24 22:16:00,2025-06,Tuesday,24,22
+TRX00634,2025-06-24,18:53,income,Salary,4216474.77,Perum Widiastuti Natsir Tbk,Income received,Bank Transfer,2025-06-24 18:53:00,2025-06,Tuesday,24,18
+TRX00211,2025-06-24,05:07,expense,Investment,3247012.08,Perum Rahmawati Nuraini,Repellendus quo reiciendis exercitationem possimus.,Cash,2025-06-24 05:07:00,2025-06,Tuesday,24,5
+TRX00193,2025-06-24,17:50,expense,Food,265979.67,PT Hartati Tbk,Nesciunt numquam occaecati dolorum.,Cash,2025-06-24 17:50:00,2025-06,Tuesday,24,17
+TRX00698,2025-06-24,03:41,expense,Bills,910329.46,CV Nainggolan Pertiwi,Id molestiae.,Debit Card,2025-06-24 03:41:00,2025-06,Tuesday,24,3
+TRX00059,2025-06-24,21:57,expense,Entertainment,867384.39,CV Megantara (Persero) Tbk,Perspiciatis repellendus doloremque in.,Cash,2025-06-24 21:57:00,2025-06,Tuesday,24,21
+TRX00887,2025-06-24,10:46,expense,Transport,113503.12,CV Haryanto (Persero) Tbk,Non totam quaerat consequuntur.,Cash,2025-06-24 10:46:00,2025-06,Tuesday,24,10
+TRX00162,2025-06-25,07:04,expense,Education,2688608.67,Perum Mandala (Persero) Tbk,Earum delectus aut saepe sequi.,E-Wallet,2025-06-25 07:04:00,2025-06,Wednesday,25,7
+TRX00084,2025-06-26,18:48,expense,Entertainment,100811.03,CV Permata Saputra,Deleniti qui exercitationem necessitatibus labore.,Cash,2025-06-26 18:48:00,2025-06,Thursday,26,18
+TRX00802,2025-06-26,04:25,expense,Education,2334866.47,CV Yulianti,Minima atque a a.,Debit Card,2025-06-26 04:25:00,2025-06,Thursday,26,4
+TRX00014,2025-06-26,12:40,expense,Shopping,662919.66,CV Sitorus (Persero) Tbk,Debitis delectus.,Cash,2025-06-26 12:40:00,2025-06,Thursday,26,12
+TRX00426,2025-06-27,16:18,income,Business,14664063.96,Perum Andriani (Persero) Tbk,Income received,Bank Transfer,2025-06-27 16:18:00,2025-06,Friday,27,16
+TRX00523,2025-06-28,14:46,expense,Entertainment,594852.5,UD Rahayu,Laborum dicta nisi error ex.,Cash,2025-06-28 14:46:00,2025-06,Saturday,28,14
+TRX00882,2025-06-29,07:58,expense,Investment,2221194.86,PT Natsir Laksita (Persero) Tbk,Similique animi cum.,Credit Card,2025-06-29 07:58:00,2025-06,Sunday,29,7
+TRX00050,2025-06-29,20:05,expense,Health,1141968.17,PT Kuswoyo Tbk,Numquam at deserunt placeat ipsam.,Cash,2025-06-29 20:05:00,2025-06,Sunday,29,20
+TRX00069,2025-06-29,16:29,income,Freelance,14754126.34,PT Laksmiwati Santoso Tbk,Income received,Bank Transfer,2025-06-29 16:29:00,2025-06,Sunday,29,16
+TRX00363,2025-06-30,05:38,expense,Shopping,1476203.19,PT Wijaya Siregar Tbk,Tempora optio tempore dolore quisquam.,Cash,2025-06-30 05:38:00,2025-06,Monday,30,5
+TRX00580,2025-07-01,07:43,expense,Health,2698140.28,Perum Winarno Prasetya Tbk,Laborum ea sequi.,E-Wallet,2025-07-01 07:43:00,2025-07,Tuesday,1,7
+TRX00967,2025-07-01,19:47,expense,Entertainment,347273.57,CV Usamah Tbk,Harum ipsa molestiae ea.,Credit Card,2025-07-01 19:47:00,2025-07,Tuesday,1,19
+TRX00753,2025-07-01,12:53,expense,Entertainment,834425.4,CV Damanik Tbk,Sapiente dolores doloribus consequuntur officiis.,Debit Card,2025-07-01 12:53:00,2025-07,Tuesday,1,12
+TRX00899,2025-07-01,20:06,expense,Transport,208369.98,UD Mulyani Tbk,Ea repudiandae quisquam hic dolor.,Credit Card,2025-07-01 20:06:00,2025-07,Tuesday,1,20
+TRX00701,2025-07-01,10:14,expense,Shopping,1160062.15,PT Tamba Putra,Aut magni.,Debit Card,2025-07-01 10:14:00,2025-07,Tuesday,1,10
+TRX00116,2025-07-01,15:46,expense,Food,221857.17,CV Siregar,Corporis modi tempora corrupti ab.,Cash,2025-07-01 15:46:00,2025-07,Tuesday,1,15
+TRX00263,2025-07-01,16:43,income,Investment Return,8163670.74,PT Suryatmi Laksmiwati (Persero) Tbk,Income received,Bank Transfer,2025-07-01 16:43:00,2025-07,Tuesday,1,16
+TRX00704,2025-07-01,12:31,expense,Health,613233.43,PD Maryadi Tbk,Laborum rem quae architecto.,Debit Card,2025-07-01 12:31:00,2025-07,Tuesday,1,12
+TRX00380,2025-07-02,08:01,expense,Investment,7006153.58,Perum Winarsih Tbk,Mollitia porro laborum.,Credit Card,2025-07-02 08:01:00,2025-07,Wednesday,2,8
+TRX00142,2025-07-02,10:03,expense,Shopping,110070.01,UD Januar,Optio eius nam atque.,Debit Card,2025-07-02 10:03:00,2025-07,Wednesday,2,10
+TRX00956,2025-07-02,19:43,expense,Transport,30522.82,PT Prasetyo Tbk,Beatae quas.,Cash,2025-07-02 19:43:00,2025-07,Wednesday,2,19
+TRX00566,2025-07-03,22:57,expense,Food,127166.43,CV Megantara Widiastuti (Persero) Tbk,Consequatur harum optio inventore.,Cash,2025-07-03 22:57:00,2025-07,Thursday,3,22
+TRX00703,2025-07-03,05:56,expense,Health,828982.85,UD Sihotang Najmudin,Cum rem similique eius.,Debit Card,2025-07-03 05:56:00,2025-07,Thursday,3,5
+TRX00248,2025-07-03,14:29,expense,Shopping,1532027.78,Perum Najmudin,Ipsa facere error rem.,Debit Card,2025-07-03 14:29:00,2025-07,Thursday,3,14
+TRX00032,2025-07-03,01:52,expense,Entertainment,514980.12,PT Kusmawati,Explicabo excepturi mollitia magni.,E-Wallet,2025-07-03 01:52:00,2025-07,Thursday,3,1
+TRX00390,2025-07-03,21:21,income,Business,6231975.58,CV Usada Farida,Income received,Bank Transfer,2025-07-03 21:21:00,2025-07,Thursday,3,21
+TRX00286,2025-07-04,07:35,income,Investment Return,10222264.6,PT Utami Santoso (Persero) Tbk,Income received,Bank Transfer,2025-07-04 07:35:00,2025-07,Friday,4,7
+TRX00525,2025-07-04,05:02,expense,Entertainment,475903.1,CV Adriansyah Wibisono,Molestiae exercitationem impedit.,Cash,2025-07-04 05:02:00,2025-07,Friday,4,5
+TRX00254,2025-07-05,02:12,expense,Food,430020.69,PT Nuraini Hutasoit,Debitis ipsam illo.,Credit Card,2025-07-05 02:12:00,2025-07,Saturday,5,2
+TRX00118,2025-07-05,17:29,expense,Transport,173122.45,UD Sihombing,Provident hic officia assumenda est.,Credit Card,2025-07-05 17:29:00,2025-07,Saturday,5,17
+TRX00578,2025-07-05,20:45,expense,Bills,206734.91,CV Mayasari Hutapea (Persero) Tbk,Fugiat quae.,Debit Card,2025-07-05 20:45:00,2025-07,Saturday,5,20
+TRX00100,2025-07-06,17:46,expense,Food,322111.35,CV Sihombing,Beatae at.,Debit Card,2025-07-06 17:46:00,2025-07,Sunday,6,17
+TRX00220,2025-07-06,22:12,expense,Health,1610364.55,UD Pertiwi (Persero) Tbk,Fuga voluptatibus itaque.,E-Wallet,2025-07-06 22:12:00,2025-07,Sunday,6,22
+TRX00081,2025-07-06,03:17,expense,Investment,3250148.04,Perum Maheswara Prakasa (Persero) Tbk,Voluptates reiciendis.,E-Wallet,2025-07-06 03:17:00,2025-07,Sunday,6,3
+TRX00402,2025-07-06,05:20,income,Freelance,11347417.76,CV Pradipta Kuswoyo,Income received,Bank Transfer,2025-07-06 05:20:00,2025-07,Sunday,6,5
+TRX00592,2025-07-07,22:26,expense,Investment,9593622.94,PD Anggraini,Similique pariatur nihil architecto.,Cash,2025-07-07 22:26:00,2025-07,Monday,7,22
+TRX00563,2025-07-07,05:00,income,Investment Return,8459026.67,CV Laksmiwati Uyainah (Persero) Tbk,Income received,Bank Transfer,2025-07-07 05:00:00,2025-07,Monday,7,5
+TRX00284,2025-07-07,03:05,expense,Transport,201677.66,PD Prakasa Sinaga,Unde reprehenderit blanditiis eligendi.,Credit Card,2025-07-07 03:05:00,2025-07,Monday,7,3
+TRX00989,2025-07-07,15:33,expense,Health,208800.05,PT Pertiwi (Persero) Tbk,Eum atque quasi necessitatibus corrupti.,Debit Card,2025-07-07 15:33:00,2025-07,Monday,7,15
+TRX00568,2025-07-07,10:07,expense,Food,395935.24,CV Saragih Palastri Tbk,Aspernatur alias rerum eveniet.,Cash,2025-07-07 10:07:00,2025-07,Monday,7,10
+TRX00395,2025-07-08,09:57,income,Investment Return,12741026.6,PD Agustina (Persero) Tbk,Income received,Bank Transfer,2025-07-08 09:57:00,2025-07,Tuesday,8,9
+TRX00751,2025-07-08,13:30,expense,Bills,663886.17,CV Purnawati Laksmiwati (Persero) Tbk,Libero ducimus eaque.,E-Wallet,2025-07-08 13:30:00,2025-07,Tuesday,8,13
+TRX00902,2025-07-08,06:08,expense,Health,2627931.12,CV Permadi,Saepe cupiditate recusandae.,E-Wallet,2025-07-08 06:08:00,2025-07,Tuesday,8,6
+TRX00729,2025-07-09,10:07,expense,Health,329979.9,PT Winarno (Persero) Tbk,Tempora facere quis dolorem.,Credit Card,2025-07-09 10:07:00,2025-07,Wednesday,9,10
+TRX00735,2025-07-10,16:16,expense,Shopping,1719840.1,PT Irawan Winarsih Tbk,Pariatur et necessitatibus.,Debit Card,2025-07-10 16:16:00,2025-07,Thursday,10,16
+TRX00159,2025-07-10,05:56,expense,Bills,536410.89,CV Anggraini,Corporis enim ab.,Cash,2025-07-10 05:56:00,2025-07,Thursday,10,5
+TRX00345,2025-07-10,15:11,expense,Bills,1194839.32,Perum Ardianto,Architecto eos eaque.,Debit Card,2025-07-10 15:11:00,2025-07,Thursday,10,15
+TRX00377,2025-07-11,03:10,expense,Health,2913712.38,UD Lestari Narpati (Persero) Tbk,Eum porro.,Credit Card,2025-07-11 03:10:00,2025-07,Friday,11,3
+TRX00373,2025-07-11,22:33,expense,Entertainment,417031.46,PT Thamrin,Iure ratione inventore deleniti.,Debit Card,2025-07-11 22:33:00,2025-07,Friday,11,22
+TRX00962,2025-07-11,15:51,expense,Transport,153409.36,PD Prastuti Handayani,Expedita dignissimos aspernatur dolore modi.,Cash,2025-07-11 15:51:00,2025-07,Friday,11,15
+TRX00434,2025-07-11,19:27,expense,Health,803705.37,PD Nugroho Andriani,Corrupti ad quod.,Cash,2025-07-11 19:27:00,2025-07,Friday,11,19
+TRX00474,2025-07-11,19:56,expense,Health,2122769.63,PT Nuraini Mandala,Iusto debitis non sit.,E-Wallet,2025-07-11 19:56:00,2025-07,Friday,11,19
+TRX00085,2025-07-12,06:27,expense,Food,476029.74,PD Putra (Persero) Tbk,Consectetur iure repellat.,E-Wallet,2025-07-12 06:27:00,2025-07,Saturday,12,6
+TRX00667,2025-07-13,19:23,expense,Bills,1205009.99,Perum Riyanti Oktaviani,Commodi neque aliquam.,Credit Card,2025-07-13 19:23:00,2025-07,Sunday,13,19
+TRX00691,2025-07-13,02:53,expense,Entertainment,742773.01,Perum Lailasari,Rerum consequuntur debitis.,E-Wallet,2025-07-13 02:53:00,2025-07,Sunday,13,2
+TRX00675,2025-07-14,13:57,expense,Entertainment,386557.76,Perum Wijaya,Perspiciatis cum assumenda quaerat.,E-Wallet,2025-07-14 13:57:00,2025-07,Monday,14,13
+TRX00495,2025-07-14,14:25,expense,Bills,1374188.49,PD Siregar Salahudin,Officia minima nulla ullam.,Debit Card,2025-07-14 14:25:00,2025-07,Monday,14,14
+TRX00343,2025-07-16,18:39,income,Freelance,14909802.03,PD Palastri Saragih,Income received,Bank Transfer,2025-07-16 18:39:00,2025-07,Wednesday,16,18
+TRX00023,2025-07-16,03:12,expense,Bills,207771.87,CV Hasanah Putra,Commodi voluptas.,Credit Card,2025-07-16 03:12:00,2025-07,Wednesday,16,3
+TRX00779,2025-07-16,02:57,expense,Transport,16432.57,UD Lailasari,Consequatur consectetur.,Debit Card,2025-07-16 02:57:00,2025-07,Wednesday,16,2
+TRX00791,2025-07-16,08:58,expense,Bills,932786.33,PD Prakasa,Pariatur unde ullam.,Cash,2025-07-16 08:58:00,2025-07,Wednesday,16,8
+TRX00133,2025-07-17,12:17,expense,Shopping,950083.5,Perum Utami,Repellat quisquam qui.,Credit Card,2025-07-17 12:17:00,2025-07,Thursday,17,12
+TRX00278,2025-07-17,22:52,expense,Investment,6928369.98,PT Januar Nasyiah Tbk,Expedita aliquam.,Credit Card,2025-07-17 22:52:00,2025-07,Thursday,17,22
+TRX00732,2025-07-18,20:22,expense,Entertainment,322193.57,PT Padmasari Halimah Tbk,Eaque aut nesciunt.,Credit Card,2025-07-18 20:22:00,2025-07,Friday,18,20
+TRX00805,2025-07-18,02:18,expense,Food,131110.45,CV Puspita,Corporis debitis odit recusandae est.,Credit Card,2025-07-18 02:18:00,2025-07,Friday,18,2
+TRX00808,2025-07-18,15:27,expense,Investment,9165240.5,PT Santoso (Persero) Tbk,Occaecati cumque labore et.,E-Wallet,2025-07-18 15:27:00,2025-07,Friday,18,15
+TRX00109,2025-07-18,20:25,income,Business,7715873.39,UD Lailasari Budiman,Income received,Bank Transfer,2025-07-18 20:25:00,2025-07,Friday,18,20
+TRX00035,2025-07-19,05:15,expense,Food,39572.07,PT Nurdiyanti Tbk,Fuga expedita.,E-Wallet,2025-07-19 05:15:00,2025-07,Saturday,19,5
+TRX00022,2025-07-20,03:29,expense,Investment,2253983.09,PD Safitri (Persero) Tbk,Voluptas autem magni autem quod.,Credit Card,2025-07-20 03:29:00,2025-07,Sunday,20,3
+TRX00854,2025-07-21,08:15,income,Freelance,5201428.81,PD Iswahyudi Simanjuntak (Persero) Tbk,Income received,Bank Transfer,2025-07-21 08:15:00,2025-07,Monday,21,8
+TRX00368,2025-07-21,17:36,expense,Bills,1443407.3,UD Oktaviani Yuniar (Persero) Tbk,Excepturi excepturi minus et.,E-Wallet,2025-07-21 17:36:00,2025-07,Monday,21,17
+TRX00329,2025-07-21,16:34,income,Investment Return,13353564.93,UD Riyanti Permata Tbk,Income received,Bank Transfer,2025-07-21 16:34:00,2025-07,Monday,21,16
+TRX00024,2025-07-22,01:41,income,Salary,6547604.23,CV Sihombing Haryanti,Income received,Bank Transfer,2025-07-22 01:41:00,2025-07,Tuesday,22,1
+TRX00774,2025-07-23,16:42,expense,Transport,111834.52,PD Prayoga (Persero) Tbk,Corrupti voluptatum ut.,Cash,2025-07-23 16:42:00,2025-07,Wednesday,23,16
+TRX00896,2025-07-23,13:56,income,Freelance,5065032.39,Perum Fujiati,Income received,Bank Transfer,2025-07-23 13:56:00,2025-07,Wednesday,23,13
+TRX00981,2025-07-24,15:49,expense,Bills,1008245.96,PD Prasasta Siregar,Nostrum tenetur illo.,Cash,2025-07-24 15:49:00,2025-07,Thursday,24,15
+TRX00298,2025-07-24,00:48,income,Business,3498874.31,PT Puspita,Income received,Bank Transfer,2025-07-24 00:48:00,2025-07,Thursday,24,0
+TRX00937,2025-07-24,20:25,expense,Education,2809287.87,Perum Saefullah Mulyani,Est ab modi excepturi.,Cash,2025-07-24 20:25:00,2025-07,Thursday,24,20
+TRX00620,2025-07-24,16:11,expense,Education,3519748.78,Perum Halimah Anggraini Tbk,Odio ullam iusto quae dolorem.,Cash,2025-07-24 16:11:00,2025-07,Thursday,24,16
+TRX00443,2025-07-25,11:10,expense,Food,262499.25,CV Widodo Zulkarnain,Autem omnis assumenda.,E-Wallet,2025-07-25 11:10:00,2025-07,Friday,25,11
+TRX00784,2025-07-25,02:57,income,Salary,8159491.44,UD Wastuti Zulaika Tbk,Income received,Bank Transfer,2025-07-25 02:57:00,2025-07,Friday,25,2
+TRX00721,2025-07-25,05:24,expense,Shopping,1057607.15,PT Pranowo Setiawan,Ea suscipit eius similique.,E-Wallet,2025-07-25 05:24:00,2025-07,Friday,25,5
+TRX00903,2025-07-26,20:14,expense,Entertainment,629858.62,PD Sihombing,Explicabo deleniti laudantium tempora.,Credit Card,2025-07-26 20:14:00,2025-07,Saturday,26,20
+TRX00677,2025-07-26,18:53,expense,Education,1487992.65,PD Safitri,Fuga expedita maxime dolorum dolore.,E-Wallet,2025-07-26 18:53:00,2025-07,Saturday,26,18
+TRX00819,2025-07-26,09:02,expense,Entertainment,997741.68,CV Maryadi,Soluta doloremque itaque nostrum.,E-Wallet,2025-07-26 09:02:00,2025-07,Saturday,26,9
+TRX00454,2025-07-27,06:05,income,Salary,10863388.92,Perum Suwarno Usada,Income received,Bank Transfer,2025-07-27 06:05:00,2025-07,Sunday,27,6
+TRX00521,2025-07-29,00:23,expense,Entertainment,469162.53,PD Namaga Putra Tbk,Animi a soluta.,Credit Card,2025-07-29 00:23:00,2025-07,Tuesday,29,0
+TRX00786,2025-07-29,14:45,income,Salary,4972866.35,Perum Waskita,Income received,Bank Transfer,2025-07-29 14:45:00,2025-07,Tuesday,29,14
+TRX00487,2025-07-29,13:22,expense,Food,364434.62,CV Napitupulu,Voluptas quae voluptate.,Credit Card,2025-07-29 13:22:00,2025-07,Tuesday,29,13
+TRX00409,2025-07-30,10:56,expense,Education,4699009.99,PT Mansur Tbk,Ipsam ea magni.,Cash,2025-07-30 10:56:00,2025-07,Wednesday,30,10
+TRX00590,2025-07-31,22:07,income,Investment Return,4144791.33,PD Prastuti,Income received,Bank Transfer,2025-07-31 22:07:00,2025-07,Thursday,31,22
+TRX00036,2025-07-31,02:18,expense,Entertainment,381232.69,CV Januar Tbk,Quibusdam rerum magnam excepturi iste.,Credit Card,2025-07-31 02:18:00,2025-07,Thursday,31,2
+TRX00005,2025-08-01,09:27,expense,Food,487402.65,PT Mansur (Persero) Tbk,Consequuntur incidunt quis debitis vel.,Credit Card,2025-08-01 09:27:00,2025-08,Friday,1,9
+TRX00077,2025-08-01,02:22,income,Salary,10868671.62,PD Nababan (Persero) Tbk,Income received,Bank Transfer,2025-08-01 02:22:00,2025-08,Friday,1,2
+TRX00929,2025-08-01,04:25,income,Business,4679848.52,PT Anggriawan Wacana,Income received,Bank Transfer,2025-08-01 04:25:00,2025-08,Friday,1,4
+TRX00405,2025-08-02,17:18,expense,Health,845971.12,UD Iswahyudi Tbk,Temporibus quibusdam sed.,E-Wallet,2025-08-02 17:18:00,2025-08,Saturday,2,17
+TRX00757,2025-08-02,06:21,expense,Shopping,1528184.73,CV Wijayanti Haryanti,Esse id sed dicta.,Cash,2025-08-02 06:21:00,2025-08,Saturday,2,6
+TRX00043,2025-08-02,02:24,income,Salary,6407051.7,PD Pradana Najmudin (Persero) Tbk,Income received,Bank Transfer,2025-08-02 02:24:00,2025-08,Saturday,2,2
+TRX00071,2025-08-02,09:53,expense,Education,3357921.43,Perum Iswahyudi Tbk,Incidunt commodi ipsam.,Debit Card,2025-08-02 09:53:00,2025-08,Saturday,2,9
+TRX00614,2025-08-03,10:31,expense,Food,40362.7,Perum Wijaya,Id quasi nemo nihil qui.,Cash,2025-08-03 10:31:00,2025-08,Sunday,3,10
+TRX00034,2025-08-03,19:33,expense,Bills,986941.6,CV Tamba,Voluptatum quod nostrum.,Credit Card,2025-08-03 19:33:00,2025-08,Sunday,3,19
+TRX00710,2025-08-03,12:37,expense,Investment,1848946.84,Perum Hassanah Tbk,Iure dolorem cum similique.,E-Wallet,2025-08-03 12:37:00,2025-08,Sunday,3,12
+TRX00952,2025-08-04,10:34,expense,Bills,1364513.08,UD Manullang Suartini,Nemo deserunt.,Debit Card,2025-08-04 10:34:00,2025-08,Monday,4,10
+TRX00554,2025-08-04,08:59,expense,Shopping,1732017.7,Perum Hassanah Haryanto Tbk,Ad deleniti.,Cash,2025-08-04 08:59:00,2025-08,Monday,4,8
+TRX00353,2025-08-04,21:32,expense,Transport,277985.8,CV Hutapea,Deserunt voluptate reiciendis.,Debit Card,2025-08-04 21:32:00,2025-08,Monday,4,21
+TRX00258,2025-08-05,14:33,expense,Health,678658.88,Perum Oktaviani,Magni laudantium.,E-Wallet,2025-08-05 14:33:00,2025-08,Tuesday,5,14
+TRX00332,2025-08-06,20:17,expense,Education,2319434.46,Perum Nugroho,Quia commodi repudiandae.,Debit Card,2025-08-06 20:17:00,2025-08,Wednesday,6,20
+TRX00147,2025-08-07,17:55,income,Freelance,9583237.42,CV Winarsih Pradana Tbk,Income received,Bank Transfer,2025-08-07 17:55:00,2025-08,Thursday,7,17
+TRX00441,2025-08-07,07:37,expense,Entertainment,183675.95,PD Saputra Januar,Consectetur inventore laboriosam.,Cash,2025-08-07 07:37:00,2025-08,Thursday,7,7
+TRX00445,2025-08-08,22:26,expense,Transport,210755.38,Perum Andriani Susanti Tbk,Praesentium ducimus provident ut.,Credit Card,2025-08-08 22:26:00,2025-08,Friday,8,22
+TRX00585,2025-08-08,01:16,expense,Bills,1444189.85,CV Hardiansyah Widodo,Fugit dolores.,Cash,2025-08-08 01:16:00,2025-08,Friday,8,1
+TRX00362,2025-08-08,16:36,expense,Investment,6536974.94,CV Pangestu Hardiansyah Tbk,Aperiam hic.,E-Wallet,2025-08-08 16:36:00,2025-08,Friday,8,16
+TRX00396,2025-08-09,07:34,expense,Shopping,862839.2,CV Nashiruddin Sihombing (Persero) Tbk,Numquam doloremque assumenda illum.,Debit Card,2025-08-09 07:34:00,2025-08,Saturday,9,7
+TRX00950,2025-08-09,14:01,expense,Transport,247582.53,PD Widodo Widiastuti (Persero) Tbk,At vero recusandae sint vel.,E-Wallet,2025-08-09 14:01:00,2025-08,Saturday,9,14
+TRX00191,2025-08-09,08:33,expense,Investment,8749612.18,Perum Lazuardi Prastuti,Porro aliquam neque.,Credit Card,2025-08-09 08:33:00,2025-08,Saturday,9,8
+TRX00017,2025-08-09,08:27,expense,Transport,260984.48,CV Maryati Tbk,Consequuntur ab tenetur perferendis tempora.,E-Wallet,2025-08-09 08:27:00,2025-08,Saturday,9,8
+TRX00231,2025-08-10,14:22,expense,Health,2657168.36,Perum Hariyah,Dolore nihil eligendi voluptatem.,Credit Card,2025-08-10 14:22:00,2025-08,Sunday,10,14
+TRX00828,2025-08-10,14:46,expense,Entertainment,88245.1,PD Hidayanto,Omnis repellendus eligendi.,E-Wallet,2025-08-10 14:46:00,2025-08,Sunday,10,14
+TRX00322,2025-08-11,06:12,expense,Transport,67606.76,PT Wasita Sihotang,Enim doloribus.,Credit Card,2025-08-11 06:12:00,2025-08,Monday,11,6
+TRX00883,2025-08-11,03:24,expense,Bills,1080604.52,Perum Fujiati Tbk,Facere ullam.,Debit Card,2025-08-11 03:24:00,2025-08,Monday,11,3
+TRX00324,2025-08-11,23:44,expense,Shopping,1302987.61,PD Waluyo Safitri Tbk,Sequi dolores sit.,Credit Card,2025-08-11 23:44:00,2025-08,Monday,11,23
+TRX00186,2025-08-12,23:13,income,Investment Return,13268357.62,PT Hakim Padmasari Tbk,Income received,Bank Transfer,2025-08-12 23:13:00,2025-08,Tuesday,12,23
+TRX00340,2025-08-12,03:04,expense,Transport,64961.34,UD Aryani Tbk,Voluptatem quam quibusdam.,Credit Card,2025-08-12 03:04:00,2025-08,Tuesday,12,3
+TRX00061,2025-08-12,11:04,expense,Shopping,968803.81,PD Utami Budiman,Tempore facere iste numquam.,Debit Card,2025-08-12 11:04:00,2025-08,Tuesday,12,11
+TRX00314,2025-08-13,07:47,expense,Transport,256442.7,CV Sitorus Wahyudin,Officiis dolorum eos.,E-Wallet,2025-08-13 07:47:00,2025-08,Wednesday,13,7
+TRX00852,2025-08-14,00:12,expense,Investment,6950266.11,Perum Siregar Gunarto (Persero) Tbk,Modi aliquam earum.,Debit Card,2025-08-14 00:12:00,2025-08,Thursday,14,0
+TRX00223,2025-08-14,06:19,income,Salary,11787261.69,PT Siregar,Income received,Bank Transfer,2025-08-14 06:19:00,2025-08,Thursday,14,6
+TRX00213,2025-08-14,22:25,expense,Food,292613.71,UD Kurniawan Budiman (Persero) Tbk,At sapiente reiciendis.,Debit Card,2025-08-14 22:25:00,2025-08,Thursday,14,22
+TRX00212,2025-08-16,08:44,expense,Transport,205926.48,PD Firmansyah Prayoga (Persero) Tbk,Quo officiis amet illo.,E-Wallet,2025-08-16 08:44:00,2025-08,Saturday,16,8
+TRX00478,2025-08-16,07:18,expense,Entertainment,312973.59,PD Jailani,Ducimus molestias ipsam dolorem perspiciatis.,Cash,2025-08-16 07:18:00,2025-08,Saturday,16,7
+TRX00018,2025-08-16,22:22,expense,Investment,7019571.27,CV Wasita,Consequuntur saepe doloremque reiciendis.,Cash,2025-08-16 22:22:00,2025-08,Saturday,16,22
+TRX00438,2025-08-16,08:35,expense,Investment,3487975.22,PD Hakim (Persero) Tbk,Velit consectetur reprehenderit.,E-Wallet,2025-08-16 08:35:00,2025-08,Saturday,16,8
+TRX00308,2025-08-17,08:10,expense,Bills,1329921.79,UD Utama,Quas ratione provident eveniet.,Cash,2025-08-17 08:10:00,2025-08,Sunday,17,8
+TRX00682,2025-08-17,02:06,expense,Food,391033.63,PT Purnawati Zulaika (Persero) Tbk,Sapiente voluptate ex ut.,Credit Card,2025-08-17 02:06:00,2025-08,Sunday,17,2
+TRX00923,2025-08-17,19:53,income,Freelance,12570168.54,PT Hutasoit Irawan Tbk,Income received,Bank Transfer,2025-08-17 19:53:00,2025-08,Sunday,17,19
+TRX00885,2025-08-17,21:56,expense,Health,2901315.17,PT Maryati Laksmiwati (Persero) Tbk,Dolores exercitationem temporibus vel.,E-Wallet,2025-08-17 21:56:00,2025-08,Sunday,17,21
+TRX00763,2025-08-17,20:47,expense,Health,1054214.09,PD Laksita Andriani,Vitae eum voluptates animi expedita.,E-Wallet,2025-08-17 20:47:00,2025-08,Sunday,17,20
+TRX00012,2025-08-18,07:13,expense,Education,1381922.88,PD Latupono,Eius suscipit.,Cash,2025-08-18 07:13:00,2025-08,Monday,18,7
+TRX00214,2025-08-18,06:08,income,Business,14092754.34,CV Rajasa Tbk,Income received,Bank Transfer,2025-08-18 06:08:00,2025-08,Monday,18,6
+TRX00650,2025-08-19,08:26,expense,Entertainment,58601.45,PT Budiman Purwanti (Persero) Tbk,Voluptatum repellendus pariatur officia.,E-Wallet,2025-08-19 08:26:00,2025-08,Tuesday,19,8
+TRX00687,2025-08-19,13:29,expense,Bills,1006883.93,PT Fujiati Nababan Tbk,Voluptates qui tempore.,Debit Card,2025-08-19 13:29:00,2025-08,Tuesday,19,13
+TRX00747,2025-08-19,22:38,income,Salary,14873413.57,UD Rajata,Income received,Bank Transfer,2025-08-19 22:38:00,2025-08,Tuesday,19,22
+TRX00564,2025-08-20,11:26,expense,Investment,6178198.63,PD Halim Wibisono Tbk,Ducimus voluptatem beatae doloremque.,Debit Card,2025-08-20 11:26:00,2025-08,Wednesday,20,11
+TRX00827,2025-08-20,02:52,expense,Transport,223379.84,UD Tamba Kusumo (Persero) Tbk,Debitis ipsam tempora.,E-Wallet,2025-08-20 02:52:00,2025-08,Wednesday,20,2
+TRX00613,2025-08-20,09:09,income,Investment Return,5007855.65,Perum Thamrin Kurniawan,Income received,Bank Transfer,2025-08-20 09:09:00,2025-08,Wednesday,20,9
+TRX00067,2025-08-20,04:21,expense,Investment,7570353.85,PT Hartati Salahudin,Libero fuga.,Credit Card,2025-08-20 04:21:00,2025-08,Wednesday,20,4
+TRX00982,2025-08-21,01:03,expense,Education,2807936.34,UD Haryanti,Quos aperiam itaque nihil deleniti.,Debit Card,2025-08-21 01:03:00,2025-08,Thursday,21,1
+TRX00615,2025-08-21,14:24,expense,Shopping,346888.61,PT Habibi Nurdiyanti,Dignissimos iste distinctio asperiores.,Cash,2025-08-21 14:24:00,2025-08,Thursday,21,14
+TRX00055,2025-08-21,10:53,expense,Food,192555.75,Perum Mardhiyah Usada (Persero) Tbk,Ullam numquam molestias similique.,Cash,2025-08-21 10:53:00,2025-08,Thursday,21,10
+TRX00121,2025-08-21,04:33,expense,Investment,6587251.16,PD Permata,Quidem ullam ab.,Debit Card,2025-08-21 04:33:00,2025-08,Thursday,21,4
+TRX00759,2025-08-21,17:26,expense,Investment,1360532.07,UD Maulana (Persero) Tbk,Nulla cupiditate perferendis.,Debit Card,2025-08-21 17:26:00,2025-08,Thursday,21,17
+TRX00769,2025-08-21,20:20,expense,Transport,252993.79,PT Rahimah (Persero) Tbk,Enim cum labore corporis.,E-Wallet,2025-08-21 20:20:00,2025-08,Thursday,21,20
+TRX00515,2025-08-21,07:21,expense,Transport,177272.55,Perum Maulana Pratiwi (Persero) Tbk,Quibusdam magnam iste atque.,Debit Card,2025-08-21 07:21:00,2025-08,Thursday,21,7
+TRX00845,2025-08-21,13:38,expense,Investment,9409897.35,UD Zulaika,Exercitationem blanditiis.,Credit Card,2025-08-21 13:38:00,2025-08,Thursday,21,13
+TRX00135,2025-08-21,11:24,expense,Transport,268800.28,PD Pangestu Purnawati,Reprehenderit adipisci deleniti ex.,E-Wallet,2025-08-21 11:24:00,2025-08,Thursday,21,11
+TRX00595,2025-08-22,19:52,expense,Bills,602009.85,CV Hutagalung (Persero) Tbk,Modi voluptates.,E-Wallet,2025-08-22 19:52:00,2025-08,Friday,22,19
+TRX00835,2025-08-23,04:26,expense,Bills,1375123.74,Perum Suryatmi Prasasta,Debitis ea ad.,Cash,2025-08-23 04:26:00,2025-08,Saturday,23,4
+TRX00539,2025-08-23,16:54,expense,Health,1534097.65,Perum Mayasari Tbk,Fugit est iusto aperiam.,Debit Card,2025-08-23 16:54:00,2025-08,Saturday,23,16
+TRX00145,2025-08-23,19:48,income,Investment Return,4378041.9,PT Oktaviani (Persero) Tbk,Income received,Bank Transfer,2025-08-23 19:48:00,2025-08,Saturday,23,19
+TRX00319,2025-08-23,03:47,income,Salary,6418474.82,PT Pertiwi,Income received,Bank Transfer,2025-08-23 03:47:00,2025-08,Saturday,23,3
+TRX00516,2025-08-23,07:27,expense,Bills,1293580.89,Perum Latupono,Harum reprehenderit quaerat molestiae maxime.,Cash,2025-08-23 07:27:00,2025-08,Saturday,23,7
+TRX00464,2025-08-23,23:37,expense,Health,404729.32,PD Mansur,Nesciunt commodi tenetur necessitatibus dignissimos.,E-Wallet,2025-08-23 23:37:00,2025-08,Saturday,23,23
+TRX00876,2025-08-23,10:12,expense,Bills,1043182.43,PT Widodo (Persero) Tbk,Tempore dolores facilis sequi a.,Cash,2025-08-23 10:12:00,2025-08,Saturday,23,10
+TRX00299,2025-08-24,10:33,expense,Investment,3908175.91,PD Sihombing Saragih,Laboriosam nemo.,Cash,2025-08-24 10:33:00,2025-08,Sunday,24,10
+TRX00293,2025-08-24,00:56,expense,Shopping,417379.63,UD Prayoga Hassanah,Voluptas explicabo doloribus.,E-Wallet,2025-08-24 00:56:00,2025-08,Sunday,24,0
+TRX00719,2025-08-24,23:10,expense,Education,4681127.84,PD Budiman Tbk,Dignissimos harum natus nemo.,Credit Card,2025-08-24 23:10:00,2025-08,Sunday,24,23
+TRX00497,2025-08-25,03:34,expense,Transport,37120.17,PD Haryanto Tbk,Minus harum nesciunt.,Cash,2025-08-25 03:34:00,2025-08,Monday,25,3
+TRX00723,2025-08-25,08:58,expense,Education,3637111.13,PD Siregar Prakasa Tbk,Iste quis quibusdam ipsum.,Cash,2025-08-25 08:58:00,2025-08,Monday,25,8
+TRX00080,2025-08-25,09:36,expense,Shopping,1526168.03,PD Budiyanto Tbk,Doloremque corrupti.,E-Wallet,2025-08-25 09:36:00,2025-08,Monday,25,9
+TRX00450,2025-08-25,00:20,income,Business,4703663.88,PD Nababan (Persero) Tbk,Income received,Bank Transfer,2025-08-25 00:20:00,2025-08,Monday,25,0
+TRX00742,2025-08-26,10:27,expense,Education,3277484.63,PD Pradana Adriansyah (Persero) Tbk,Corrupti voluptate harum.,Debit Card,2025-08-26 10:27:00,2025-08,Tuesday,26,10
+TRX00393,2025-08-26,00:55,expense,Bills,956716.71,PT Yolanda Tbk,Hic earum quo.,Debit Card,2025-08-26 00:55:00,2025-08,Tuesday,26,0
+TRX00510,2025-08-26,08:48,expense,Bills,845160.54,PD Fujiati Utami,A rerum enim.,Cash,2025-08-26 08:48:00,2025-08,Tuesday,26,8
+TRX00892,2025-08-26,16:40,income,Freelance,8728994.27,Perum Waluyo Mandala,Income received,Bank Transfer,2025-08-26 16:40:00,2025-08,Tuesday,26,16
+TRX00601,2025-08-27,17:51,expense,Education,1420073.99,Perum Laksmiwati Samosir (Persero) Tbk,Dignissimos nulla magnam.,E-Wallet,2025-08-27 17:51:00,2025-08,Wednesday,27,17
+TRX00310,2025-08-27,00:23,expense,Entertainment,332025.81,CV Oktaviani (Persero) Tbk,Aspernatur provident quibusdam ad.,Credit Card,2025-08-27 00:23:00,2025-08,Wednesday,27,0
+TRX00606,2025-08-27,20:40,expense,Education,500052.36,PT Utami Tbk,Ea possimus.,Cash,2025-08-27 20:40:00,2025-08,Wednesday,27,20
+TRX00083,2025-08-27,16:48,expense,Food,262521.14,Perum Winarsih,Facere qui.,E-Wallet,2025-08-27 16:48:00,2025-08,Wednesday,27,16
+TRX00514,2025-08-28,14:33,expense,Bills,784456.96,CV Thamrin Simbolon Tbk,Nam ipsa.,Credit Card,2025-08-28 14:33:00,2025-08,Thursday,28,14
+TRX00054,2025-08-28,21:22,expense,Education,1130378.07,Perum Situmorang,Odio consequuntur esse.,Credit Card,2025-08-28 21:22:00,2025-08,Thursday,28,21
+TRX00259,2025-08-29,14:43,expense,Transport,149864.82,PD Latupono Pertiwi,Saepe maxime.,E-Wallet,2025-08-29 14:43:00,2025-08,Friday,29,14
+TRX00318,2025-08-29,14:03,expense,Entertainment,937714.23,CV Firgantoro (Persero) Tbk,Eligendi debitis.,Debit Card,2025-08-29 14:03:00,2025-08,Friday,29,14
+TRX00741,2025-08-30,17:37,expense,Education,4390965.15,CV Megantara Namaga (Persero) Tbk,Reiciendis unde officiis quidem sint.,Credit Card,2025-08-30 17:37:00,2025-08,Saturday,30,17
+TRX00529,2025-08-30,06:02,expense,Education,3820412.83,CV Iswahyudi,Architecto non vitae tempore.,Cash,2025-08-30 06:02:00,2025-08,Saturday,30,6
+TRX00604,2025-08-31,03:33,expense,Bills,1183468.71,Perum Riyanti Suwarno (Persero) Tbk,Enim similique.,E-Wallet,2025-08-31 03:33:00,2025-08,Sunday,31,3
+TRX00048,2025-08-31,00:27,expense,Bills,1036493.68,PD Permadi Zulaika,Ad dolorum amet quos.,Cash,2025-08-31 00:27:00,2025-08,Sunday,31,0
+TRX00830,2025-08-31,06:46,expense,Investment,5618647.75,PT Hassanah Palastri,Omnis maxime numquam excepturi.,Credit Card,2025-08-31 06:46:00,2025-08,Sunday,31,6
+TRX00649,2025-08-31,19:58,expense,Entertainment,130086.25,PT Natsir (Persero) Tbk,Ut omnis autem facere.,Cash,2025-08-31 19:58:00,2025-08,Sunday,31,19
+TRX00392,2025-08-31,18:22,expense,Education,4283163.63,CV Wasita,Illum atque consectetur odio soluta.,Cash,2025-08-31 18:22:00,2025-08,Sunday,31,18
+TRX00625,2025-08-31,12:47,expense,Investment,8200031.34,Perum Zulkarnain,Quibusdam ratione cupiditate hic sed.,Credit Card,2025-08-31 12:47:00,2025-08,Sunday,31,12
+TRX00294,2025-09-01,04:46,income,Salary,9402143.1,CV Suryono Sitompul (Persero) Tbk,Income received,Bank Transfer,2025-09-01 04:46:00,2025-09,Monday,1,4
+TRX00858,2025-09-02,19:38,expense,Bills,800389.95,UD Nurdiyanti,Alias officiis labore.,Debit Card,2025-09-02 19:38:00,2025-09,Tuesday,2,19
+TRX00491,2025-09-02,18:10,expense,Transport,185627.33,Perum Wasita Suwarno,Dolore amet quibusdam.,Debit Card,2025-09-02 18:10:00,2025-09,Tuesday,2,18
+TRX00255,2025-09-02,01:46,expense,Shopping,1392948.67,Perum Hassanah (Persero) Tbk,Tempore soluta.,Debit Card,2025-09-02 01:46:00,2025-09,Tuesday,2,1
+TRX00992,2025-09-03,03:02,expense,Transport,245299.33,Perum Suartini Firmansyah,Atque cupiditate deserunt saepe.,Debit Card,2025-09-03 03:02:00,2025-09,Wednesday,3,3
+TRX00812,2025-09-03,17:04,expense,Transport,237574.7,PD Winarsih,Aut quam reprehenderit voluptates.,Credit Card,2025-09-03 17:04:00,2025-09,Wednesday,3,17
+TRX00465,2025-09-03,00:55,income,Investment Return,6615183.13,PT Widodo Manullang,Income received,Bank Transfer,2025-09-03 00:55:00,2025-09,Wednesday,3,0
+TRX00762,2025-09-03,17:28,expense,Investment,7373096.51,PT Lazuardi Tbk,Necessitatibus labore perferendis aspernatur quibusdam.,Debit Card,2025-09-03 17:28:00,2025-09,Wednesday,3,17
+TRX00153,2025-09-03,04:18,expense,Bills,1031276.11,Perum Saputra (Persero) Tbk,Nesciunt deleniti porro quod delectus.,Debit Card,2025-09-03 04:18:00,2025-09,Wednesday,3,4
+TRX00756,2025-09-04,19:24,expense,Bills,135332.28,PD Manullang Mahendra,Fuga corporis nihil velit.,Credit Card,2025-09-04 19:24:00,2025-09,Thursday,4,19
+TRX00114,2025-09-05,07:38,income,Freelance,8977982.24,UD Hidayanto (Persero) Tbk,Income received,Bank Transfer,2025-09-05 07:38:00,2025-09,Friday,5,7
+TRX00384,2025-09-05,10:09,expense,Transport,111406.24,PD Megantara Ardianto (Persero) Tbk,Eaque ducimus debitis.,E-Wallet,2025-09-05 10:09:00,2025-09,Friday,5,10
+TRX00844,2025-09-05,09:01,expense,Shopping,1275666.95,PD Megantara,Molestias assumenda.,E-Wallet,2025-09-05 09:01:00,2025-09,Friday,5,9
+TRX00453,2025-09-06,15:33,income,Freelance,6779035.06,Perum Firgantoro,Income received,Bank Transfer,2025-09-06 15:33:00,2025-09,Saturday,6,15
+TRX00204,2025-09-06,19:18,expense,Education,3177850.69,UD Nababan,Ea tenetur.,Credit Card,2025-09-06 19:18:00,2025-09,Saturday,6,19
+TRX00160,2025-09-06,21:01,income,Freelance,8927777.85,PD Farida,Income received,Bank Transfer,2025-09-06 21:01:00,2025-09,Saturday,6,21
+TRX00428,2025-09-06,01:27,expense,Bills,1111940.02,UD Suryatmi Utami,Aspernatur quaerat.,Cash,2025-09-06 01:27:00,2025-09,Saturday,6,1
+TRX00045,2025-09-06,19:55,expense,Investment,6846696.09,UD Purnawati,Earum illum ratione.,Credit Card,2025-09-06 19:55:00,2025-09,Saturday,6,19
+TRX00267,2025-09-06,07:10,expense,Food,250643.33,CV Sudiati,Quos natus explicabo repudiandae.,E-Wallet,2025-09-06 07:10:00,2025-09,Saturday,6,7
+TRX00066,2025-09-07,15:24,expense,Health,1997582.26,Perum Agustina Maheswara (Persero) Tbk,Natus occaecati quis corrupti.,Cash,2025-09-07 15:24:00,2025-09,Sunday,7,15
+TRX00543,2025-09-07,01:10,income,Salary,11983742.81,PD Najmudin,Income received,Bank Transfer,2025-09-07 01:10:00,2025-09,Sunday,7,1
+TRX00642,2025-09-07,14:26,expense,Health,2044277.55,CV Prasetyo (Persero) Tbk,Repellat explicabo illo consequuntur.,Cash,2025-09-07 14:26:00,2025-09,Sunday,7,14
+TRX00534,2025-09-07,18:58,income,Freelance,6594788.14,PT Anggraini (Persero) Tbk,Income received,Bank Transfer,2025-09-07 18:58:00,2025-09,Sunday,7,18
+TRX00666,2025-09-08,03:11,expense,Food,139979.33,PT Suartini Tbk,Architecto nostrum odit tenetur.,E-Wallet,2025-09-08 03:11:00,2025-09,Monday,8,3
+TRX00715,2025-09-08,13:23,income,Freelance,11473902.03,Perum Susanti Tbk,Income received,Bank Transfer,2025-09-08 13:23:00,2025-09,Monday,8,13
+TRX00738,2025-09-10,07:39,expense,Investment,1078355.32,UD Iswahyudi (Persero) Tbk,Magni quis modi ipsam.,Credit Card,2025-09-10 07:39:00,2025-09,Wednesday,10,7
+TRX00227,2025-09-10,05:38,expense,Entertainment,885162.39,PD Winarno Tbk,Eius porro sequi delectus.,Debit Card,2025-09-10 05:38:00,2025-09,Wednesday,10,5
+TRX00297,2025-09-10,00:54,expense,Bills,414581.65,CV Haryanto Prakasa,Dolorum provident et itaque.,Cash,2025-09-10 00:54:00,2025-09,Wednesday,10,0
+TRX00881,2025-09-11,05:45,expense,Entertainment,618665.35,PD Sihotang Pradana,Necessitatibus in beatae sequi.,Cash,2025-09-11 05:45:00,2025-09,Thursday,11,5
+TRX00004,2025-09-11,20:32,income,Investment Return,10339837.93,PD Agustina Prayoga,Income received,Bank Transfer,2025-09-11 20:32:00,2025-09,Thursday,11,20
+TRX00432,2025-09-11,02:50,expense,Transport,239089.29,Perum Wijaya,Ipsa nesciunt quaerat.,E-Wallet,2025-09-11 02:50:00,2025-09,Thursday,11,2
+TRX00456,2025-09-11,02:56,expense,Bills,525524.96,PD Kuswandari Kusumo,Minus sit autem.,Debit Card,2025-09-11 02:56:00,2025-09,Thursday,11,2
+TRX00912,2025-09-11,02:07,expense,Entertainment,307088.99,CV Hardiansyah Halimah,Vel id cum.,Debit Card,2025-09-11 02:07:00,2025-09,Thursday,11,2
+TRX00301,2025-09-11,12:51,income,Investment Return,14277837.5,PD Wibowo,Income received,Bank Transfer,2025-09-11 12:51:00,2025-09,Thursday,11,12
+TRX00640,2025-09-12,14:37,income,Investment Return,6567489.48,UD Permata (Persero) Tbk,Income received,Bank Transfer,2025-09-12 14:37:00,2025-09,Friday,12,14
+TRX00750,2025-09-12,07:12,expense,Food,447144.19,Perum Yolanda Firmansyah Tbk,Similique esse velit.,Cash,2025-09-12 07:12:00,2025-09,Friday,12,7
+TRX00155,2025-09-12,18:37,expense,Investment,5858029.56,PT Riyanti Ramadan,Ratione eveniet.,Credit Card,2025-09-12 18:37:00,2025-09,Friday,12,18
+TRX00202,2025-09-13,16:58,expense,Shopping,664531.26,PD Purwanti Januar,Deleniti dolorum qui.,Credit Card,2025-09-13 16:58:00,2025-09,Saturday,13,16
+TRX00169,2025-09-14,00:45,expense,Education,1561577.16,UD Winarno (Persero) Tbk,Sapiente sequi.,Debit Card,2025-09-14 00:45:00,2025-09,Sunday,14,0
+TRX00842,2025-09-15,06:03,expense,Education,4897759.7,PD Permata,Facilis ducimus voluptate inventore.,Debit Card,2025-09-15 06:03:00,2025-09,Monday,15,6
+TRX00287,2025-09-15,01:54,expense,Health,1268441.97,UD Dongoran,Aspernatur facilis neque voluptas.,Debit Card,2025-09-15 01:54:00,2025-09,Monday,15,1
+TRX00164,2025-09-16,10:09,expense,Shopping,750796.09,CV Utama,Beatae quisquam ducimus.,Debit Card,2025-09-16 10:09:00,2025-09,Tuesday,16,10
+TRX00712,2025-09-16,09:02,expense,Entertainment,997746.88,UD Mandasari Tbk,Perspiciatis ex.,Credit Card,2025-09-16 09:02:00,2025-09,Tuesday,16,9
+TRX00279,2025-09-17,18:21,expense,Transport,109709.67,UD Anggraini Tbk,Fuga non consequatur maxime.,E-Wallet,2025-09-17 18:21:00,2025-09,Wednesday,17,18
+TRX00316,2025-09-17,15:22,expense,Entertainment,822336.45,Perum Hardiansyah Tbk,Accusantium recusandae velit.,Debit Card,2025-09-17 15:22:00,2025-09,Wednesday,17,15
+TRX00291,2025-09-18,10:09,expense,Education,830735.36,PT Salahudin Tbk,In repellat voluptas nam.,Debit Card,2025-09-18 10:09:00,2025-09,Thursday,18,10
+TRX00239,2025-09-18,18:57,expense,Bills,899846.52,UD Wasita Hutapea (Persero) Tbk,Sunt aperiam vero.,E-Wallet,2025-09-18 18:57:00,2025-09,Thursday,18,18
+TRX00668,2025-09-19,04:35,expense,Investment,6689949.38,PT Laksmiwati Suwarno (Persero) Tbk,Tempore inventore neque et.,Cash,2025-09-19 04:35:00,2025-09,Friday,19,4
+TRX00709,2025-09-19,23:45,expense,Health,2669948.66,UD Pratama Suryono Tbk,Nulla possimus voluptatum.,E-Wallet,2025-09-19 23:45:00,2025-09,Friday,19,23
+TRX00600,2025-09-20,07:04,expense,Transport,134542.68,Perum Pradipta,Quo ducimus nobis.,E-Wallet,2025-09-20 07:04:00,2025-09,Saturday,20,7
+TRX00257,2025-09-20,19:05,expense,Entertainment,772089.37,PD Usamah Hutasoit Tbk,Eos laboriosam iure perspiciatis.,Cash,2025-09-20 19:05:00,2025-09,Saturday,20,19
+TRX00341,2025-09-20,09:29,expense,Investment,5053338.43,Perum Usamah,Earum distinctio officia delectus.,E-Wallet,2025-09-20 09:29:00,2025-09,Saturday,20,9
+TRX00107,2025-09-20,23:29,expense,Transport,261828.21,UD Dabukke Tbk,Consectetur tempora nesciunt temporibus praesentium.,Cash,2025-09-20 23:29:00,2025-09,Saturday,20,23
+TRX00041,2025-09-21,23:53,expense,Shopping,1581763.54,PD Yuliarti Tbk,Ducimus quia placeat est.,E-Wallet,2025-09-21 23:53:00,2025-09,Sunday,21,23
+TRX00553,2025-09-21,08:34,expense,Investment,5119296.45,UD Hakim (Persero) Tbk,Accusamus totam earum nisi.,Debit Card,2025-09-21 08:34:00,2025-09,Sunday,21,8
+TRX00655,2025-09-21,05:18,expense,Transport,155647.78,UD Sihotang,Natus a similique necessitatibus.,Credit Card,2025-09-21 05:18:00,2025-09,Sunday,21,5
+TRX00994,2025-09-22,20:25,expense,Entertainment,378300.61,Perum Rajata Hidayat,Fuga tenetur fugiat.,Credit Card,2025-09-22 20:25:00,2025-09,Monday,22,20
+TRX00483,2025-09-22,20:50,expense,Investment,8918764.1,UD Lailasari Saputra,Autem libero.,Credit Card,2025-09-22 20:50:00,2025-09,Monday,22,20
+TRX00647,2025-09-22,00:09,expense,Entertainment,429083.55,PT Lailasari,Rem temporibus.,Cash,2025-09-22 00:09:00,2025-09,Monday,22,0
+TRX00209,2025-09-22,09:56,income,Business,9255608.01,Perum Hartati Pertiwi Tbk,Income received,Bank Transfer,2025-09-22 09:56:00,2025-09,Monday,22,9
+TRX00295,2025-09-22,23:27,expense,Shopping,1742010.74,Perum Yulianti,Quae cum.,Debit Card,2025-09-22 23:27:00,2025-09,Monday,22,23
+TRX00406,2025-09-22,21:23,expense,Entertainment,367526.4,PD Prayoga (Persero) Tbk,Officiis occaecati praesentium mollitia optio.,Debit Card,2025-09-22 21:23:00,2025-09,Monday,22,21
+TRX00917,2025-09-23,16:59,income,Freelance,12081097.08,UD Santoso (Persero) Tbk,Income received,Bank Transfer,2025-09-23 16:59:00,2025-09,Tuesday,23,16
+TRX00847,2025-09-23,00:10,expense,Food,496142.12,PD Agustina,Ducimus dolorum.,Cash,2025-09-23 00:10:00,2025-09,Tuesday,23,0
+TRX00893,2025-09-23,00:00,expense,Shopping,408822.18,PT Kusmawati,Aspernatur atque possimus.,E-Wallet,2025-09-23 00:00:00,2025-09,Tuesday,23,0
+TRX00201,2025-09-24,18:25,income,Salary,7671547.37,PD Saefullah,Income received,Bank Transfer,2025-09-24 18:25:00,2025-09,Wednesday,24,18
+TRX00984,2025-09-24,07:08,income,Salary,13344913.71,CV Mardhiyah Maulana,Income received,Bank Transfer,2025-09-24 07:08:00,2025-09,Wednesday,24,7
+TRX00775,2025-09-25,08:35,expense,Food,318890.98,CV Sihombing (Persero) Tbk,Cum laboriosam praesentium.,Debit Card,2025-09-25 08:35:00,2025-09,Thursday,25,8
+TRX00037,2025-09-25,06:17,expense,Investment,8539390.95,PT Suryono,Esse consectetur architecto excepturi.,Credit Card,2025-09-25 06:17:00,2025-09,Thursday,25,6
+TRX00119,2025-09-25,23:14,expense,Food,210340.54,PT Nababan Maulana Tbk,Suscipit placeat maxime laboriosam.,Credit Card,2025-09-25 23:14:00,2025-09,Thursday,25,23
+TRX00954,2025-09-25,23:59,expense,Health,668586.32,PT Melani Jailani,Sit facere praesentium corporis.,E-Wallet,2025-09-25 23:59:00,2025-09,Thursday,25,23
+TRX00157,2025-09-26,06:50,expense,Entertainment,459951.74,UD Nugroho,Illo distinctio possimus ex laborum.,Credit Card,2025-09-26 06:50:00,2025-09,Friday,26,6
+TRX00683,2025-09-26,16:42,expense,Health,253685.42,Perum Ardianto,Corporis repudiandae reprehenderit dolore perferendis.,Cash,2025-09-26 16:42:00,2025-09,Friday,26,16
+TRX00199,2025-09-26,12:16,income,Freelance,7852578.02,Perum Mahendra,Income received,Bank Transfer,2025-09-26 12:16:00,2025-09,Friday,26,12
+TRX00556,2025-09-27,03:44,expense,Food,381931.06,PD Megantara Waluyo Tbk,Assumenda cum.,Cash,2025-09-27 03:44:00,2025-09,Saturday,27,3
+TRX00203,2025-09-27,23:53,expense,Education,1107505.75,CV Siregar,Vitae consectetur debitis consequatur blanditiis.,E-Wallet,2025-09-27 23:53:00,2025-09,Saturday,27,23
+TRX00111,2025-09-28,04:30,expense,Food,379957.16,UD Lazuardi Tbk,Ex natus laudantium rerum doloremque.,Credit Card,2025-09-28 04:30:00,2025-09,Sunday,28,4
+TRX00475,2025-09-28,03:21,expense,Shopping,1594825.64,CV Nasyiah Prasetya,Harum amet quam odio.,Credit Card,2025-09-28 03:21:00,2025-09,Sunday,28,3
+TRX00323,2025-09-29,09:55,expense,Bills,1448097.63,UD Lestari,Molestias est ducimus corporis vel.,E-Wallet,2025-09-29 09:55:00,2025-09,Monday,29,9
+TRX00500,2025-09-30,00:23,income,Business,9140176.64,CV Yuniar (Persero) Tbk,Income received,Bank Transfer,2025-09-30 00:23:00,2025-09,Tuesday,30,0
+TRX00745,2025-09-30,23:33,expense,Bills,741803.99,UD Sihombing Suryatmi,Laudantium deserunt assumenda officia.,Cash,2025-09-30 23:33:00,2025-09,Tuesday,30,23
+TRX00184,2025-09-30,22:58,expense,Investment,5549570.91,CV Puspasari Sihombing,Sunt soluta nesciunt.,E-Wallet,2025-09-30 22:58:00,2025-09,Tuesday,30,22
+TRX00057,2025-09-30,00:07,expense,Shopping,1433737.07,UD Pangestu Marpaung (Persero) Tbk,Expedita odio et ab.,E-Wallet,2025-09-30 00:07:00,2025-09,Tuesday,30,0
+TRX00079,2025-10-01,10:28,expense,Bills,154860.86,PD Haryanti,Doloremque cum a dolorum.,Cash,2025-10-01 10:28:00,2025-10,Wednesday,1,10
+TRX00367,2025-10-01,04:00,income,Salary,3145449.3,PD Yuniar,Income received,Bank Transfer,2025-10-01 04:00:00,2025-10,Wednesday,1,4
+TRX00696,2025-10-01,04:18,expense,Entertainment,639450.1,UD Laksmiwati Astuti (Persero) Tbk,Nihil quae cupiditate sint doloribus.,Cash,2025-10-01 04:18:00,2025-10,Wednesday,1,4
+TRX00669,2025-10-01,16:20,expense,Food,453708.05,CV Firmansyah Habibi,Architecto excepturi eos fugit.,Debit Card,2025-10-01 16:20:00,2025-10,Wednesday,1,16
+TRX00407,2025-10-01,03:18,expense,Education,2480895.49,CV Damanik Budiman,Dignissimos dignissimos molestiae.,E-Wallet,2025-10-01 03:18:00,2025-10,Wednesday,1,3
+TRX00276,2025-10-01,02:40,expense,Education,1237997.66,PT Mulyani Thamrin,Deserunt aspernatur nisi.,Debit Card,2025-10-01 02:40:00,2025-10,Wednesday,1,2
+TRX00860,2025-10-01,05:35,expense,Investment,9923082.11,PT Winarno Tbk,Nobis nobis fugit facilis.,Debit Card,2025-10-01 05:35:00,2025-10,Wednesday,1,5
+TRX00110,2025-10-02,00:33,expense,Bills,151550.61,PD Yuniar,Reiciendis molestiae quae.,Credit Card,2025-10-02 00:33:00,2025-10,Thursday,2,0
+TRX00215,2025-10-02,19:38,expense,Transport,144715.95,PT Wahyuni (Persero) Tbk,Omnis quidem voluptatum.,Credit Card,2025-10-02 19:38:00,2025-10,Thursday,2,19
+TRX00597,2025-10-02,04:57,expense,Food,479033.64,PT Fujiati,Provident minima aut ea.,Debit Card,2025-10-02 04:57:00,2025-10,Thursday,2,4
+TRX00029,2025-10-02,23:40,expense,Investment,4634525.54,Perum Anggraini,Qui accusamus quia.,Debit Card,2025-10-02 23:40:00,2025-10,Thursday,2,23
+TRX00920,2025-10-02,18:55,income,Business,12191658.9,PT Mulyani,Income received,Bank Transfer,2025-10-02 18:55:00,2025-10,Thursday,2,18
+TRX00139,2025-10-02,00:52,expense,Bills,242495.46,Perum Rahmawati (Persero) Tbk,Eligendi repudiandae nobis sequi.,Debit Card,2025-10-02 00:52:00,2025-10,Thursday,2,0
+TRX00744,2025-10-03,00:54,expense,Food,492432.56,Perum Padmasari,Corrupti molestiae nisi vel.,Debit Card,2025-10-03 00:54:00,2025-10,Friday,3,0
+TRX00851,2025-10-03,19:37,income,Investment Return,12222975.97,PD Suryono,Income received,Bank Transfer,2025-10-03 19:37:00,2025-10,Friday,3,19
+TRX00312,2025-10-03,16:31,expense,Food,199160.86,UD Wulandari Natsir Tbk,Blanditiis iusto esse.,E-Wallet,2025-10-03 16:31:00,2025-10,Friday,3,16
+TRX00440,2025-10-03,01:06,expense,Shopping,1265598.96,Perum Wacana (Persero) Tbk,Neque error vel ipsum.,Cash,2025-10-03 01:06:00,2025-10,Friday,3,1
+TRX00049,2025-10-04,02:48,expense,Shopping,182847.17,Perum Firgantoro Andriani (Persero) Tbk,Est repudiandae quam ducimus.,E-Wallet,2025-10-04 02:48:00,2025-10,Saturday,4,2
+TRX00273,2025-10-04,08:05,expense,Health,1868983.52,Perum Dabukke,Accusantium corrupti hic repudiandae veniam.,Credit Card,2025-10-04 08:05:00,2025-10,Saturday,4,8
+TRX00275,2025-10-05,06:10,expense,Education,4526674.95,PD Winarno,Perferendis ex numquam sint.,E-Wallet,2025-10-05 06:10:00,2025-10,Sunday,5,6
+TRX00222,2025-10-05,15:55,expense,Food,150409.75,Perum Mansur Tbk,Praesentium quasi repudiandae.,Cash,2025-10-05 15:55:00,2025-10,Sunday,5,15
+TRX00637,2025-10-05,19:40,expense,Transport,73265.56,CV Napitupulu Tbk,Quaerat corporis.,Cash,2025-10-05 19:40:00,2025-10,Sunday,5,19
+TRX00266,2025-10-07,05:31,expense,Education,3456427.36,Perum Prasetyo Suwarno,Minima laborum consectetur ab non.,Cash,2025-10-07 05:31:00,2025-10,Tuesday,7,5
+TRX00955,2025-10-07,13:25,expense,Education,4018509.11,PD Wacana,Dignissimos ut.,Credit Card,2025-10-07 13:25:00,2025-10,Tuesday,7,13
+TRX00575,2025-10-08,05:23,expense,Shopping,1477464.22,Perum Hutagalung Najmudin Tbk,Corporis nam.,Cash,2025-10-08 05:23:00,2025-10,Wednesday,8,5
+TRX00538,2025-10-08,20:12,expense,Health,1830304.63,Perum Latupono Utama (Persero) Tbk,Veritatis unde.,Cash,2025-10-08 20:12:00,2025-10,Wednesday,8,20
+TRX00768,2025-10-08,18:10,expense,Transport,177012.5,CV Sitorus Gunawan Tbk,Fugiat sint.,Credit Card,2025-10-08 18:10:00,2025-10,Wednesday,8,18
+TRX00354,2025-10-08,13:51,expense,Health,1532569.93,PT Haryanto Irawan (Persero) Tbk,Inventore tempore.,Cash,2025-10-08 13:51:00,2025-10,Wednesday,8,13
+TRX00690,2025-10-09,14:19,expense,Health,2991687.94,Perum Halim Hariyah Tbk,Natus assumenda exercitationem.,Credit Card,2025-10-09 14:19:00,2025-10,Thursday,9,14
+TRX00985,2025-10-09,03:21,income,Investment Return,6376715.79,PD Wulandari Prayoga,Income received,Bank Transfer,2025-10-09 03:21:00,2025-10,Thursday,9,3
+TRX00922,2025-10-10,15:23,expense,Health,980323.04,PD Wijaya (Persero) Tbk,Aut nesciunt pariatur porro in.,Debit Card,2025-10-10 15:23:00,2025-10,Friday,10,15
+TRX00235,2025-10-10,08:02,expense,Bills,1437912.1,CV Padmasari Permadi Tbk,Sint suscipit dolore.,E-Wallet,2025-10-10 08:02:00,2025-10,Friday,10,8
+TRX00960,2025-10-11,22:34,expense,Shopping,1707636.0,UD Laksmiwati Natsir,Aspernatur aspernatur accusamus.,Cash,2025-10-11 22:34:00,2025-10,Saturday,11,22
+TRX00603,2025-10-11,04:00,expense,Entertainment,438941.47,CV Winarsih Tbk,Neque optio fuga a recusandae.,E-Wallet,2025-10-11 04:00:00,2025-10,Saturday,11,4
+TRX00412,2025-10-12,09:49,income,Business,3314360.5,PT Laksita Hidayanto Tbk,Income received,Bank Transfer,2025-10-12 09:49:00,2025-10,Sunday,12,9
+TRX00546,2025-10-12,10:56,expense,Investment,4242105.27,PD Manullang Saefullah,Ullam iusto repudiandae fuga.,Credit Card,2025-10-12 10:56:00,2025-10,Sunday,12,10
+TRX00470,2025-10-12,02:43,expense,Bills,260906.2,PD Puspita Mayasari Tbk,Commodi quibusdam.,Cash,2025-10-12 02:43:00,2025-10,Sunday,12,2
+TRX00073,2025-10-12,23:15,expense,Investment,6781773.5,CV Setiawan,Deleniti molestias.,Cash,2025-10-12 23:15:00,2025-10,Sunday,12,23
+TRX00870,2025-10-12,07:54,expense,Food,250422.74,PT Anggriawan Maheswara,Nesciunt iure enim laborum placeat.,E-Wallet,2025-10-12 07:54:00,2025-10,Sunday,12,7
+TRX00505,2025-10-12,02:10,expense,Investment,2222101.42,Perum Saputra Ramadan (Persero) Tbk,Delectus deleniti eum.,Debit Card,2025-10-12 02:10:00,2025-10,Sunday,12,2
+TRX00558,2025-10-13,07:53,expense,Bills,378901.38,PD Hutapea Mulyani,Neque tempora harum.,E-Wallet,2025-10-13 07:53:00,2025-10,Monday,13,7
+TRX00196,2025-10-13,09:35,expense,Bills,797327.05,UD Adriansyah Irawan (Persero) Tbk,Rem blanditiis nulla minus.,Debit Card,2025-10-13 09:35:00,2025-10,Monday,13,9
+TRX00915,2025-10-14,05:33,income,Salary,13833165.46,CV Nuraini Wulandari,Income received,Bank Transfer,2025-10-14 05:33:00,2025-10,Tuesday,14,5
+TRX00987,2025-10-14,00:23,expense,Food,167697.35,CV Manullang Wasita,Maiores dolor sit enim aliquid.,Cash,2025-10-14 00:23:00,2025-10,Tuesday,14,0
+TRX00968,2025-10-14,00:28,income,Business,3983588.82,Perum Usamah,Income received,Bank Transfer,2025-10-14 00:28:00,2025-10,Tuesday,14,0
+TRX00305,2025-10-15,00:00,expense,Shopping,509782.79,PT Kuswandari (Persero) Tbk,Asperiores labore.,E-Wallet,2025-10-15 00:00:00,2025-10,Wednesday,15,0
+TRX00996,2025-10-15,16:23,expense,Food,278040.62,UD Hidayat Latupono,Maxime enim.,Credit Card,2025-10-15 16:23:00,2025-10,Wednesday,15,16
+TRX00760,2025-10-15,14:58,expense,Transport,183135.15,PT Farida Tbk,Nemo atque.,Cash,2025-10-15 14:58:00,2025-10,Wednesday,15,14
+TRX00839,2025-10-16,05:05,expense,Entertainment,881362.14,Perum Sitorus (Persero) Tbk,Laborum in aliquid sint.,Credit Card,2025-10-16 05:05:00,2025-10,Thursday,16,5
+TRX00948,2025-10-16,07:08,expense,Shopping,686724.32,UD Manullang Hutasoit Tbk,Odit amet excepturi dolorum laborum.,Debit Card,2025-10-16 07:08:00,2025-10,Thursday,16,7
+TRX00431,2025-10-17,18:38,expense,Investment,5908886.82,Perum Wijayanti,Quas vitae.,E-Wallet,2025-10-17 18:38:00,2025-10,Friday,17,18
+TRX00910,2025-10-17,14:06,expense,Transport,140922.61,UD Wasita (Persero) Tbk,Dolore ipsa natus dolorem repellendus.,Credit Card,2025-10-17 14:06:00,2025-10,Friday,17,14
+TRX00230,2025-10-17,08:48,income,Freelance,12355013.68,Perum Sitompul,Income received,Bank Transfer,2025-10-17 08:48:00,2025-10,Friday,17,8
+TRX00430,2025-10-17,01:21,income,Investment Return,5593085.44,CV Lestari,Income received,Bank Transfer,2025-10-17 01:21:00,2025-10,Friday,17,1
+TRX00161,2025-10-17,12:30,expense,Health,1167523.62,CV Pudjiastuti,Iusto consectetur ipsam reprehenderit placeat.,Cash,2025-10-17 12:30:00,2025-10,Friday,17,12
+TRX00630,2025-10-18,11:16,income,Freelance,7008599.59,Perum Simbolon Aryani,Income received,Bank Transfer,2025-10-18 11:16:00,2025-10,Saturday,18,11
+TRX00971,2025-10-18,17:35,expense,Food,297357.43,Perum Kusumo (Persero) Tbk,Earum reprehenderit molestias.,Credit Card,2025-10-18 17:35:00,2025-10,Saturday,18,17
+TRX00711,2025-10-18,05:47,expense,Bills,1257312.88,UD Maheswara Usamah Tbk,Dignissimos consequuntur.,E-Wallet,2025-10-18 05:47:00,2025-10,Saturday,18,5
+TRX00572,2025-10-18,21:40,expense,Shopping,489464.3,UD Mardhiyah Tbk,Quod esse dignissimos facilis.,Debit Card,2025-10-18 21:40:00,2025-10,Saturday,18,21
+TRX00749,2025-10-19,06:56,expense,Entertainment,866804.94,UD Manullang (Persero) Tbk,Libero accusantium ea quidem.,Debit Card,2025-10-19 06:56:00,2025-10,Sunday,19,6
+TRX00609,2025-10-19,03:46,expense,Education,2371747.57,Perum Yulianti Mayasari,Amet ratione dicta ullam.,Cash,2025-10-19 03:46:00,2025-10,Sunday,19,3
+TRX00995,2025-10-19,18:05,expense,Investment,4035975.48,UD Maulana,Ullam temporibus eveniet commodi pariatur.,E-Wallet,2025-10-19 18:05:00,2025-10,Sunday,19,18
+TRX00163,2025-10-19,18:50,expense,Entertainment,587232.93,Perum Handayani Tbk,Reprehenderit corporis nemo.,Debit Card,2025-10-19 18:50:00,2025-10,Sunday,19,18
+TRX00918,2025-10-21,22:42,expense,Food,351548.63,PD Astuti Usada,Neque rerum cum iure.,Cash,2025-10-21 22:42:00,2025-10,Tuesday,21,22
+TRX00975,2025-10-22,14:49,income,Investment Return,5796873.74,PT Astuti Yulianti,Income received,Bank Transfer,2025-10-22 14:49:00,2025-10,Wednesday,22,14
+TRX00241,2025-10-23,15:40,expense,Food,180324.26,PD Firgantoro (Persero) Tbk,Eaque nihil.,Cash,2025-10-23 15:40:00,2025-10,Thursday,23,15
+TRX00586,2025-10-23,07:12,expense,Education,4343998.58,UD Riyanti Pratama Tbk,Illo impedit similique.,Debit Card,2025-10-23 07:12:00,2025-10,Thursday,23,7
+TRX00945,2025-10-23,22:17,income,Freelance,8231942.17,Perum Najmudin Maulana,Income received,Bank Transfer,2025-10-23 22:17:00,2025-10,Thursday,23,22
+TRX00799,2025-10-24,05:34,expense,Bills,409734.18,CV Dongoran Tbk,Numquam voluptatum.,Credit Card,2025-10-24 05:34:00,2025-10,Friday,24,5
+TRX00205,2025-10-24,10:33,expense,Bills,972665.57,CV Marpaung (Persero) Tbk,Quos natus modi.,Debit Card,2025-10-24 10:33:00,2025-10,Friday,24,10
+TRX00422,2025-10-25,20:03,expense,Food,171290.97,UD Mansur,Praesentium quaerat adipisci beatae consectetur.,Credit Card,2025-10-25 20:03:00,2025-10,Saturday,25,20
+TRX00044,2025-10-25,15:40,expense,Entertainment,217128.99,PT Sinaga Usamah (Persero) Tbk,Tenetur maxime architecto.,E-Wallet,2025-10-25 15:40:00,2025-10,Saturday,25,15
+TRX00911,2025-10-26,14:34,expense,Bills,171610.29,CV Hutasoit Latupono,Quaerat facere doloremque.,Credit Card,2025-10-26 14:34:00,2025-10,Sunday,26,14
+TRX00624,2025-10-26,16:39,expense,Food,44800.99,PT Hutasoit Tbk,Veritatis enim reiciendis suscipit natus.,Cash,2025-10-26 16:39:00,2025-10,Sunday,26,16
+TRX00480,2025-10-27,05:48,expense,Bills,110729.65,UD Oktaviani Firgantoro (Persero) Tbk,Dolor maxime ullam fugit.,Debit Card,2025-10-27 05:48:00,2025-10,Monday,27,5
+TRX00731,2025-10-27,13:42,expense,Investment,2901086.48,Perum Waskita Maryadi,Ab repellat nam harum.,Cash,2025-10-27 13:42:00,2025-10,Monday,27,13
+TRX00913,2025-10-27,20:02,expense,Entertainment,117597.89,UD Yolanda Pradana Tbk,Nisi culpa dicta culpa corporis.,Credit Card,2025-10-27 20:02:00,2025-10,Monday,27,20
+TRX00783,2025-10-27,22:47,expense,Shopping,1413006.04,PD Susanti (Persero) Tbk,Placeat vel.,Cash,2025-10-27 22:47:00,2025-10,Monday,27,22
+TRX00347,2025-10-28,08:00,expense,Food,166651.67,Perum Waluyo Anggraini Tbk,Ab eaque.,E-Wallet,2025-10-28 08:00:00,2025-10,Tuesday,28,8
+TRX00117,2025-10-28,18:38,expense,Entertainment,179552.9,PD Pranowo Iswahyudi (Persero) Tbk,Quod sunt est.,E-Wallet,2025-10-28 18:38:00,2025-10,Tuesday,28,18
+TRX00192,2025-10-29,09:29,expense,Food,253966.98,CV Budiman (Persero) Tbk,Tempore sed quae explicabo.,Debit Card,2025-10-29 09:29:00,2025-10,Wednesday,29,9
+TRX00476,2025-10-29,01:26,expense,Investment,7692345.25,PT Suwarno,Explicabo voluptas occaecati sunt.,Cash,2025-10-29 01:26:00,2025-10,Wednesday,29,1
+TRX00093,2025-10-29,06:24,expense,Education,3163499.32,PT Rajata,Reprehenderit dolore sequi dolores.,E-Wallet,2025-10-29 06:24:00,2025-10,Wednesday,29,6
+TRX00511,2025-10-29,18:02,expense,Education,1860499.62,Perum Siregar Hasanah,Magni ratione rerum ad.,E-Wallet,2025-10-29 18:02:00,2025-10,Wednesday,29,18
+TRX00770,2025-10-29,04:44,income,Investment Return,8173348.86,Perum Sihotang Kuswoyo (Persero) Tbk,Income received,Bank Transfer,2025-10-29 04:44:00,2025-10,Wednesday,29,4
+TRX00610,2025-10-30,04:24,expense,Health,795800.14,PD Hassanah Safitri (Persero) Tbk,Vitae aliquid.,Credit Card,2025-10-30 04:24:00,2025-10,Thursday,30,4
+TRX00871,2025-10-30,06:46,income,Freelance,8329242.68,Perum Hastuti,Income received,Bank Transfer,2025-10-30 06:46:00,2025-10,Thursday,30,6
+TRX00461,2025-10-31,05:22,income,Freelance,13300100.12,Perum Hutasoit Tbk,Income received,Bank Transfer,2025-10-31 05:22:00,2025-10,Friday,31,5
+TRX00228,2025-10-31,01:24,expense,Bills,1140693.95,UD Usada Haryanto,Dicta consequuntur delectus.,E-Wallet,2025-10-31 01:24:00,2025-10,Friday,31,1
+TRX00265,2025-10-31,12:16,expense,Investment,1104584.86,PT Aryani Najmudin (Persero) Tbk,Aliquid ipsum debitis blanditiis.,Debit Card,2025-10-31 12:16:00,2025-10,Friday,31,12
+TRX00942,2025-10-31,00:35,expense,Health,862832.87,UD Lestari,Perferendis et nihil autem perferendis.,Cash,2025-10-31 00:35:00,2025-10,Friday,31,0
+TRX00242,2025-11-01,05:59,expense,Shopping,401349.7,PD Natsir,Expedita a explicabo.,Credit Card,2025-11-01 05:59:00,2025-11,Saturday,1,5
+TRX00095,2025-11-02,02:44,expense,Health,83493.25,UD Prasetya Nashiruddin Tbk,Facere maxime.,E-Wallet,2025-11-02 02:44:00,2025-11,Sunday,2,2
+TRX00900,2025-11-02,05:05,expense,Bills,944667.87,CV Kuswoyo Tbk,Voluptatum natus doloremque.,E-Wallet,2025-11-02 05:05:00,2025-11,Sunday,2,5
+TRX00809,2025-11-02,12:01,income,Business,4148748.66,UD Suartini,Income received,Bank Transfer,2025-11-02 12:01:00,2025-11,Sunday,2,12
+TRX00935,2025-11-03,23:50,expense,Transport,250837.14,PT Mangunsong Ramadan (Persero) Tbk,Labore a sunt.,Credit Card,2025-11-03 23:50:00,2025-11,Monday,3,23
+TRX00383,2025-11-03,12:52,expense,Health,2764876.68,UD Maryadi,Placeat omnis.,E-Wallet,2025-11-03 12:52:00,2025-11,Monday,3,12
+TRX00097,2025-11-04,16:24,expense,Education,4408696.08,CV Gunarto Waluyo (Persero) Tbk,Doloribus quia ullam eligendi alias.,Debit Card,2025-11-04 16:24:00,2025-11,Tuesday,4,16
+TRX00391,2025-11-04,17:01,income,Salary,11223576.19,UD Laksita Hidayat Tbk,Income received,Bank Transfer,2025-11-04 17:01:00,2025-11,Tuesday,4,17
+TRX00665,2025-11-04,02:44,expense,Education,4219196.41,Perum Permadi,Quos non sit.,Credit Card,2025-11-04 02:44:00,2025-11,Tuesday,4,2
+TRX00694,2025-11-04,23:14,expense,Transport,28867.43,PT Mahendra (Persero) Tbk,Deleniti illum repellat dicta.,E-Wallet,2025-11-04 23:14:00,2025-11,Tuesday,4,23
+TRX00651,2025-11-04,08:41,expense,Food,356416.47,Perum Pratiwi (Persero) Tbk,Voluptate tempora vel.,Cash,2025-11-04 08:41:00,2025-11,Tuesday,4,8
+TRX00889,2025-11-04,13:29,expense,Investment,9469434.34,PD Wastuti,Temporibus sint doloribus.,Cash,2025-11-04 13:29:00,2025-11,Tuesday,4,13
+TRX00415,2025-11-05,16:20,expense,Shopping,970555.08,Perum Saputra,Qui sint.,Cash,2025-11-05 16:20:00,2025-11,Wednesday,5,16
+TRX00494,2025-11-06,16:40,income,Freelance,9389912.39,UD Safitri Halim Tbk,Income received,Bank Transfer,2025-11-06 16:40:00,2025-11,Thursday,6,16
+TRX00983,2025-11-06,04:04,expense,Education,4643111.3,PD Tarihoran Manullang,A molestiae ab.,E-Wallet,2025-11-06 04:04:00,2025-11,Thursday,6,4
+TRX00129,2025-11-06,15:16,income,Freelance,13419613.28,Perum Natsir (Persero) Tbk,Income received,Bank Transfer,2025-11-06 15:16:00,2025-11,Thursday,6,15
+TRX00062,2025-11-06,07:51,expense,Education,1097354.4,Perum Nasyidah (Persero) Tbk,Sapiente minus nemo.,Debit Card,2025-11-06 07:51:00,2025-11,Thursday,6,7
+TRX00408,2025-11-06,00:17,expense,Education,2171399.01,PT Sihotang Pertiwi,Libero quae expedita fuga modi.,Cash,2025-11-06 00:17:00,2025-11,Thursday,6,0
+TRX00713,2025-11-07,12:48,income,Business,3269110.67,UD Susanti Wahyuni (Persero) Tbk,Income received,Bank Transfer,2025-11-07 12:48:00,2025-11,Friday,7,12
+TRX00856,2025-11-08,19:38,expense,Investment,6682377.93,PT Adriansyah Tbk,Voluptas maiores laboriosam adipisci.,Cash,2025-11-08 19:38:00,2025-11,Saturday,8,19
+TRX00977,2025-11-08,19:48,expense,Investment,2993655.45,Perum Uwais (Persero) Tbk,Alias cum non nesciunt perferendis.,Debit Card,2025-11-08 19:48:00,2025-11,Saturday,8,19
+TRX00587,2025-11-08,00:42,expense,Health,2016471.41,UD Mangunsong Utama,Aut tempore.,Credit Card,2025-11-08 00:42:00,2025-11,Saturday,8,0
+TRX00622,2025-11-08,16:18,expense,Transport,237918.81,Perum Prastuti Tbk,Aut nesciunt.,Credit Card,2025-11-08 16:18:00,2025-11,Saturday,8,16
+TRX00643,2025-11-08,03:58,expense,Food,306880.78,PT Pradipta,Aperiam exercitationem consectetur.,Cash,2025-11-08 03:58:00,2025-11,Saturday,8,3
+TRX00270,2025-11-09,08:12,expense,Food,59604.1,Perum Kusumo,Beatae quaerat ea.,Cash,2025-11-09 08:12:00,2025-11,Sunday,9,8
+TRX00446,2025-11-09,19:33,income,Freelance,3952879.02,UD Firmansyah Hartati Tbk,Income received,Bank Transfer,2025-11-09 19:33:00,2025-11,Sunday,9,19
+TRX00336,2025-11-09,06:03,expense,Food,232356.77,PT Wijayanti Tbk,Reiciendis omnis eius repellat.,E-Wallet,2025-11-09 06:03:00,2025-11,Sunday,9,6
+TRX00598,2025-11-10,03:04,expense,Food,365196.75,CV Hartati Habibi,Dolorum excepturi esse.,E-Wallet,2025-11-10 03:04:00,2025-11,Monday,10,3
+TRX00680,2025-11-10,00:33,expense,Health,115317.35,Perum Nugroho Pertiwi Tbk,Illo aut.,Credit Card,2025-11-10 00:33:00,2025-11,Monday,10,0
+TRX00661,2025-11-10,10:57,expense,Investment,1197219.96,PD Rahayu (Persero) Tbk,Ex labore eum dolores.,E-Wallet,2025-11-10 10:57:00,2025-11,Monday,10,10
+TRX00240,2025-11-10,12:32,expense,Bills,1330081.98,UD Budiyanto Tbk,Debitis dolor voluptatum quae.,Credit Card,2025-11-10 12:32:00,2025-11,Monday,10,12
+TRX00397,2025-11-10,20:45,expense,Transport,190555.85,PD Simbolon,Autem cupiditate ea soluta.,Credit Card,2025-11-10 20:45:00,2025-11,Monday,10,20
+TRX00941,2025-11-11,18:17,income,Investment Return,9606380.17,PT Nugroho,Income received,Bank Transfer,2025-11-11 18:17:00,2025-11,Tuesday,11,18
+TRX00416,2025-11-12,03:38,income,Business,8957533.83,PT Marbun Pudjiastuti (Persero) Tbk,Income received,Bank Transfer,2025-11-12 03:38:00,2025-11,Wednesday,12,3
+TRX00716,2025-11-12,14:42,income,Freelance,9760744.21,PD Ramadan Pranowo,Income received,Bank Transfer,2025-11-12 14:42:00,2025-11,Wednesday,12,14
+TRX00167,2025-11-12,23:36,expense,Bills,1090134.09,CV Safitri Sitompul,Voluptates tempore reprehenderit.,Debit Card,2025-11-12 23:36:00,2025-11,Wednesday,12,23
+TRX00707,2025-11-13,07:00,expense,Food,242715.26,CV Budiyanto (Persero) Tbk,Temporibus nostrum exercitationem.,Debit Card,2025-11-13 07:00:00,2025-11,Thursday,13,7
+TRX00961,2025-11-14,18:48,expense,Health,234172.42,UD Usamah,Laborum impedit.,Credit Card,2025-11-14 18:48:00,2025-11,Friday,14,18
+TRX00344,2025-11-16,20:19,expense,Food,319321.13,PD Novitasari Anggraini,Maxime laboriosam illo natus qui.,Debit Card,2025-11-16 20:19:00,2025-11,Sunday,16,20
+TRX00124,2025-11-16,02:31,expense,Food,247501.59,CV Usada Aryani,Voluptatum incidunt.,Cash,2025-11-16 02:31:00,2025-11,Sunday,16,2
+TRX00178,2025-11-16,12:29,expense,Food,379981.03,CV Anggriawan Putra (Persero) Tbk,Maxime dicta non optio.,Credit Card,2025-11-16 12:29:00,2025-11,Sunday,16,12
+TRX00792,2025-11-16,10:27,income,Investment Return,4239180.11,PT Damanik Haryanti Tbk,Income received,Bank Transfer,2025-11-16 10:27:00,2025-11,Sunday,16,10
+TRX00689,2025-11-16,19:56,expense,Shopping,1965243.95,UD Rajasa Tbk,Aspernatur dolorum eaque repudiandae voluptate.,Debit Card,2025-11-16 19:56:00,2025-11,Sunday,16,19
+TRX00003,2025-11-16,20:01,expense,Health,2179896.38,Perum Sitorus Tbk,Natus corrupti ab beatae.,Debit Card,2025-11-16 20:01:00,2025-11,Sunday,16,20
+TRX00739,2025-11-16,07:28,expense,Investment,3092553.93,UD Hutagalung (Persero) Tbk,Tenetur labore repellendus minima maxime.,E-Wallet,2025-11-16 07:28:00,2025-11,Sunday,16,7
